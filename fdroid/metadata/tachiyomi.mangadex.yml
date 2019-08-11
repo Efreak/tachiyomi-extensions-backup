@@ -9,10 +9,11 @@ Name: Neko
 SourceCode: 'https://github.com/CarlosEsco/Neko'
 Summary: 'Free, open source, unofficial MangaDex reader forked from Tachiyomi'
 Description: |-
-    == Goal ==
+    Goal:
+
     Using Tachiyomi as a base to add MangaDex specific features.
     
-    == Features ==
+    Features:
     * Supports login to MangaDex
     * Local reading of downloaded manga
     * [https://myanimelist.net/ MyAnimeList], [https://anilist.co/ AniList], [https://kitsu.io/explore/anime Kitsu] and [https://shikimori.org/ Shikimori] support.

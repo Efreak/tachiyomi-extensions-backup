@@ -10,16 +10,17 @@ SourceCode: 'https://github.com/sketchpunk/opencomicreader'
 Summary: 'Comic/Manga viewer for Android devices'
 WebSite: 'https://github.com/sketchpunk/opencomicreader'
 Description: |-
-    = Open Comic Reader =
+    Open Comic Reader
     
-    == Purpose ==
+    Purpose:
+
     The point of this project is to create a really great app for reading comics. I’ve used a few, while some are good none of them feel perfect. Either it’s a bit slow, the interface isn’t well put together, lacking good features, etc. Then there are ads, which I hate the most
     
     I want the development of the app to be fun, something that can be built together with people who really love reading comics and want the best possible app to make it easy and fun to do
     
     [https://play.google.com/store/apps/details?id=com.sketchpunk.ocomicreader Google Play Store Link]
     
-    == Feature list ==
+    Feature list:
     * Bar minimum permissions
     * Opens ZIP/CBZ, RAR/CBR and Image Folders.
     * Save reading progress and resume last read page
