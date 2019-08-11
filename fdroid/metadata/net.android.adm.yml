@@ -8,12 +8,13 @@ IssueTracker: 'https://bitbucket.org/cylonu87/animedlr/issues'
 Name: AnimeDLR
 SourceCode: 'https://bitbucket.org/cylonu87/animedlr/src'
 Summary: 'AnimeDLR is an anime downloader for android'
-WebSite: 'https://cyberneticlifeform.wixsite.com/cylonu87/animedlr'
+WebSite: 'https://cylonu87.github.io/androidapps/animedlr'
 Description: |-
     AnimeDLR is an anime downloader for android.
+
     Features:
-    - Watch online without download.
-    - Watch offline downloaded animes.
-    - Search series by name, genres, authors, ...
-    - Show latest episodes, popular series.
-    - Bookmarks series. 
+    * Watch online without download.
+    * Watch offline downloaded animes.
+    * Search series by name, genres, authors, ...
+    * Show latest episodes, popular series.
+    * Bookmarks series. 
