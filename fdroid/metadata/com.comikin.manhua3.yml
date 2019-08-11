@@ -4,7 +4,7 @@ Categories:
 - Closed Source
 CurrentVersionCode: 2147483647
 Name: Manga Bird
-Summary: |-
+Description: |-
     Edit: This app is NOT open source!
     Biggest manga library
     
@@ -29,5 +29,6 @@ Summary: |-
     - One key clean-up in storages
     - Search mangas from all manga websites in the same time.
 WebSite: 'http://mangabirdapp.com/'
-AntiFeatures: UpstreamNonFree
-AntiFeatures: NoSourceSince
+AntiFeatures:
+- UpstreamNonFree
+- NoSourceSince
