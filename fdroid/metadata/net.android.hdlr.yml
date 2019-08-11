@@ -16,3 +16,6 @@ Description: |-
     * Bookmark series
     * Stream or download videos
     * Download queue.
+AntiFeatures:
+- Tracking
+- UpstreamNonFree

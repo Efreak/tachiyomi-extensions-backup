@@ -29,4 +29,7 @@ Description: |-
     * Create backups locally to read offline or to your desired cloud service.
 
 License: 'Apache-2.0'
-AntiFeatures: 'ApplicationDebuggable'
+AntiFeatures:
+- Tracking
+- UpstreamNonFree
+- ApplicationDebuggable

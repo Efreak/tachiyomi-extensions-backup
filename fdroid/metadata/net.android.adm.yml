@@ -18,3 +18,7 @@ Description: |-
     * Search series by name, genres, authors, ...
     * Show latest episodes, popular series.
     * Bookmarks series. 
+AntiFeatures:
+- Tracking
+- UpstreamNonFree
+- Ads

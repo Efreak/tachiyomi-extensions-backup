@@ -21,3 +21,7 @@ Description: |-
     * Light or dark theme.
     * Libraries can be accessed offline.
     * List or grid view.
+AntiFeatures:
+- Tracking
+- UpstreamNonFree
+- Ads
