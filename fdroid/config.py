@@ -34,6 +34,19 @@ keystorepass = "$KEYSTOREPASS"
 keypass = "$KEYPASS"
 keydname = "CN=Lenovo.localdomain, OU=F-Droid"
 
+# Any mirrors of this repo, for example all of the servers declared in
+# serverwebroot and all the servers declared in servergitmirrors,
+# will automatically be used by the client.  If one
+# mirror is not working, then the client will try another.  If the
+# client has Tor enabled, then the client will prefer mirrors with
+# .onion addresses. This base URL will be used for both the main repo
+# and the archive, if it is enabled.  So these URLs should end in the
+# 'fdroid' base of the F-Droid part of the web server like serverwebroot.
+#
+mirrors = (
+    'https://tachiext.netlify.com',
+)
+
 # Set this to true to always use a build server. This saves specifying the
 # --server option on dedicated secure build server hosts.
 # build_server_always = True
