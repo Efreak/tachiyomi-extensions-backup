@@ -2,7 +2,7 @@
 
 sdk_path = "$ANDROID_HOME"
 
-repo_url = "https://efreak.github.io/tachiyomi-extensions/fdroid/repo"
+repo_url = "https://tachi.efreakbnc.net/fdroid/repo"
 repo_name = "Unofficial Tachiyomi Extensions F-Droid Repo"
 repo_icon = "fdroid-icon.png"
 repo_description = """
@@ -12,7 +12,7 @@ signed by the developers of Tachiyomi and copied to this directory.
 """
 
 archive_older = 1
-archive_url = "https://efreak.github.io/tachiyomi-extensions/fdroid/archive"
+archive_url = "https://tachi.efreakbnc.net/fdroid/archive"
 archive_name = "Unofficial Tachiyomi Extensions F-Droid Archive"
 archive_icon = "fdroid-icon.png"
 archive_description = """
