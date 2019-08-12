@@ -18,4 +18,6 @@
 !/fdroid/repo/**
 !/fdroid/srclibs/
 !/fdroid/srclibs/**
-!/fdroid/runtime.txt
+!/runtime.txt
+!/requirements.txt
+!/_redirects

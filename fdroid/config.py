@@ -44,7 +44,7 @@ keydname = "CN=Lenovo.localdomain, OU=F-Droid"
 # 'fdroid' base of the F-Droid part of the web server like serverwebroot.
 #
 mirrors = (
-    'https://tachiext.netlify.com',
+    'https://tachiext.netlify.com/fdroid',
 )
 
 # Set this to true to always use a build server. This saves specifying the
