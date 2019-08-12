@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import os
+
 sdk_path = "$ANDROID_HOME"
 
 repo_url = "https://tachi.efreakbnc.net/fdroid/repo"
@@ -29,9 +31,9 @@ make_current_version_link = False
 # gpgkey = '1DBA2E89'
 
 repo_keyalias = "Lenovo.localdomain"
-keystore = "$KEYSTORE"
-keystorepass = "$KEYSTOREPASS"
-keypass = "$KEYPASS"
+keystore = os.environ["KEYSTORE"]
+keystorepass = os.environ["KEYSTOREPASS"]
+keypass = os.environ["KEYPASS"]
 keydname = "CN=Lenovo.localdomain, OU=F-Droid"
 
 # Any mirrors of this repo, for example all of the servers declared in
