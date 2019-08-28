@@ -22,3 +22,5 @@
 !/requirements.txt
 !/_redirects
 !/fdroid/index.html
+!/fdroid/tmp/
+!/fdroid/tmp/**
