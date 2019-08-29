@@ -9710,5 +9710,81 @@
     "apkName": "meow-v1.0.6.x.apk",
     "icon": "top.rechinx.meow.6.png",
     "added": 1566979105.366814
+  },
+  "tachiyomi-all.komga-v1.2.1.apk": {
+    "hash": "b58ee01635d442e938bf1cb198f53f5922b33f0df3ca6f497bb926201c884667",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.komga.1.png",
+      "480": "eu.kanade.tachiyomi.extension.all.komga.1.png",
+      "320": "eu.kanade.tachiyomi.extension.all.komga.1.png",
+      "240": "eu.kanade.tachiyomi.extension.all.komga.1.png",
+      "160": "eu.kanade.tachiyomi.extension.all.komga.1.png",
+      "0": "eu.kanade.tachiyomi.extension.all.komga.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.komga",
+    "versionCode": 1,
+    "name": "Tachiyomi: Komga",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 74937,
+    "apkName": "tachiyomi-all.komga-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.komga.1.png",
+    "added": 1567069096.551937
+  },
+  "tachiyomi-ja.rawdevart-v1.2.1.apk": {
+    "hash": "93b891c20380fcd6d85b68a4df7f8a66e65a60ab4973ef9f566e7c5f38e007de",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ja.rawdevart.1.png",
+      "480": "eu.kanade.tachiyomi.extension.ja.rawdevart.1.png",
+      "320": "eu.kanade.tachiyomi.extension.ja.rawdevart.1.png",
+      "240": "eu.kanade.tachiyomi.extension.ja.rawdevart.1.png",
+      "160": "eu.kanade.tachiyomi.extension.ja.rawdevart.1.png",
+      "0": "eu.kanade.tachiyomi.extension.ja.rawdevart.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ja.rawdevart",
+    "versionCode": 1,
+    "name": "Tachiyomi: Rawdevart",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 87032,
+    "apkName": "tachiyomi-ja.rawdevart-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ja.rawdevart.1.png",
+    "added": 1567069098.05737
   }
 }
