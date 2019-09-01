@@ -9862,5 +9862,43 @@
     "apkName": "tachiyomi-en.lhtranslation-v1.2.4.apk",
     "icon": "eu.kanade.tachiyomi.extension.en.lhtranslation.4.png",
     "added": 1567393307.469645
+  },
+  "tachiyomi-es.heavenmanga-v1.2.3.apk": {
+    "hash": "17f8ef3ba3813649b8c091fe983b35efc972e6031a79bd0a6a74bc34e23c5ae5",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.es.heavenmanga.3.png",
+      "480": "eu.kanade.tachiyomi.extension.es.heavenmanga.3.png",
+      "320": "eu.kanade.tachiyomi.extension.es.heavenmanga.3.png",
+      "240": "eu.kanade.tachiyomi.extension.es.heavenmanga.3.png",
+      "160": "eu.kanade.tachiyomi.extension.es.heavenmanga.3.png",
+      "0": "eu.kanade.tachiyomi.extension.es.heavenmanga.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.es.heavenmanga",
+    "versionCode": 3,
+    "name": "Tachiyomi: HeavenManga",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 74750,
+    "apkName": "tachiyomi-es.heavenmanga-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.es.heavenmanga.3.png",
+    "added": 1567393319.710484
   }
 }
