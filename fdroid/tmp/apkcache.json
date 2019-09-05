@@ -9976,5 +9976,43 @@
     "apkName": "tachiyomi-ru.mangahub-v1.2.3.apk",
     "icon": "eu.kanade.tachiyomi.extension.ru.mangahub.3.png",
     "added": 1567393346.953365
+  },
+  "tachiyomi-en.mangarock-v1.2.14.apk": {
+    "hash": "8aa0135efd2051157cf83a3543f0b542f0588f372ff9aa252ccfd472956c443e",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangarock.14.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangarock.14.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangarock.14.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangarock.14.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangarock.14.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangarock.14.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangarock",
+    "versionCode": 14,
+    "name": "Tachiyomi: Manga Rock",
+    "versionName": "1.2.14",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 58361,
+    "apkName": "tachiyomi-en.mangarock-v1.2.14.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangarock.14.png",
+    "added": 1567750395.698728
   }
 }
