@@ -10508,5 +10508,43 @@
     "apkName": "tachiyomi-en.mangastream-v1.2.3.apk",
     "icon": "eu.kanade.tachiyomi.extension.en.mangastream.3.png",
     "added": 1567917653.361645
+  },
+  "tachiyomi-en.perveden-v1.2.2.apk": {
+    "hash": "91859fc2835ab8b50a3f3ee33ec18cc8e0cb51ca67edbdbb5b1117edba1ff7a3",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.perveden.2.png",
+      "480": "eu.kanade.tachiyomi.extension.en.perveden.2.png",
+      "320": "eu.kanade.tachiyomi.extension.en.perveden.2.png",
+      "240": "eu.kanade.tachiyomi.extension.en.perveden.2.png",
+      "160": "eu.kanade.tachiyomi.extension.en.perveden.2.png",
+      "0": "eu.kanade.tachiyomi.extension.en.perveden.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.perveden",
+    "versionCode": 2,
+    "name": "Tachiyomi: Perveden",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 111605,
+    "apkName": "tachiyomi-en.perveden-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.perveden.2.png",
+    "added": 1567917665.190908
   }
 }
