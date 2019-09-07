@@ -10166,5 +10166,43 @@
     "apkName": "tachiyomi-en.heavenmanga-v1.2.3.apk",
     "icon": "eu.kanade.tachiyomi.extension.en.heavenmanga.3.png",
     "added": 1567877994.170448
+  },
+  "tachiyomi-en.mangakakalot-v1.2.7.apk": {
+    "hash": "15f2594718414763669e5c0267973c7492cbbd71941347ab098a3f182f162de1",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangakakalot.7.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangakakalot.7.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangakakalot.7.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangakakalot.7.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangakakalot.7.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangakakalot.7.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangakakalot",
+    "versionCode": 7,
+    "name": "Tachiyomi: MangaKakalot",
+    "versionName": "1.2.7",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 136193,
+    "apkName": "tachiyomi-en.mangakakalot-v1.2.7.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangakakalot.7.png",
+    "added": 1567878006.441217
   }
 }
