@@ -10052,5 +10052,43 @@
     "apkName": "tachiyomi-fr.mangakawaii-v1.2.2.apk",
     "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.2.png",
     "added": 1567750414.065343
+  },
+  "tachiyomi-all.komga-v1.2.2.apk": {
+    "hash": "699e94e70e4d0ef100965143a18e843c51bbc75349a7004221d4e82ad00e5d0c",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.komga.2.png",
+      "480": "eu.kanade.tachiyomi.extension.all.komga.2.png",
+      "320": "eu.kanade.tachiyomi.extension.all.komga.2.png",
+      "240": "eu.kanade.tachiyomi.extension.all.komga.2.png",
+      "160": "eu.kanade.tachiyomi.extension.all.komga.2.png",
+      "0": "eu.kanade.tachiyomi.extension.all.komga.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.komga",
+    "versionCode": 2,
+    "name": "Tachiyomi: Komga",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 74937,
+    "apkName": "tachiyomi-all.komga-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.komga.2.png",
+    "added": 1567877961.711044
   }
 }
