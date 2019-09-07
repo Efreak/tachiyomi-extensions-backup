@@ -10242,5 +10242,43 @@
     "apkName": "tachiyomi-en.mangakakalot-v1.2.8.apk",
     "icon": "eu.kanade.tachiyomi.extension.en.mangakakalot.8.png",
     "added": 1567878018.659116
+  },
+  "tachiyomi-en.mangareader-v1.2.4.apk": {
+    "hash": "d45da7209325a3baffb554696eeca28dbc01e4481e2e77dd3e7082f351d9b774",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangareader.4.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangareader.4.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangareader.4.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangareader.4.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangareader.4.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangareader.4.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangareader",
+    "versionCode": 4,
+    "name": "Tachiyomi: Mangareader & Mangapanda",
+    "versionName": "1.2.4",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 66662,
+    "apkName": "tachiyomi-en.mangareader-v1.2.4.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangareader.4.png",
+    "added": 1567878031.808534
   }
 }
