@@ -10964,5 +10964,43 @@
     "apkName": "tachiyomi-en.readmangatoday-v1.2.7.apk",
     "icon": "eu.kanade.tachiyomi.extension.en.readmangatoday.7.png",
     "added": 1568123457.23635
+  },
+  "tachiyomi-en.readmangatoday-v1.2.8.apk": {
+    "hash": "f84962a36df4ede1e79a30c0d8a2454bcb414322f1ea1a0ac1ed314b9e0fe66d",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readmangatoday.8.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readmangatoday.8.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readmangatoday.8.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readmangatoday.8.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readmangatoday.8.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readmangatoday.8.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readmangatoday",
+    "versionCode": 8,
+    "name": "Tachiyomi: ReadMangaToday",
+    "versionName": "1.2.8",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 70663,
+    "apkName": "tachiyomi-en.readmangatoday-v1.2.8.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readmangatoday.8.png",
+    "added": 1568123469.333903
   }
 }
