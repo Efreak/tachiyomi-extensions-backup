@@ -8,7 +8,7 @@ cd $HOME/fdroidserver/fdroid
 for file in $apkfiles
 do
 	cp $HOME/tachiyomi-extensions/apk/$file repo/$file
-	fdroid update -c #this takes too long. figure out a way to have netlify push the results back to github
+	fdroid update -c --use-date-from-apk --rename-apks #this takes too long. figure out a way to have netlify push the results back to github
 	git add archive repo metadata tmp
 	git commit -m "$file"
 done
