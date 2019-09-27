@@ -14,20 +14,4 @@ in the case of mangabird)
 # Updating
 If I don't update fast enough for you and you'd like to take over the work, let
 me know and I'll give you the config.py and the keyfile and such. The script
-I use to update is [here](fdroid/update-tachi.sh):
-
-```shell
-cd $HOME/tachiyomi-extensions
-git pull
-apkfiles="$(git diff --summary HEAD@{1} HEAD@{0} *.apk|grep create|sed -E 's/^.*?apk.(.*?\.apk)$/\1/g')"
-cd $HOME/fdroidserver/fdroid
-for file in $apkfiles
-do
-	cp $HOME/tachiyomi-extensions/apk/$file repo/$file
-	fdroid update -c #this takes too long. figure out a way to have netlify push the results back to github
-	git add archive repo metadata tmp
-	git commit -m "$file"
-done
-cd $HOME/fdroidserver/fdroid
-git push
-```
+I use to update is [update-tachi.sh](fdroid/update-tachi.sh).
