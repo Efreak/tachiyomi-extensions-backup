@@ -6162,7 +6162,7 @@
     "size": 14983528,
     "apkName": "net.android.mdm_135.apk",
     "icon": "net.android.mdm.135.png",
-    "added": 1569735341.86065
+    "added": 1570013027.745748
   },
   "net.cyl.ranobe_25.apk": {
     "hash": "fd4cf70e90795d70226a7c999b875f5a36d034d20d6872e5f30a3b5d51c74b44",
@@ -21688,5 +21688,257 @@
     "apkName": "tachiyomi-id.pecintakomik-v1.2.3.apk",
     "icon": "eu.kanade.tachiyomi.extension.id.pecintakomik.3.png",
     "added": 1569735342.551472
+  },
+  "tachiyomi.mangadex.15.apk": {
+    "hash": "08669df4f90cecb039950f3c7b8760eda01ae8c5412857358977e7884fc7c70a",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "tachiyomi.mangadex.15.xml",
+      "640": "tachiyomi.mangadex.15.png",
+      "480": "tachiyomi.mangadex.15.png",
+      "320": "tachiyomi.mangadex.15.png",
+      "240": "tachiyomi.mangadex.15.png",
+      "160": "tachiyomi.mangadex.15.png",
+      "0": "tachiyomi.mangadex.15.png"
+    },
+    "antiFeatures": [],
+    "packageName": "tachiyomi.mangadex",
+    "versionCode": 15,
+    "name": "Neko",
+    "versionName": "1.1.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 27,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86"
+    ],
+    "sig": "81688c90989dcd70e06a3951a90e102c",
+    "signer": "126b1f50861b46c7075bb9fb5210da82c34e417e6d8bc4df2e32313cb421d18c",
+    "size": 14471022,
+    "apkName": "tachiyomi.mangadex.15.apk",
+    "icon": "tachiyomi.mangadex.15.png",
+    "added": 1570012527.246767
+  },
+  "tachiyomi.mangadex.16.apk": {
+    "hash": "2a992ed43aadc7866da8132e9abac261e24fce0b349f6e8d2b02584020b15382",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "tachiyomi.mangadex.16.xml",
+      "640": "tachiyomi.mangadex.16.png",
+      "480": "tachiyomi.mangadex.16.png",
+      "320": "tachiyomi.mangadex.16.png",
+      "240": "tachiyomi.mangadex.16.png",
+      "160": "tachiyomi.mangadex.16.png",
+      "0": "tachiyomi.mangadex.16.png"
+    },
+    "antiFeatures": [],
+    "packageName": "tachiyomi.mangadex",
+    "versionCode": 16,
+    "name": "Neko",
+    "versionName": "1.1.1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 27,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86"
+    ],
+    "sig": "81688c90989dcd70e06a3951a90e102c",
+    "signer": "126b1f50861b46c7075bb9fb5210da82c34e417e6d8bc4df2e32313cb421d18c",
+    "size": 14470906,
+    "apkName": "tachiyomi.mangadex.16.apk",
+    "icon": "tachiyomi.mangadex.16.png",
+    "added": 1570012723.555594
+  },
+  "tachiyomi.mangadex.17.apk": {
+    "hash": "09ca355575ed7984e7a3f2f3ea96af306f6ce1650dc54c14994dd4efc08da6c6",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "tachiyomi.mangadex.17.xml",
+      "640": "tachiyomi.mangadex.17.png",
+      "480": "tachiyomi.mangadex.17.png",
+      "320": "tachiyomi.mangadex.17.png",
+      "240": "tachiyomi.mangadex.17.png",
+      "160": "tachiyomi.mangadex.17.png",
+      "0": "tachiyomi.mangadex.17.png"
+    },
+    "antiFeatures": [],
+    "packageName": "tachiyomi.mangadex",
+    "versionCode": 17,
+    "name": "Neko",
+    "versionName": "1.1.2",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 27,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86"
+    ],
+    "sig": "81688c90989dcd70e06a3951a90e102c",
+    "signer": "126b1f50861b46c7075bb9fb5210da82c34e417e6d8bc4df2e32313cb421d18c",
+    "size": 14471156,
+    "apkName": "tachiyomi.mangadex.17.apk",
+    "icon": "tachiyomi.mangadex.17.png",
+    "added": 1570013030.364301
   }
 }
