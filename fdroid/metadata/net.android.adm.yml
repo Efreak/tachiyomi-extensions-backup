@@ -1,8 +1,8 @@
 AuthorName: 'Cylon u87'
 Categories:
-- Anime
-- Multimedia
+- Manga/Anime
 - Internet
+- Multimedia
 CurrentVersionCode: 2147483647
 IssueTracker: 'https://bitbucket.org/cylonu87/animedlr/issues'
 Name: AnimeDLR
@@ -10,14 +10,14 @@ SourceCode: 'https://bitbucket.org/cylonu87/animedlr/src'
 Summary: 'AnimeDLR is an anime downloader for android'
 WebSite: 'https://cylonu87.github.io/androidapps/animedlr'
 Description: |-
-    AnimeDLR is an anime downloader for android.
+    AnimeDLR is an anime downloader for android
 
     Features:
-    * Watch online without download.
-    * Watch offline downloaded animes.
+    * Watch online without download
+    * Watch offline downloaded animes
     * Search series by name, genres, authors, ...
-    * Show latest episodes, popular series.
-    * Bookmarks series. 
+    * Show latest episodes, popular series
+    * Bookmarks series
 AntiFeatures:
 - Tracking
 - UpstreamNonFree

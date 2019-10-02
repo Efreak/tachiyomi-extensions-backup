@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1569990456000,
+    "timestamp": 1569992623000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -24,12 +24,12 @@
       ],
       "authorName": "Cylon u87",
       "categories": [
-        "Anime",
-        "Multimedia",
-        "Internet"
+        "Manga/Anime",
+        "Internet",
+        "Multimedia"
       ],
       "suggestedVersionCode": "2147483647",
-      "description": "<p>AnimeDLR is an anime downloader for android.</p><p>Features:</p><ul><li> Watch online without download.</li><li> Watch offline downloaded animes.</li><li> Search series by name, genres, authors, ...</li><li> Show latest episodes, popular series.</li><li> Bookmarks series. </li></ul>",
+      "description": "<p>AnimeDLR is an anime downloader for android</p><p>Features:</p><ul><li> Watch online without download</li><li> Watch offline downloaded animes</li><li> Search series by name, genres, authors, ...</li><li> Show latest episodes, popular series</li><li> Bookmarks series</li></ul>",
       "issueTracker": "https://bitbucket.org/cylonu87/animedlr/issues",
       "license": "Unknown",
       "name": "AnimeDLR",
@@ -48,9 +48,9 @@
       ],
       "authorName": "Cylon u87",
       "categories": [
-        "Anime",
-        "Multimedia",
-        "Internet"
+        "Manga/Anime",
+        "Internet",
+        "Multimedia"
       ],
       "suggestedVersionCode": "2147483647",
       "description": "<p>H-DLR is an application that allows you to grab hentai episodes on streaming sites so you can watch them online (no need to download the episode before watching it) or offline (the episode is downloaded before you can watch it) on your android device. You can keep track of the episodes watched, add series in your favorites.</p><p>Features</p><ul><li> Multiple sources</li><li> Bookmark series</li><li> Stream or download videos</li><li> Download queue.</li></ul>",
@@ -73,16 +73,17 @@
       ],
       "authorName": "Cylon u87",
       "categories": [
+        "Manga/Anime",
         "Internet",
         "Connectivity"
       ],
       "suggestedVersionCode": "2147483647",
-      "description": "<p>Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList to track your anime, manga and drama.</p><p>Features</p><ul><li> Manage your anime and manga: progress, status, rate.</li><li> Discover anime: top, popular, upcoming, airing, just added, seasonal.</li><li> Search anime and manga by name.</li><li> Manage your lists: Plan to watch/read, Watching/reading, On-hold, Dropped, Completed.</li><li> MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList sync.</li><li> Recommandations.</li><li> Light or dark theme.</li><li> Libraries can be accessed offline.</li><li> List or grid view.</li></ul>",
+      "description": "<p>Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList to track your anime, manga and drama</p><p>Features</p><ul><li> Manage your anime and manga: progress, status, rate</li><li> Discover anime: top, popular, upcoming, airing, just added, seasonal</li><li> Search anime and manga by name</li><li> Manage your lists: Plan to watch/read, Watching/reading, On-hold, Dropped, Completed</li><li> MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList sync</li><li> Recommandations</li><li> Light or dark theme</li><li> Libraries can be accessed offline</li><li> List or grid view</li></ul>",
       "issueTracker": "https://bitbucket.org/cylonu87/kamuy/issues",
       "license": "Unknown",
       "name": "Kamuy",
-      "sourceCode": "https://bitbucket.org/cylonu87/kamuy/src/master/",
-      "summary": "Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList to track your anime, manga and drama.",
+      "sourceCode": "https://bitbucket.org/cylonu87/kamuy/src/",
+      "summary": "Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList",
       "webSite": "https://cylonu87.github.io/androidapps/kamuy",
       "added": 1569610724000,
       "icon": "net.android.kamuy.36.png",
@@ -98,7 +99,8 @@
       ],
       "authorName": "Kmanga Works",
       "categories": [
-        "Manga Readers",
+        "Manga/Anime",
+        "Internet",
         "Reading",
         "Multimedia"
       ],
@@ -121,9 +123,10 @@
       ],
       "authorName": "Cylon u87",
       "categories": [
-        "Anime",
-        "Multimedia",
-        "Internet"
+        "Manga/Anime",
+        "Internet",
+        "Reading",
+        "Multimedia"
       ],
       "suggestedVersionCode": "2147483647",
       "description": "<p>MangaDLR is an android manga reader and downloader that helps you to download your manga, manhwa and comics from many online readers and save them in zip archives so you can read them offline. You can read them with its viewer or another image/picture viewer app without an internet connection, transfer these files to another device or computer,...</p><p>Disclaimer</p><p><i>All of the free manga found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free online manga should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the manga, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.</i></p><p>Features</p><ul><li> Choose the server where you want to read or download your manga.</li><li> Add manga to a download queue. The manga are downloaded in the background, you can continue to use the app while downloading.</li><li> Bookmark your preferred series, the last page read to continue later.</li><li> Read your downloaded manga online or offline with the manga reader or with your preferred image viewer.</li><li> Save your downloaded manga wherever you wish (internal memory, micro sd, ...)</li><li> Save multiple chapters in a single archive (to group them by volume)</li><li> Download selected chapters or all new chapters</li><li> Export your download in pdf, epub3.</li></ul>",
@@ -131,24 +134,25 @@
       "license": "Unknown",
       "name": "MangaDLR",
       "sourceCode": "https://bitbucket.org/cylonu87/mangadlr/src",
-      "summary": "MangaDLR is an android manga reader and downloader that helps you to download your manga, manhwa and comics from many online readers and save them in zip archives so you can read them offline.",
+      "summary": "MangaDLR is an android manga reader and downloader that supports CBZ.",
       "webSite": "https://cylonu87.github.io/androidapps/mangadlr",
-      "added": 1569990453000,
+      "added": 1569992620000,
       "icon": "net.android.mdm.135.png",
       "packageName": "net.android.mdm",
-      "lastUpdated": 1569990453000
+      "lastUpdated": 1569992620000
     },
     {
       "authorName": "ReChinX",
       "categories": [
-        "Manga Readers",
+        "Manga/Anime",
+        "Internet",
         "Reading",
         "Multimedia"
       ],
       "suggestedVersionCode": "2147483647",
-      "description": "<p>Features     * Page reading     * Scroll reading     * Auto update     * Login support     * Plugin-like comic source.</p>",
+      "description": "<p>Features</p><ul><li> Page reading</li><li> Scroll reading</li><li> Auto update</li><li> Login support</li><li> Plugin-like comic source.</li></ul>",
       "issueTracker": "https://github.com/neverfelly/Meow/issues",
-      "license": "GPL-3.0",
+      "license": "GPL-3.0-only",
       "name": "Meow",
       "sourceCode": "https://github.com/neverfelly/Meow",
       "summary": "Yet another free and open source manga reader",
@@ -161,7 +165,8 @@
     {
       "authorName": "Javier Tom\u00e1s",
       "categories": [
-        "Manga Readers",
+        "Manga/Anime",
+        "Internet",
         "Reading",
         "Multimedia"
       ],
@@ -181,12 +186,12 @@
     {
       "authorName": "sketchpunk",
       "categories": [
-        "Manga Readers",
+        "Manga/Anime",
         "Reading",
         "Multimedia"
       ],
       "suggestedVersionCode": "2147483647",
-      "description": "<p>Open Comic Reader</p><p>Purpose:</p><p>The point of this project is to create a really great app for reading comics. I\u2019ve used a few, while some are good none of them feel perfect. Either it\u2019s a bit slow, the interface isn\u2019t well put together, lacking good features, etc. Then there are ads, which I hate the most</p><p>I want the development of the app to be fun, something that can be built together with people who really love reading comics and want the best possible app to make it easy and fun to do</p><p><a href=\"https://play.google.com/store/apps/details?id=com.sketchpunk.ocomicreader\">Google Play Store Link</a></p><p>Feature list:</p><ul><li> Bar minimum permissions</li><li> Opens ZIP/CBZ, RAR/CBR and Image Folders.</li><li> Save reading progress and resume last read page</li><li> Page preloading</li><li> Choose to read from Left -&gt; Right or Right -&gt; Left</li><li> Side taps on the screen to progress through the pages</li><li> Comic library with grid of covers that can be customized </li><li> Pinch to zoom comic pages (one finger zoom, tap and hold to activate)</li><li> Double tap to zoom in, do it again to reset.</li><li> Two folders can be selected to sync comics from</li><li> Tap the left or Right side of a page for next/prev, Or Swipe from edge</li><li> Library Filtering</li><li> Group issues by Series, can even edit series</li><li> ComicRack Meta Data support for Folders and Zip/Cbz.</li></ul>",
+      "description": "<p>Open Comic Reader</p><p>Purpose:</p><p>The point of this project is to create a really great app for reading comics. I\u2019ve used a few, while some are good none of them feel perfect. Either it\u2019s a bit slow, the interface isn\u2019t well put together, lacking good features, etc. Then there are ads, which I hate the most</p><p>I want the development of the app to be fun, something that can be built together with people who really love reading comics and want the best possible app to make it easy and fun to do</p><p><a href=\"https://play.google.com/store/apps/details?id=com.sketchpunk.ocomicreader\">Google Play Store Link</a></p><p>Feature list:</p><ul><li> Bar minimum permissions</li><li> Opens ZIP/CBZ, RAR/CBR and Image Folders.</li><li> Save reading progress and resume last read page</li><li> Page preloading</li><li> Choose to read from Left -&gt; Right or Right -&gt; Left</li><li> Side taps on the screen to progress through the pages</li><li> Comic library with grid of covers that can be customized</li><li> Pinch to zoom comic pages (one finger zoom, tap and hold to activate)</li><li> Double tap to zoom in, do it again to reset.</li><li> Two folders can be selected to sync comics from</li><li> Tap the left or Right side of a page for next/prev, Or Swipe from edge</li><li> Library Filtering</li><li> Group issues by Series, can even edit series</li><li> ComicRack Meta Data support for Folders and Zip/Cbz.</li></ul>",
       "issueTracker": "https://github.com/sketchpunk/opencomicreader/issues",
       "license": "Unknown",
       "name": "Open ComicReader",
@@ -212,11 +217,11 @@
         "Multimedia"
       ],
       "suggestedVersionCode": "2147483647",
-      "description": "<p>Ranobe</p><p>Ranobe is an application that allows you to read light novel (japanese, chinese, korean) online or you can add them into your library to read them offline on your android device. You can keep track of the chapters read, add series in your favorites.</p><p>Disclaimer</p><p><i>All of the free light novel found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free LN should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the LN, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.</i></p><p>Features</p><ul><li> Choose the server where you want to read or download your Light Novel.</li><li> Add LN into your library.</li><li> Bookmark your preferred series.</li><li> Read online or offline.</li></ul>",
+      "description": "<p>Ranobe</p><p>Ranobe is an application that allows you to read light novel (japanese, chinese, korean) online or you can add them into your library to read them offline on your android device. You can keep track of the chapters read, add series in your favorites</p><p>Disclaimer</p><p><i>All of the free light novel found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free LN should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the LN, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law</i></p><p>Features</p><ul><li> Choose the server where you want to read or download your Light Novel</li><li> Add LN into your library</li><li> Bookmark your preferred series</li><li> Read online or offline</li></ul>",
       "issueTracker": "https://bitbucket.org/cylonu87/ranobe/issues",
       "license": "Unknown",
       "name": "Ranobe",
-      "summary": "Ranobe is an app to read light novel. You can read them online or add them into your library to read them offline.",
+      "summary": "Ranobe is an app to read and download light novels",
       "webSite": "https://cyberneticlifeform.wixsite.com/cylonu87/ranobe-lightnovel",
       "added": 1569610728000,
       "icon": "net.cyl.ranobe.25.png",
@@ -231,11 +236,10 @@
       ],
       "authorName": "inorichi",
       "categories": [
-        "Tachiyomi",
+        "Manga/Anime",
         "Internet",
         "Reading",
-        "Multimedia",
-        "Manga Readers"
+        "Multimedia"
       ],
       "changelog": "https://github.com/inorichi/tachiyomi/commits",
       "suggestedVersionCode": "2147483647",
@@ -258,11 +262,10 @@
       ],
       "authorName": "inorichi",
       "categories": [
-        "Tachiyomi",
+        "Manga/Anime",
         "Internet",
         "Reading",
-        "Multimedia",
-        "Manga Readers"
+        "Multimedia"
       ],
       "changelog": "https://github.com/inorichi/tachiyomi/releases",
       "suggestedVersionCode": "2147483647",
@@ -950,11 +953,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: Kiryuu",
+      "name": "Tachiyomi: Kiryuu (id)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Kiryuu Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1569989029000,
       "icon": "eu.kanade.tachiyomi.extension.id.kiryuu.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
@@ -2370,11 +2377,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: Scantrad",
+      "name": "Tachiyomi: Scantrad (fr)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Scantrad Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1569989011000,
       "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
@@ -2430,11 +2441,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: Shqqaa Manga",
+      "name": "Tachiyomi: Shqqaa Manga (ar)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Shqqaa Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1569988958000,
       "icon": "eu.kanade.tachiyomi.extension.ar.shqqaa.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.ar.shqqaa",
@@ -2618,11 +2633,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: West Manga",
+      "name": "Tachiyomi: West Manga (id)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi West Manga Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1569989062000,
       "icon": "eu.kanade.tachiyomi.extension.id.westmanga.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.westmanga",
@@ -6049,7 +6068,7 @@
     ],
     "net.android.mdm": [
       {
-        "added": 1569990453000,
+        "added": 1569992620000,
         "apkName": "net.android.mdm_135.apk",
         "hash": "03ab1cb1f9ed7b96d6c41ffc16b376612e9aa11b0f6c03ec6cf1aad60847099a",
         "hashType": "sha256",

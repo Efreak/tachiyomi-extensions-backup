@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1569990460000,
+    "timestamp": 1569992628000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -24,9 +24,10 @@
       ],
       "authorName": "Cylon u87",
       "categories": [
-        "Anime",
-        "Multimedia",
-        "Internet"
+        "Manga/Anime",
+        "Internet",
+        "Reading",
+        "Multimedia"
       ],
       "suggestedVersionCode": "2147483647",
       "description": "<p>MangaDLR is an android manga reader and downloader that helps you to download your manga, manhwa and comics from many online readers and save them in zip archives so you can read them offline. You can read them with its viewer or another image/picture viewer app without an internet connection, transfer these files to another device or computer,...</p><p>Disclaimer</p><p><i>All of the free manga found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free online manga should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the manga, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law.</i></p><p>Features</p><ul><li> Choose the server where you want to read or download your manga.</li><li> Add manga to a download queue. The manga are downloaded in the background, you can continue to use the app while downloading.</li><li> Bookmark your preferred series, the last page read to continue later.</li><li> Read your downloaded manga online or offline with the manga reader or with your preferred image viewer.</li><li> Save your downloaded manga wherever you wish (internal memory, micro sd, ...)</li><li> Save multiple chapters in a single archive (to group them by volume)</li><li> Download selected chapters or all new chapters</li><li> Export your download in pdf, epub3.</li></ul>",
@@ -34,17 +35,18 @@
       "license": "Unknown",
       "name": "MangaDLR",
       "sourceCode": "https://bitbucket.org/cylonu87/mangadlr/src",
-      "summary": "MangaDLR is an android manga reader and downloader that helps you to download your manga, manhwa and comics from many online readers and save them in zip archives so you can read them offline.",
+      "summary": "MangaDLR is an android manga reader and downloader that supports CBZ.",
       "webSite": "https://cylonu87.github.io/androidapps/mangadlr",
-      "added": 1569990453000,
+      "added": 1569992620000,
       "icon": "net.android.mdm.135.png",
       "packageName": "net.android.mdm",
-      "lastUpdated": 1569990453000
+      "lastUpdated": 1569992620000
     },
     {
       "authorName": "Javier Tom\u00e1s",
       "categories": [
-        "Manga Readers",
+        "Manga/Anime",
+        "Internet",
         "Reading",
         "Multimedia"
       ],
@@ -68,11 +70,10 @@
       ],
       "authorName": "inorichi",
       "categories": [
-        "Tachiyomi",
+        "Manga/Anime",
         "Internet",
         "Reading",
-        "Multimedia",
-        "Manga Readers"
+        "Multimedia"
       ],
       "changelog": "https://github.com/inorichi/tachiyomi/releases",
       "suggestedVersionCode": "2147483647",
@@ -3773,7 +3774,7 @@
     ],
     "net.android.mdm": [
       {
-        "added": 1569990453000,
+        "added": 1569992620000,
         "apkName": "net.android.mdm_135.apk",
         "hash": "41805abe99e4cdc3af4c91aeae321ee75dd63c34e20d1a64ca8af28a3e47a741",
         "hashType": "sha256",

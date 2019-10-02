@@ -1,13 +1,14 @@
 AuthorName: 'Cylon u87'
 Categories:
-- Anime
-- Multimedia
+- Manga/Anime
 - Internet
+- Reading
+- Multimedia
 CurrentVersionCode: 2147483647
 IssueTracker: 'https://bitbucket.org/cylonu87/mangadlr/issues'
 Name: MangaDLR
 SourceCode: 'https://bitbucket.org/cylonu87/mangadlr/src'
-Summary: 'MangaDLR is an android manga reader and downloader that helps you to download your manga, manhwa and comics from many online readers and save them in zip archives so you can read them offline.'
+Summary: 'MangaDLR is an android manga reader and downloader that supports CBZ.'
 Description: |-
     MangaDLR is an android manga reader and downloader that helps you to download your manga, manhwa and comics from many online readers and save them in zip archives so you can read them offline. You can read them with its viewer or another image/picture viewer app without an internet connection, transfer these files to another device or computer,...
     
