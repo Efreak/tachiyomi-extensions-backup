@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1569992628000,
+    "timestamp": 1569994395000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -15,6 +15,81 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "antiFeatures": [
+        "Tracking",
+        "UpstreamNonFree",
+        "Ads",
+        "NoSourceSince"
+      ],
+      "authorName": "Cylon u87",
+      "categories": [
+        "Manga/Anime",
+        "Internet",
+        "Multimedia"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>AnimeDLR is an anime downloader for android</p><p>Features:</p><ul><li> Watch online without download</li><li> Watch offline downloaded animes</li><li> Search series by name, genres, authors, ...</li><li> Show latest episodes, popular series</li><li> Bookmarks series</li></ul>",
+      "issueTracker": "https://bitbucket.org/cylonu87/animedlr/issues",
+      "license": "Unknown",
+      "name": "AnimeDLR",
+      "sourceCode": "https://bitbucket.org/cylonu87/animedlr/src",
+      "summary": "AnimeDLR is an anime downloader for android",
+      "webSite": "https://cylonu87.github.io/androidapps/animedlr",
+      "added": 1569610721000,
+      "icon": "net.android.adm.128.png",
+      "packageName": "net.android.adm",
+      "lastUpdated": 1569994389000
+    },
+    {
+      "antiFeatures": [
+        "Tracking",
+        "UpstreamNonFree"
+      ],
+      "authorName": "Cylon u87",
+      "categories": [
+        "Manga/Anime",
+        "Internet",
+        "Multimedia"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>H-DLR is an application that allows you to grab hentai episodes on streaming sites so you can watch them online (no need to download the episode before watching it) or offline (the episode is downloaded before you can watch it) on your android device. You can keep track of the episodes watched, add series in your favorites.</p><p>Features</p><ul><li> Multiple sources</li><li> Bookmark series</li><li> Stream or download videos</li><li> Download queue.</li></ul>",
+      "issueTracker": "https://www.reddit.com/r/AnimeDLR",
+      "license": "Unknown",
+      "name": "H-DLR",
+      "summary": "Enjoy your Hentai collection anywhere and anytime",
+      "webSite": "https://cylonu87.github.io/HDLR/",
+      "added": 1569610723000,
+      "icon": "net.android.hdlr.21.png",
+      "packageName": "net.android.hdlr",
+      "lastUpdated": 1569994348000
+    },
+    {
+      "antiFeatures": [
+        "Tracking",
+        "UpstreamNonFree",
+        "Ads",
+        "NoSourceSince"
+      ],
+      "authorName": "Cylon u87",
+      "categories": [
+        "Manga/Anime",
+        "Internet",
+        "Connectivity"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList to track your anime, manga and drama</p><p>Features</p><ul><li> Manage your anime and manga: progress, status, rate</li><li> Discover anime: top, popular, upcoming, airing, just added, seasonal</li><li> Search anime and manga by name</li><li> Manage your lists: Plan to watch/read, Watching/reading, On-hold, Dropped, Completed</li><li> MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList sync</li><li> Recommandations</li><li> Light or dark theme</li><li> Libraries can be accessed offline</li><li> List or grid view</li></ul>",
+      "issueTracker": "https://bitbucket.org/cylonu87/kamuy/issues",
+      "license": "Unknown",
+      "name": "Kamuy",
+      "sourceCode": "https://bitbucket.org/cylonu87/kamuy/src/",
+      "summary": "Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList",
+      "webSite": "https://cylonu87.github.io/androidapps/kamuy",
+      "added": 1569610724000,
+      "icon": "net.android.kamuy.36.png",
+      "packageName": "net.android.kamuy",
+      "lastUpdated": 1569994362000
+    },
     {
       "antiFeatures": [
         "Tracking",
@@ -62,6 +137,31 @@
       "icon": "tachiyomi.mangadex.16.png",
       "packageName": "tachiyomi.mangadex",
       "lastUpdated": 1569987830000
+    },
+    {
+      "antiFeatures": [
+        "Tracking",
+        "UpstreamNonFree",
+        "Ads",
+        "NoSourceSince"
+      ],
+      "authorName": "Cylon u87",
+      "categories": [
+        "Reading",
+        "Internet",
+        "Multimedia"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Ranobe</p><p>Ranobe is an application that allows you to read light novel (japanese, chinese, korean) online or you can add them into your library to read them offline on your android device. You can keep track of the chapters read, add series in your favorites</p><p>Disclaimer</p><p><i>All of the free light novel found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free LN should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the LN, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law</i></p><p>Features</p><ul><li> Choose the server where you want to read or download your Light Novel</li><li> Add LN into your library</li><li> Bookmark your preferred series</li><li> Read online or offline</li></ul>",
+      "issueTracker": "https://bitbucket.org/cylonu87/ranobe/issues",
+      "license": "Unknown",
+      "name": "Ranobe",
+      "summary": "Ranobe is an app to read and download light novels",
+      "webSite": "https://cyberneticlifeform.wixsite.com/cylonu87/ranobe-lightnovel",
+      "added": 1569610728000,
+      "icon": "net.cyl.ranobe.25.png",
+      "packageName": "net.cyl.ranobe",
+      "lastUpdated": 1569994376000
     },
     {
       "antiFeatures": [
@@ -3772,6 +3872,216 @@
         "versionName": "1.2.1"
       }
     ],
+    "net.android.adm": [
+      {
+        "added": 1569610721000,
+        "apkName": "net.android.adm_128.apk",
+        "hash": "783e52e677cce63dde5f73e8e6da771f826a1bf6d17e2a642f5c238649c9a826",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "net.android.adm",
+        "sig": "f928af2e4adcc563f8306f51ed36a866",
+        "signer": "cf4b1ae66b0c9d385fe138166d9f214053df5185fcaee341d3819812721391b4",
+        "size": 7817289,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.READ_LOGS",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 128,
+        "versionName": "5.1.0"
+      }
+    ],
+    "net.android.hdlr": [
+      {
+        "added": 1569610723000,
+        "apkName": "net.android.hdlr_21.apk",
+        "hash": "68dfb5d3da9d86b80b67df7c78c765931606af28e0f6d2425752c875a0768618",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "packageName": "net.android.hdlr",
+        "sig": "530dcea5e374ea6cae941517ec897363",
+        "signer": "27298ced21fe59ae6e8a335b23d91a7c95704ceccc4c3d156ed284049e18df95",
+        "size": 3595586,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 21,
+        "versionName": "2.0.0"
+      }
+    ],
+    "net.android.kamuy": [
+      {
+        "added": 1569610724000,
+        "apkName": "net.android.kamuy_36.apk",
+        "hash": "77e2851b0e630948c54031b15dc81bfa75e4138db0444f8ffe979935bba6a31f",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "net.android.kamuy",
+        "sig": "ea3b0343873ff94021bb9b53f856a1dc",
+        "signer": "584ceefd42d15691e441aa8ea7dc5984710643fe4d56f7e7509dcb91afe508be",
+        "size": 4459843,
+        "targetSdkVersion": 26,
+        "uses-permission": [
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_LOGS",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ]
+        ],
+        "versionCode": 36,
+        "versionName": "3.0.0"
+      }
+    ],
     "net.android.mdm": [
       {
         "added": 1569992620000,
@@ -3840,6 +4150,83 @@
         ],
         "versionCode": 135,
         "versionName": "6.8.1"
+      }
+    ],
+    "net.cyl.ranobe": [
+      {
+        "added": 1569610728000,
+        "apkName": "net.cyl.ranobe_25.apk",
+        "features": [
+          "android.hardware.touchscreen"
+        ],
+        "hash": "fd4cf70e90795d70226a7c999b875f5a36d034d20d6872e5f30a3b5d51c74b44",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "packageName": "net.cyl.ranobe",
+        "sig": "7bfa959fb9b2201371a7b1f06f6522d2",
+        "signer": "5f23c91ae02300b1973179d93677ee510d692a15e206b6358a139e8dadb6b1d6",
+        "size": 5303212,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.READ_LOGS",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 25,
+        "versionName": "2.6.0"
       }
     ],
     "tachiyomi.mangadex": [
