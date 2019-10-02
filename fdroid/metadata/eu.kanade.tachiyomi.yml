@@ -1,16 +1,20 @@
-AuthorName: 'inorichi'
+AntiFeatures:
+  - Tracking
+  - UpstreamNonFree
 Categories:
-- Manga/Anime
-- Internet
-- Reading
-- Multimedia
-CurrentVersionCode: 2147483647
-IssueTracker: 'https://www.github.com/inorichi/Tachiyomi/issues'
+  - Manga/Anime
+  - Internet
+  - Reading
+  - Multimedia
+License: Apache-2.0
+AuthorName: inorichi
+WebSite: https://www.github.com/inorichi/Tachiyomi
+SourceCode: https://www.github.com/inorichi/Tachiyomi
+IssueTracker: https://www.github.com/inorichi/Tachiyomi/issues
+Changelog: https://github.com/inorichi/tachiyomi/releases
+
 Name: Tachiyomi (Stable)
-SourceCode: 'https://www.github.com/inorichi/Tachiyomi'
-Summary: 'Free and open source manga reader for Android'
-WebSite: 'https://www.github.com/inorichi/Tachiyomi'
-Changelog: 'https://github.com/inorichi/tachiyomi/releases'
+Summary: Free and open source manga reader for Android
 Description: |-
     Tachiyomi is a free and open source manga reader for Android.
 
@@ -24,7 +28,6 @@ Description: |-
     * Schedule updating your library for new chapters
     * Create backups locally to read offline or to your desired cloud service.
 
-License: 'Apache-2.0'
-AntiFeatures:
-- Tracking
-- UpstreamNonFree
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647

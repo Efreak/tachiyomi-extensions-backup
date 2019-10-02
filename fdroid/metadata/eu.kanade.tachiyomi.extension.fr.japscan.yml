@@ -1,9 +1,13 @@
-AuthorName: ''
 Categories:
-- Tachiyomi Extensions
-CurrentVersionCode: 2147483647
-IssueTracker: 'https://github.com/inorichi/tachiyomi-extensions/issues'
+  - Tachiyomi Extensions
+License: Unknown
+WebSite: https://github.com/inorichi/tachiyomi-extensions
+SourceCode: https://github.com/inorichi/tachiyomi-extensions
+IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
+
 Name: 'Tachiyomi: Japscan (fr)'
-SourceCode: 'https://github.com/inorichi/tachiyomi-extensions'
-Summary: 'Tachiyomi Japscan Extension'
-WebSite: 'https://github.com/inorichi/tachiyomi-extensions'
+Summary: Tachiyomi Japscan Extension
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647

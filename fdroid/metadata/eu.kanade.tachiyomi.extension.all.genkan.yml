@@ -1,9 +1,13 @@
-AuthorName: ''
 Categories:
-- Tachiyomi Extensions
-CurrentVersionCode: 2147483647
-IssueTracker: 'https://github.com/inorichi/tachiyomi-extensions/issues'
+  - Tachiyomi Extensions
+License: Unknown
+WebSite: https://github.com/inorichi/tachiyomi-extensions
+SourceCode: https://github.com/inorichi/tachiyomi-extensions
+IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
+
 Name: 'Tachiyomi: Genkan (multiple sources) (all)'
-SourceCode: 'https://github.com/inorichi/tachiyomi-extensions'
-Summary: 'Tachiyomi Genkan (multiple sources) Extension'
-WebSite: 'https://github.com/inorichi/tachiyomi-extensions'
+Summary: Tachiyomi Genkan (multiple sources) Extension
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647

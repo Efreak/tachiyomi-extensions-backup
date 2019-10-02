@@ -1,9 +1,12 @@
-AuthorName: ''
 Categories:
-- Tachiyomi Extensions
+  - Tachiyomi Extensions
+License: Unknown
+WebSite: https://github.com/inorichi/tachiyomi-extensions
+SourceCode: https://github.com/inorichi/tachiyomi-extensions
+IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
+
+Name: Tachiyomi Union Mangás Extension
+
+AutoUpdateMode: None
+UpdateCheckMode: None
 CurrentVersionCode: 2147483647
-IssueTracker: 'https://github.com/inorichi/tachiyomi-extensions/issues'
-Name: "Tachiyomi: Union Mang\xE1s (pt)"
-SourceCode: 'https://github.com/inorichi/tachiyomi-extensions'
-Name: "Tachiyomi Union Mang\xE1s Extension"
-WebSite: 'https://github.com/inorichi/tachiyomi-extensions'

@@ -1,17 +1,23 @@
-AuthorName: 'Cylon u87'
+AntiFeatures:
+  - Tracking
+  - UpstreamNonFree
+  - Ads
+  - NoSourceSince
 Categories:
-- Manga/Anime
-- Internet
-- Connectivity
-CurrentVersionCode: 2147483647
-IssueTracker: 'https://bitbucket.org/cylonu87/kamuy/issues'
+  - Manga/Anime
+  - Internet
+  - Connectivity
+License: Unknown
+AuthorName: Cylon u87
+WebSite: https://cylonu87.github.io/androidapps/kamuy
+SourceCode: https://bitbucket.org/cylonu87/kamuy/src/
+IssueTracker: https://bitbucket.org/cylonu87/kamuy/issues
+
 Name: Kamuy
-SourceCode: 'https://bitbucket.org/cylonu87/kamuy/src/'
-Summary: 'Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList'
-WebSite: 'https://cylonu87.github.io/androidapps/kamuy'
+Summary: Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList
 Description: |-
     Kamuy is an unofficial android client for MyAnimeList, Kitsu, AniList, Anime-Planet, LiveChart and MyDramaList to track your anime, manga and drama
-    
+
     Features
     * Manage your anime and manga: progress, status, rate
     * Discover anime: top, popular, upcoming, airing, just added, seasonal
@@ -22,8 +28,7 @@ Description: |-
     * Light or dark theme
     * Libraries can be accessed offline
     * List or grid view
-AntiFeatures:
-- Tracking
-- UpstreamNonFree
-- Ads
-- NoSourceSince
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647

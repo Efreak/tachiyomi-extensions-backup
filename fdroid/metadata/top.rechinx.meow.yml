@@ -1,14 +1,16 @@
-AuthorName: 'ReChinX'
 Categories:
-- Manga/Anime
-- Internet
-- Reading
-- Multimedia
-CurrentVersionCode: 2147483647
-IssueTracker: 'https://github.com/neverfelly/Meow/issues'
+  - Manga/Anime
+  - Internet
+  - Reading
+  - Multimedia
+License: GPL-3.0-only
+AuthorName: ReChinX
+WebSite: https://github.com/neverfelly/Meow
+SourceCode: https://github.com/neverfelly/Meow
+IssueTracker: https://github.com/neverfelly/Meow/issues
+
 Name: Meow
-SourceCode: 'https://github.com/neverfelly/Meow'
-Summary: 'Yet another free and open source manga reader'
+Summary: Yet another free and open source manga reader
 Description: |-
     Features
     * Page reading
@@ -16,6 +18,8 @@ Description: |-
     * Auto update
     * Login support
     * Plugin-like comic source.
-WebSite: 'https://github.com/neverfelly/Meow'
-License: 'GPL-3.0-only'
-ArchivePolicy: '2 versions'
+
+ArchivePolicy: 2 versions
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647

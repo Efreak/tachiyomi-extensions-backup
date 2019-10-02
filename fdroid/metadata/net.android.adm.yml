@@ -1,14 +1,20 @@
-AuthorName: 'Cylon u87'
+AntiFeatures:
+  - Tracking
+  - UpstreamNonFree
+  - Ads
+  - NoSourceSince
 Categories:
-- Manga/Anime
-- Internet
-- Multimedia
-CurrentVersionCode: 2147483647
-IssueTracker: 'https://bitbucket.org/cylonu87/animedlr/issues'
+  - Manga/Anime
+  - Internet
+  - Multimedia
+License: Unknown
+AuthorName: Cylon u87
+WebSite: https://cylonu87.github.io/androidapps/animedlr
+SourceCode: https://bitbucket.org/cylonu87/animedlr/src
+IssueTracker: https://bitbucket.org/cylonu87/animedlr/issues
+
 Name: AnimeDLR
-SourceCode: 'https://bitbucket.org/cylonu87/animedlr/src'
-Summary: 'AnimeDLR is an anime downloader for android'
-WebSite: 'https://cylonu87.github.io/androidapps/animedlr'
+Summary: AnimeDLR is an anime downloader for android
 Description: |-
     AnimeDLR is an anime downloader for android
 
@@ -18,8 +24,7 @@ Description: |-
     * Search series by name, genres, authors, ...
     * Show latest episodes, popular series
     * Bookmarks series
-AntiFeatures:
-- Tracking
-- UpstreamNonFree
-- Ads
-- NoSourceSince
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647
