@@ -29,8 +29,8 @@ mv config.py config.py.bak
 mv config.py.censored config.py
 
 # for my personal use
-xmllint --format repo/index.xml repo.xml
-xmllint --format archive/index.xml archive.xml
+xmllint --format repo/index.xml > repo.xml
+xmllint --format archive/index.xml > archive.xml
 
 # output a diff
 git diff $oldrev --summary
