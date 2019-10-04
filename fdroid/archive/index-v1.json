@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1569994395000,
+    "timestamp": 1570218476000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -162,6 +162,33 @@
       "icon": "net.cyl.ranobe.25.png",
       "packageName": "net.cyl.ranobe",
       "lastUpdated": 1569994376000
+    },
+    {
+      "antiFeatures": [
+        "Tracking",
+        "UpstreamNonFree",
+        "ApplicationDebuggable"
+      ],
+      "authorName": "inorichi",
+      "categories": [
+        "Manga/Anime",
+        "Internet",
+        "Reading",
+        "Multimedia"
+      ],
+      "changelog": "https://github.com/inorichi/tachiyomi/commits",
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Tachiyomi is a free and open source manga reader for Android.</p><p>Features include:</p><ul><li> Online reading from sources such as KissManga, MangaDex, <a href=\"https://github.com/inorichi/tachiyomi-extensions\">and more</a></li><li> Local reading of downloaded manga</li><li> Configurable reader with multiple viewers, reading directions and other settings</li><li> <a href=\"https://myanimelist.net/\">MyAnimeList</a>, <a href=\"https://anilist.co/\">Anilist</a>, and <a href=\"https://kitsu.io/explore/anime\">Kitsu</a> support</li><li> Categories to organize your library</li><li> Light and dark themes</li><li> Schedule updating your library for new chapters</li><li> Create backups locally to read offline or to your desired cloud service.</li></ul>",
+      "issueTracker": "https://www.github.com/inorichi/Tachiyomi/issues",
+      "license": "Apache-2.0",
+      "name": "Tachiyomi (dev)",
+      "sourceCode": "https://www.github.com/inorichi/Tachiyomi",
+      "summary": "Free and open source manga reader for Android",
+      "webSite": "https://www.github.com/inorichi/Tachiyomi",
+      "added": 1570218463000,
+      "icon": "eu.kanade.tachiyomi.debug.41.png",
+      "packageName": "eu.kanade.tachiyomi.debug",
+      "lastUpdated": 1570218463000
     },
     {
       "antiFeatures": [
@@ -1488,6 +1515,73 @@
         ],
         "versionCode": 38,
         "versionName": "0.8.0"
+      }
+    ],
+    "eu.kanade.tachiyomi.debug": [
+      {
+        "added": 1570218463000,
+        "apkName": "eu.kanade.tachiyomi.debug_41.apk",
+        "hash": "c417a0887c88593b2d3eb9e7f728e24143fc8e0fe57b9e9db6f0c6d80b28b941",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi.debug",
+        "sig": "4f4d96b80ff4c7d9fcba199c677c7d3c",
+        "signer": "8d9c1b4e4c093bc5b50f045bb283b41c547f6ba0932265241e40ccb27e329095",
+        "size": 12537138,
+        "targetSdkVersion": 27,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "eu.kanade.tachiyomi.debug.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 41,
+        "versionName": "0.8.4-1524"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.comicake": [

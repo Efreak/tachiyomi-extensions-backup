@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1569994391000,
+    "timestamp": 1570218471000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -250,10 +250,10 @@
       "sourceCode": "https://www.github.com/inorichi/Tachiyomi",
       "summary": "Free and open source manga reader for Android",
       "webSite": "https://www.github.com/inorichi/Tachiyomi",
-      "added": 1569610730000,
+      "added": 1570218463000,
       "icon": "eu.kanade.tachiyomi.debug.41.png",
       "packageName": "eu.kanade.tachiyomi.debug",
-      "lastUpdated": 1569610730000
+      "lastUpdated": 1570218463000
     },
     {
       "antiFeatures": [
@@ -2903,9 +2903,9 @@
     ],
     "eu.kanade.tachiyomi.debug": [
       {
-        "added": 1569610730000,
+        "added": 1570218463000,
         "apkName": "eu.kanade.tachiyomi.debug_41.apk",
-        "hash": "c417a0887c88593b2d3eb9e7f728e24143fc8e0fe57b9e9db6f0c6d80b28b941",
+        "hash": "2bac135358b3a56371028756d4cbe65778bda4bbaecb420c8da8f8242eb872e2",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "nativecode": [
@@ -2916,7 +2916,7 @@
         "packageName": "eu.kanade.tachiyomi.debug",
         "sig": "4f4d96b80ff4c7d9fcba199c677c7d3c",
         "signer": "8d9c1b4e4c093bc5b50f045bb283b41c547f6ba0932265241e40ccb27e329095",
-        "size": 12537138,
+        "size": 12537212,
         "targetSdkVersion": 27,
         "uses-permission": [
           [
@@ -2965,7 +2965,7 @@
           ]
         ],
         "versionCode": 41,
-        "versionName": "0.8.4-1524"
+        "versionName": "0.8.4-1525"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.comicake": [
