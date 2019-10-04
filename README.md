@@ -7,9 +7,9 @@ configured to auto update through fdroid, and this way I can update all
 plugins on all of them just by pushing once and initiating a check. If you 
 intend to do so as well, please use https://tachi.efreakbnc.net/fdroid/repo
 
-This repo also contains some other open source (as well as one closed-source)
-manga readers I found, downloaded directly from github (or the main website,
-in the case of mangabird)
+This repo also contains some other open source (as well as a few closed-source)
+manga readers and related apps I found, downloaded directly from github (or the 
+main website, in the case of cylonu87's apps)
 
 # Updating
 If I don't update fast enough for you and you'd like to take over the work, let
