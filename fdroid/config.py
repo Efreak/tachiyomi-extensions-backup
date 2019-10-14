@@ -47,6 +47,9 @@ keydname = "CN=Lenovo.localdomain, OU=F-Droid"
 #
 mirrors = (
     'https://tachiext.netlify.com/fdroid',
+# this is occasionally used on my local network. If it annoys you, disable it.
+# you can do this by opening the repo settings in fdroid.
+    'http://192.168.0.2:8000/fdroid',
 )
 
 # Set this to true to always use a build server. This saves specifying the
