@@ -1,9 +1,13 @@
-AuthorName: ''
 Categories:
-- fdroid
+  - Tachiyomi Extensions
+License: Unknown
+WebSite: https://github.com/inorichi/tachiyomi-extensions
+SourceCode: https://github.com/inorichi/tachiyomi-extensions
+IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
+
+Name: 'Tachiyomi: FMReader (multiple aggregators) (all)'
+Summary: Tachiyomi FMReader (multiple aggregators)
+
+AutoUpdateMode: None
+UpdateCheckMode: None
 CurrentVersionCode: 2147483647
-IssueTracker: ''
-Name: 'Tachiyomi: FMReader (multiple aggregators)'
-SourceCode: ''
-Summary: ''
-WebSite: ''
