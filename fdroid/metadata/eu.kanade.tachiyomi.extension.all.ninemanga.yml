@@ -7,6 +7,15 @@ IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
 
 Name: 'Tachiyomi: NineManga (ALL)'
 Summary: Tachiyomi NineManga Extension
+Description: |-
+    The following is a list of urls found in the source for this extension:
+    * http://en.ninemanga.com
+    * http://es.ninemanga.com
+    * http://br.ninemanga.com
+    * http://ru.ninemanga.com
+    * http://de.ninemanga.com
+    * http://it.ninemanga.com
+    * http://fr.ninemanga.com
 
 AutoUpdateMode: None
 UpdateCheckMode: None

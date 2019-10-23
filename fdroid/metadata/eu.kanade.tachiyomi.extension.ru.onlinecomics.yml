@@ -7,6 +7,11 @@ IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
 
 Name: 'Tachiyomi: Onlinecomics (RU)'
 Summary: Tachiyomi Onlinecomics Extension
+Description: |-
+    The following is a list of urls found in the source for this extension:
+    * http://onlinecomics.su
+    * https://yandex.ru/search/site/?html=1&topdoc=http://jurnalu.ru/?searchid=2158851&
+    * http://www.jurnalu.ru
 
 AutoUpdateMode: None
 UpdateCheckMode: None

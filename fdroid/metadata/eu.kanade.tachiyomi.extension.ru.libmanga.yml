@@ -7,6 +7,11 @@ IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
 
 Name: 'Tachiyomi: LibManga (RU)'
 Summary: Tachiyomi LibManga Extension
+Description: |-
+    The following is a list of urls found in the source for this extension:
+    * https://mangalib.me
+    * https://img2.mangalib.me
+    * https://img3.mangalib.me
 
 AutoUpdateMode: None
 UpdateCheckMode: None

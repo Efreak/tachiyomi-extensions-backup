@@ -7,6 +7,9 @@ IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
 
 Name: 'Tachiyomi: Komga (ALL)'
 Summary: Tachiyomi Komga Extension
+Description: |-
+    My script was unable to find a list of urls in the source for this extension.
+    The command used was sed 's/"/\n/g|grep -E '^https?://'
 
 AutoUpdateMode: None
 UpdateCheckMode: None
