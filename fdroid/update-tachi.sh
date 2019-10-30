@@ -8,7 +8,7 @@ cd $HOME/tachiyomi-extensions
 git pull
 
 # get a list of new extensions
-apkfiles="$(git diff --summary HEAD@{1} HEAD@{0} *.apk|grep create|sed -E 's/^.*?apk.(.*?\.apk)$/\1/g')"
+apkfiles="$(git diff --summary HEAD@{1} HEAD@{0} apk/*.apk|grep create|sed -E 's/^.*?apk.(.*?\.apk)$/\1/g')"
 
 cd $HOME/fdroidserver/fdroid
 # get the current git revision
