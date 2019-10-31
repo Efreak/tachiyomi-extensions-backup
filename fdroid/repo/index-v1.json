@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1572381587000,
+    "timestamp": 1572490700000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -1043,9 +1043,9 @@
       "summary": "Tachiyomi JMana Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1569613320000,
-      "icon": "eu.kanade.tachiyomi.extension.ko.jmana.8.png",
+      "icon": "eu.kanade.tachiyomi.extension.ko.jmana.9.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.jmana",
-      "lastUpdated": 1569613320000
+      "lastUpdated": 1572490697000
     },
     {
       "categories": [
@@ -4184,21 +4184,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangahere": [
       {
-        "added": 1569613289000,
-        "apkName": "tachiyomi-en.mangahere-v1.2.9.apk",
+        "added": 1569613663000,
+        "apkName": "tachiyomi-en.mangahere-v1.2.10.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "788df564803d14264d204437da089c9bb05eb820b04409621850fc79bb85f4f5",
+        "hash": "31db6051b1f88e39c9072ddd53e5d45572309673b27d0f4447265eba9fee2c2f",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.mangahere",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 82936,
+        "size": 82937,
         "targetSdkVersion": 27,
-        "versionCode": 9,
-        "versionName": "1.2.9"
+        "versionCode": 10,
+        "versionName": "1.2.10"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangahub": [
@@ -5211,11 +5211,11 @@
     "eu.kanade.tachiyomi.extension.id.neumanga": [
       {
         "added": 1569613314000,
-        "apkName": "tachiyomi-id.neumanga-v1.0.3.apk",
+        "apkName": "tachiyomi-id.neumanga-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "d5327313294955b5775d48424925ae284b0262669ce6148289d614ded2221586",
+        "hash": "d1bd92b2d355d53bf770f801137d868c46c4a1a45f292b9070912b9d65e93a20",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.id.neumanga",
@@ -5224,7 +5224,7 @@
         "size": 70645,
         "targetSdkVersion": 27,
         "versionCode": 3,
-        "versionName": "1.0.3"
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.otakufile": [
@@ -5419,21 +5419,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ja.rawlh": [
       {
-        "added": 1569613319000,
-        "apkName": "tachiyomi-ja.rawlh-v1.2.9.apk",
+        "added": 1569613679000,
+        "apkName": "tachiyomi-ja.rawlh-v1.2.11.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "aaf309498015598c485d493486aedfa7530e0149dc5774f50d1aee3758835836",
+        "hash": "d6646220b13499bcbd502da3d632213de68db286c7cc8f7b2d0540663ea14a13",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ja.rawlh",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 37868,
+        "size": 37869,
         "targetSdkVersion": 27,
-        "versionCode": 9,
-        "versionName": "1.2.9"
+        "versionCode": 11,
+        "versionName": "1.2.11"
       }
     ],
     "eu.kanade.tachiyomi.extension.ja.rawqq": [
@@ -5476,21 +5476,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ko.jmana": [
       {
-        "added": 1569613320000,
-        "apkName": "tachiyomi-ko.jmana-v1.2.8.apk",
+        "added": 1572490697000,
+        "apkName": "tachiyomi-ko.jmana-v1.2.9.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "0ca386c5f0d018d050782cbaa71cadb68594bb1212713e5251860d97706dd968",
+        "hash": "a58c6bcd1aeaa02cdb36e295dc865831717ce4bebe81c60888e80a50563b0201",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ko.jmana",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 95212,
+        "size": 99308,
         "targetSdkVersion": 27,
-        "versionCode": 8,
-        "versionName": "1.2.8"
+        "versionCode": 9,
+        "versionName": "1.2.9"
       }
     ],
     "eu.kanade.tachiyomi.extension.ko.mangashowme": [
