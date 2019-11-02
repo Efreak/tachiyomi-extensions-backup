@@ -35,11 +35,14 @@ xmllint --format archive/index.xml > archive.xml
 # output a diff
 git diff $oldrev --summary
 
-# give a few seconds to avoid pushing
+# give a few seconds to avoid pushing. Also keep copies of upstream up to date.
 read -n1 -e -t 30 -p 'Push? <Y/N> ' gitpush
 case $gitpush in
   [Nn] ) echo "Aborting...Clean it up yourself" $gitrev;;
-  * ) git push;;
+  * ) git push
+      git fetch inorichi master:upstream/master > /dev/null
+      git fetch inorichi repo:upstream/repo > /dev/null
+      git push origin master repo;;
 esac
 echo "Old hash: $oldrev"
 echo "Current hash: $(git rev-parse HEAD)"
