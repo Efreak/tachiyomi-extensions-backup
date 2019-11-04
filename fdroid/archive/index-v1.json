@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1572840539000,
+    "timestamp": 1572853336000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -189,7 +189,7 @@
       "added": 1571017609000,
       "icon": "eu.kanade.tachiyomi.debug.41.png",
       "packageName": "eu.kanade.tachiyomi.debug",
-      "lastUpdated": 1571259190000
+      "lastUpdated": 1572853326000
     },
     {
       "categories": [
@@ -788,11 +788,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: MangaBox (Mangakakalot and others)",
+      "name": "Tachiyomi: MangaBox (Mangakakalot and others) (ALL)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi MangaBox Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1572490860000,
       "icon": "eu.kanade.tachiyomi.extension.all.mangabox.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangabox",
@@ -1766,6 +1770,71 @@
         ],
         "versionCode": 41,
         "versionName": "0.8.4-1529"
+      },
+      {
+        "added": 1571259190000,
+        "apkName": "eu.kanade.tachiyomi.debug_r1531.apk",
+        "hash": "a145d26b753cd7f3b1c97e6bc8e3e0720648c485d702df54c505b1fd4d70c9df",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi.debug",
+        "sig": "4f4d96b80ff4c7d9fcba199c677c7d3c",
+        "signer": "8d9c1b4e4c093bc5b50f045bb283b41c547f6ba0932265241e40ccb27e329095",
+        "size": 12539105,
+        "targetSdkVersion": 27,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "eu.kanade.tachiyomi.debug.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 41,
+        "versionName": "0.8.4-1531"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.comicake": [

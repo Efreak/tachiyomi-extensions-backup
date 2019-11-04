@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1572840535000,
+    "timestamp": 1572853331000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -254,7 +254,7 @@
       "added": 1571017609000,
       "icon": "eu.kanade.tachiyomi.debug.41.png",
       "packageName": "eu.kanade.tachiyomi.debug",
-      "lastUpdated": 1571259190000
+      "lastUpdated": 1572853326000
     },
     {
       "antiFeatures": [
@@ -1355,11 +1355,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: MangaBox (Mangakakalot and others)",
+      "name": "Tachiyomi: MangaBox (Mangakakalot and others) (ALL)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi MangaBox Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1572490860000,
       "icon": "eu.kanade.tachiyomi.extension.all.mangabox.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangabox",
@@ -1707,11 +1711,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: MangaMx",
+      "name": "Tachiyomi: MangaMx (ES)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi MangaMx Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1572490873000,
       "icon": "eu.kanade.tachiyomi.extension.es.mangamx.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.mangamx",
@@ -1889,11 +1897,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: Mangatoon (Limited)",
+      "name": "Tachiyomi: Mangatoon (Limited) (ALL)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Mangatoon Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1572543472000,
       "icon": "eu.kanade.tachiyomi.extension.all.mangatoon.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangatoon",
@@ -3298,9 +3310,9 @@
     ],
     "eu.kanade.tachiyomi.debug": [
       {
-        "added": 1571259190000,
-        "apkName": "eu.kanade.tachiyomi.debug_r1531.apk",
-        "hash": "a145d26b753cd7f3b1c97e6bc8e3e0720648c485d702df54c505b1fd4d70c9df",
+        "added": 1572853326000,
+        "apkName": "eu.kanade.tachiyomi.debug_r1532.apk",
+        "hash": "85eee48735428d812b0309e80c7163f96502debb250997819fbbfa4bc1b547ac",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "nativecode": [
@@ -3311,7 +3323,7 @@
         "packageName": "eu.kanade.tachiyomi.debug",
         "sig": "4f4d96b80ff4c7d9fcba199c677c7d3c",
         "signer": "8d9c1b4e4c093bc5b50f045bb283b41c547f6ba0932265241e40ccb27e329095",
-        "size": 12539105,
+        "size": 12539548,
         "targetSdkVersion": 27,
         "uses-permission": [
           [
@@ -3360,7 +3372,7 @@
           ]
         ],
         "versionCode": 41,
-        "versionName": "0.8.4-1531"
+        "versionName": "0.8.4-1532"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.comicake": [
