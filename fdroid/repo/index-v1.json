@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1572723395000,
+    "timestamp": 1572840535000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -1230,9 +1230,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1569613271000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.24.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.25.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1572723316000
+      "lastUpdated": 1572840489000
     },
     {
       "categories": [
@@ -1429,9 +1429,9 @@
       "summary": "Tachiyomi MangaDex Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1569613272000,
-      "icon": "eu.kanade.tachiyomi.extension.all.mangadex.70.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.mangadex.71.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
-      "lastUpdated": 1572543455000
+      "lastUpdated": 1572840509000
     },
     {
       "categories": [
@@ -1616,9 +1616,9 @@
       "summary": "Tachiyomi Mangahub Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1569613332000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.mangahub.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.mangahub.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.mangahub",
-      "lastUpdated": 1569613687000
+      "lastUpdated": 1572840534000
     },
     {
       "categories": [
@@ -2694,9 +2694,9 @@
       "summary": "Tachiyomi Scantrad Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1569989011000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
-      "lastUpdated": 1571615756000
+      "lastUpdated": 1572840522000
     },
     {
       "categories": [
@@ -3479,21 +3479,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
       {
-        "added": 1572723316000,
-        "apkName": "tachiyomi-all.madara-v1.2.24.apk",
+        "added": 1572840489000,
+        "apkName": "tachiyomi-all.madara-v1.2.25.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "d5d7ef99f2ad5f3a5eafe0ad22374f15ab7a4528a6e8cc2426a4f9c0f91a3f7e",
+        "hash": "51a4ee338cbd8e2193d8eb6aeb027d1ecf475a1f553a06e7e08f4367b9706c66",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.madara",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 58457,
+        "size": 62553,
         "targetSdkVersion": 27,
-        "versionCode": 24,
-        "versionName": "1.2.24"
+        "versionCode": 25,
+        "versionName": "1.2.25"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangabox": [
@@ -3536,12 +3536,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mangadex": [
       {
-        "added": 1572543455000,
-        "apkName": "tachiyomi-all.mangadex-v1.2.70.apk",
+        "added": 1572840509000,
+        "apkName": "tachiyomi-all.mangadex-v1.2.71.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "340ad5321c1d5688b7353acfeb2cc8f56691916e07ac502c97f979aeb2ecc8d1",
+        "hash": "75986efb3903fb39668599553a84f0d0f39585e5887a8b4e1736c58adbb791eb",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
@@ -3549,8 +3549,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 83350,
         "targetSdkVersion": 27,
-        "versionCode": 70,
-        "versionName": "1.2.70"
+        "versionCode": 71,
+        "versionName": "1.2.71"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangadventure": [
@@ -5132,12 +5132,12 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.scantrad": [
       {
-        "added": 1571615756000,
-        "apkName": "tachiyomi-fr.scantrad-v1.2.2.apk",
+        "added": 1572840522000,
+        "apkName": "tachiyomi-fr.scantrad-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "ed5dbd0122c18e55cf8229af123c022e4cba83219f849eecbde87497d6012f64",
+        "hash": "a63b9f8b5f68b734da91f1306eb09d63dbcae4bf7c12f6620cf4100201ac2389",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
@@ -5145,8 +5145,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 54261,
         "targetSdkVersion": 27,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.bacamanga": [
@@ -6025,12 +6025,12 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.mangahub": [
       {
-        "added": 1569613332000,
-        "apkName": "tachiyomi-ru.mangahub-v1.2.3.apk",
+        "added": 1572840534000,
+        "apkName": "tachiyomi-ru.mangahub-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "ab7663553d00136bce133c5383c6070ce4702e8b2998dd1d490cac754e55908c",
+        "hash": "553c452fe9da9add6d6fc8577b66af2fd75dbf9378aeac37b89fcf3c495648f1",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.mangahub",
@@ -6038,8 +6038,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 82933,
         "targetSdkVersion": 27,
-        "versionCode": 3,
-        "versionName": "1.2.3"
+        "versionCode": 4,
+        "versionName": "1.2.4"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.mangaonlinebiz": [

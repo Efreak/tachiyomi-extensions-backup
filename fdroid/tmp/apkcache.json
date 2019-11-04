@@ -25794,5 +25794,157 @@
     "apkName": "tachiyomi-zh.kuaikanmanhua-v1.2.2.apk",
     "icon": "eu.kanade.tachiyomi.extension.zh.kuaikanmanhua.2.png",
     "added": 1572748594.514328
+  },
+  "tachiyomi-all.madara-v1.2.25.apk": {
+    "hash": "51a4ee338cbd8e2193d8eb6aeb027d1ecf475a1f553a06e7e08f4367b9706c66",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.madara.25.png",
+      "480": "eu.kanade.tachiyomi.extension.all.madara.25.png",
+      "320": "eu.kanade.tachiyomi.extension.all.madara.25.png",
+      "240": "eu.kanade.tachiyomi.extension.all.madara.25.png",
+      "160": "eu.kanade.tachiyomi.extension.all.madara.25.png",
+      "0": "eu.kanade.tachiyomi.extension.all.madara.25.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+    "versionCode": 25,
+    "name": "Tachiyomi: Madara (multiple sources)",
+    "versionName": "1.2.25",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62553,
+    "apkName": "tachiyomi-all.madara-v1.2.25.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.madara.25.png",
+    "added": 1572869289.877834
+  },
+  "tachiyomi-all.mangadex-v1.2.71.apk": {
+    "hash": "75986efb3903fb39668599553a84f0d0f39585e5887a8b4e1736c58adbb791eb",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.mangadex.71.png",
+      "480": "eu.kanade.tachiyomi.extension.all.mangadex.71.png",
+      "320": "eu.kanade.tachiyomi.extension.all.mangadex.71.png",
+      "240": "eu.kanade.tachiyomi.extension.all.mangadex.71.png",
+      "160": "eu.kanade.tachiyomi.extension.all.mangadex.71.png",
+      "0": "eu.kanade.tachiyomi.extension.all.mangadex.71.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
+    "versionCode": 71,
+    "name": "Tachiyomi: MangaDex",
+    "versionName": "1.2.71",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 83350,
+    "apkName": "tachiyomi-all.mangadex-v1.2.71.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.mangadex.71.png",
+    "added": 1572869309.693547
+  },
+  "tachiyomi-fr.scantrad-v1.2.3.apk": {
+    "hash": "a63b9f8b5f68b734da91f1306eb09d63dbcae4bf7c12f6620cf4100201ac2389",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.fr.scantrad.3.png",
+      "480": "eu.kanade.tachiyomi.extension.fr.scantrad.3.png",
+      "320": "eu.kanade.tachiyomi.extension.fr.scantrad.3.png",
+      "240": "eu.kanade.tachiyomi.extension.fr.scantrad.3.png",
+      "160": "eu.kanade.tachiyomi.extension.fr.scantrad.3.png",
+      "0": "eu.kanade.tachiyomi.extension.fr.scantrad.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
+    "versionCode": 3,
+    "name": "Tachiyomi: Scantrad",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54261,
+    "apkName": "tachiyomi-fr.scantrad-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.3.png",
+    "added": 1572869322.256604
+  },
+  "tachiyomi-ru.mangahub-v1.2.4.apk": {
+    "hash": "553c452fe9da9add6d6fc8577b66af2fd75dbf9378aeac37b89fcf3c495648f1",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.mangahub.4.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.mangahub.4.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.mangahub.4.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.mangahub.4.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.mangahub.4.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.mangahub.4.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.mangahub",
+    "versionCode": 4,
+    "name": "Tachiyomi: Mangahub",
+    "versionName": "1.2.4",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 82933,
+    "apkName": "tachiyomi-ru.mangahub-v1.2.4.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.mangahub.4.png",
+    "added": 1572869334.525136
   }
 }
