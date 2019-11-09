@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1573335240000,
+    "timestamp": 1573337462000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -38,9 +38,9 @@
       "summary": "AnimeDLR is an anime downloader for android",
       "webSite": "https://cylonu87.github.io/androidapps/animedlr",
       "added": 1569610721000,
-      "icon": "net.android.adm.132.png",
+      "icon": "net.android.adm.137.png",
       "packageName": "net.android.adm",
-      "lastUpdated": 1569994389000
+      "lastUpdated": 1573337458000
     },
     {
       "antiFeatures": [
@@ -63,7 +63,7 @@
       "added": 1569610723000,
       "icon": "net.android.hdlr.24.png",
       "packageName": "net.android.hdlr",
-      "lastUpdated": 1569994348000
+      "lastUpdated": 1573337451000
     },
     {
       "antiFeatures": [
@@ -87,9 +87,9 @@
       "summary": "Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList",
       "webSite": "https://cylonu87.github.io/androidapps/kamuy",
       "added": 1569610724000,
-      "icon": "net.android.kamuy.37.png",
+      "icon": "net.android.kamuy.38.png",
       "packageName": "net.android.kamuy",
-      "lastUpdated": 1569994362000
+      "lastUpdated": 1573337460000
     },
     {
       "antiFeatures": [
@@ -140,7 +140,7 @@
       "added": 1569992620000,
       "icon": "net.android.mdm.135.png",
       "packageName": "net.android.mdm",
-      "lastUpdated": 1569992620000
+      "lastUpdated": 1573337455000
     },
     {
       "authorName": "ReChinX",
@@ -225,9 +225,9 @@
       "summary": "Ranobe is an app to read and download light novels",
       "webSite": "https://cyberneticlifeform.wixsite.com/cylonu87/ranobe-lightnovel",
       "added": 1569610728000,
-      "icon": "net.cyl.ranobe.26.png",
+      "icon": "net.cyl.ranobe.29.png",
       "packageName": "net.cyl.ranobe",
-      "lastUpdated": 1569994376000
+      "lastUpdated": 1573337462000
     },
     {
       "antiFeatures": [
@@ -6585,15 +6585,15 @@
     ],
     "net.android.adm": [
       {
-        "added": 1569994389000,
-        "apkName": "net.android.adm_132.apk",
-        "hash": "c618490ad8a0155da99d863d182479e80bf10796adf8442afb05cee461a08889",
+        "added": 1573337450000,
+        "apkName": "net.android.adm_5.3.3_137.apk",
+        "hash": "cddd17e40c9584fe7de4456d74def339a20a6b29ee060e4ec776a3c5e68ee63c",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "net.android.adm",
         "sig": "f928af2e4adcc563f8306f51ed36a866",
         "signer": "cf4b1ae66b0c9d385fe138166d9f214053df5185fcaee341d3819812721391b4",
-        "size": 7824865,
+        "size": 7900178,
         "targetSdkVersion": 28,
         "uses-permission": [
           [
@@ -6653,14 +6653,14 @@
             null
           ]
         ],
-        "versionCode": 132,
-        "versionName": "5.2.3"
+        "versionCode": 137,
+        "versionName": "5.3.3"
       }
     ],
     "net.android.hdlr": [
       {
-        "added": 1569994348000,
-        "apkName": "net.android.hdlr_24.apk",
+        "added": 1573337451000,
+        "apkName": "net.android.hdlr_2.5.2_24.apk",
         "hash": "2e25c708155c42382f64e9580889b9c4d0893e284431d745896043ae0ed7da0c",
         "hashType": "sha256",
         "minSdkVersion": 19,
@@ -6721,15 +6721,15 @@
     ],
     "net.android.kamuy": [
       {
-        "added": 1569994362000,
-        "apkName": "net.android.kamuy_37.apk",
-        "hash": "c3b5465756dd8594d9c31dc4187135ccbb08a0e8fa87c2f6d2c22778fd49b52c",
+        "added": 1573337453000,
+        "apkName": "net.android.kamuy_3.0.2_38.apk",
+        "hash": "6b61289d9fd8f27320cd94c31cb775f3ba0664c69fbb2e12fca210553bff1789",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "net.android.kamuy",
         "sig": "ea3b0343873ff94021bb9b53f856a1dc",
         "signer": "584ceefd42d15691e441aa8ea7dc5984710643fe4d56f7e7509dcb91afe508be",
-        "size": 4523978,
+        "size": 4521937,
         "targetSdkVersion": 28,
         "uses-permission": [
           [
@@ -6789,14 +6789,14 @@
             null
           ]
         ],
-        "versionCode": 37,
-        "versionName": "3.0.1"
+        "versionCode": 38,
+        "versionName": "3.0.2"
       }
     ],
     "net.android.mdm": [
       {
-        "added": 1569992620000,
-        "apkName": "net.android.mdm_135.apk",
+        "added": 1573337455000,
+        "apkName": "net.android.mdm_6.8.1_135.apk",
         "hash": "41805abe99e4cdc3af4c91aeae321ee75dd63c34e20d1a64ca8af28a3e47a741",
         "hashType": "sha256",
         "minSdkVersion": 16,
@@ -6865,18 +6865,18 @@
     ],
     "net.cyl.ranobe": [
       {
-        "added": 1569994376000,
-        "apkName": "net.cyl.ranobe_26.apk",
+        "added": 1573337456000,
+        "apkName": "net.cyl.ranobe_2.8.2_29.apk",
         "features": [
           "android.hardware.touchscreen"
         ],
-        "hash": "719de288d99caaaa289ec3e6837de5585a4d04939d212ef771c995ff0caab281",
+        "hash": "845a75b95012ba1a25107d6902151aa246845d6c641c9158204abd9c60ae3293",
         "hashType": "sha256",
         "minSdkVersion": 19,
         "packageName": "net.cyl.ranobe",
         "sig": "7bfa959fb9b2201371a7b1f06f6522d2",
         "signer": "5f23c91ae02300b1973179d93677ee510d692a15e206b6358a139e8dadb6b1d6",
-        "size": 5302368,
+        "size": 5419847,
         "targetSdkVersion": 28,
         "uses-permission": [
           [
@@ -6936,8 +6936,8 @@
             null
           ]
         ],
-        "versionCode": 26,
-        "versionName": "2.7.0"
+        "versionCode": 29,
+        "versionName": "2.8.2"
       }
     ],
     "tachiyomi.mangadex": [

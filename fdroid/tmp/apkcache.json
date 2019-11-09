@@ -26376,5 +26376,753 @@
     "apkName": "tachiyomi-es.mangamx-v1.2.2.apk",
     "icon": "eu.kanade.tachiyomi.extension.es.mangamx.2.png",
     "added": 1573364039.962583
+  },
+  "net.android.adm_5.3.3_137.apk": {
+    "hash": "cddd17e40c9584fe7de4456d74def339a20a6b29ee060e4ec776a3c5e68ee63c",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.READ_LOGS",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "net.android.adm.137.xml",
+      "640": "net.android.adm.137.png",
+      "480": "net.android.adm.137.png",
+      "320": "net.android.adm.137.png",
+      "240": "net.android.adm.137.png",
+      "160": "net.android.adm.137.png",
+      "0": "net.android.adm.137.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.android.adm",
+    "versionCode": 137,
+    "name": "AnimeDLR",
+    "versionName": "5.3.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 28,
+    "sig": "f928af2e4adcc563f8306f51ed36a866",
+    "signer": "cf4b1ae66b0c9d385fe138166d9f214053df5185fcaee341d3819812721391b4",
+    "size": 7900178,
+    "apkName": "net.android.adm_5.3.3_137.apk",
+    "icon": "net.android.adm.137.png",
+    "added": 1573366250.112155
+  },
+  "net.android.hdlr_2.5.2_24.apk": {
+    "hash": "2e25c708155c42382f64e9580889b9c4d0893e284431d745896043ae0ed7da0c",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "net.android.hdlr.24.xml",
+      "640": "net.android.hdlr.24.png",
+      "480": "net.android.hdlr.24.png",
+      "320": "net.android.hdlr.24.png",
+      "240": "net.android.hdlr.24.png",
+      "160": "net.android.hdlr.24.png",
+      "0": "net.android.hdlr.24.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.android.hdlr",
+    "versionCode": 24,
+    "name": "H-DLR",
+    "versionName": "2.5.2",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 28,
+    "sig": "530dcea5e374ea6cae941517ec897363",
+    "signer": "27298ced21fe59ae6e8a335b23d91a7c95704ceccc4c3d156ed284049e18df95",
+    "size": 4039863,
+    "apkName": "net.android.hdlr_2.5.2_24.apk",
+    "icon": "net.android.hdlr.24.png",
+    "added": 1573366251.586029
+  },
+  "net.android.kamuy_3.0.2_38.apk": {
+    "hash": "6b61289d9fd8f27320cd94c31cb775f3ba0664c69fbb2e12fca210553bff1789",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_LOGS",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "net.android.kamuy.38.xml",
+      "640": "net.android.kamuy.38.png",
+      "480": "net.android.kamuy.38.png",
+      "320": "net.android.kamuy.38.png",
+      "240": "net.android.kamuy.38.png",
+      "160": "net.android.kamuy.38.png",
+      "0": "net.android.kamuy.38.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.android.kamuy",
+    "versionCode": 38,
+    "name": "Kamuy",
+    "versionName": "3.0.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 28,
+    "sig": "ea3b0343873ff94021bb9b53f856a1dc",
+    "signer": "584ceefd42d15691e441aa8ea7dc5984710643fe4d56f7e7509dcb91afe508be",
+    "size": 4521937,
+    "apkName": "net.android.kamuy_3.0.2_38.apk",
+    "icon": "net.android.kamuy.38.png",
+    "added": 1573366253.310257
+  },
+  "net.android.mdm_6.8.1_135.apk": {
+    "hash": "41805abe99e4cdc3af4c91aeae321ee75dd63c34e20d1a64ca8af28a3e47a741",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.SET_WALLPAPER",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_app_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_app_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_app_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_app_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_app_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_app_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_app_launcher.png"
+    },
+    "icons": {
+      "65534": "net.android.mdm.135.xml",
+      "640": "net.android.mdm.135.png",
+      "480": "net.android.mdm.135.png",
+      "320": "net.android.mdm.135.png",
+      "240": "net.android.mdm.135.png",
+      "160": "net.android.mdm.135.png",
+      "0": "net.android.mdm.135.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.android.mdm",
+    "versionCode": 135,
+    "name": "MangaDLR",
+    "versionName": "6.8.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "6ee16f956a8defaa43ebb39b52e2b70e",
+    "signer": "0eac82aa4e65defbad7151f4bab5f304a52c4ff2c8e4b19bd16dfb818c30d5a4",
+    "size": 14983528,
+    "apkName": "net.android.mdm_6.8.1_135.apk",
+    "icon": "net.android.mdm.135.png",
+    "added": 1573366255.261644
+  },
+  "net.cyl.ranobe_2.8.2_29.apk": {
+    "hash": "845a75b95012ba1a25107d6902151aa246845d6c641c9158204abd9c60ae3293",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.READ_LOGS",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.touchscreen"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "net.cyl.ranobe.29.xml",
+      "640": "net.cyl.ranobe.29.png",
+      "480": "net.cyl.ranobe.29.png",
+      "320": "net.cyl.ranobe.29.png",
+      "240": "net.cyl.ranobe.29.png",
+      "160": "net.cyl.ranobe.29.png",
+      "0": "net.cyl.ranobe.29.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.cyl.ranobe",
+    "versionCode": 29,
+    "name": "Ranobe",
+    "versionName": "2.8.2",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 28,
+    "sig": "7bfa959fb9b2201371a7b1f06f6522d2",
+    "signer": "5f23c91ae02300b1973179d93677ee510d692a15e206b6358a139e8dadb6b1d6",
+    "size": 5419847,
+    "apkName": "net.cyl.ranobe_2.8.2_29.apk",
+    "icon": "net.cyl.ranobe.29.png",
+    "added": 1573366256.841708
+  },
+  "net.android.adm_5.2.3_132.apk": {
+    "hash": "c618490ad8a0155da99d863d182479e80bf10796adf8442afb05cee461a08889",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.READ_LOGS",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "net.android.adm.132.xml",
+      "640": "net.android.adm.132.png",
+      "480": "net.android.adm.132.png",
+      "320": "net.android.adm.132.png",
+      "240": "net.android.adm.132.png",
+      "160": "net.android.adm.132.png",
+      "0": "net.android.adm.132.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.android.adm",
+    "versionCode": 132,
+    "name": "AnimeDLR",
+    "versionName": "5.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 28,
+    "sig": "f928af2e4adcc563f8306f51ed36a866",
+    "signer": "cf4b1ae66b0c9d385fe138166d9f214053df5185fcaee341d3819812721391b4",
+    "size": 7824865,
+    "apkName": "net.android.adm_5.2.3_132.apk",
+    "icon": "net.android.adm.132.png",
+    "added": 1573366258.931404
+  },
+  "net.android.kamuy_3.0.1_37.apk": {
+    "hash": "c3b5465756dd8594d9c31dc4187135ccbb08a0e8fa87c2f6d2c22778fd49b52c",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_LOGS",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "net.android.kamuy.37.xml",
+      "640": "net.android.kamuy.37.png",
+      "480": "net.android.kamuy.37.png",
+      "320": "net.android.kamuy.37.png",
+      "240": "net.android.kamuy.37.png",
+      "160": "net.android.kamuy.37.png",
+      "0": "net.android.kamuy.37.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.android.kamuy",
+    "versionCode": 37,
+    "name": "Kamuy",
+    "versionName": "3.0.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 28,
+    "sig": "ea3b0343873ff94021bb9b53f856a1dc",
+    "signer": "584ceefd42d15691e441aa8ea7dc5984710643fe4d56f7e7509dcb91afe508be",
+    "size": 4523978,
+    "apkName": "net.android.kamuy_3.0.1_37.apk",
+    "icon": "net.android.kamuy.37.png",
+    "added": 1573366260.687106
+  },
+  "net.cyl.ranobe_2.7.0_26.apk": {
+    "hash": "719de288d99caaaa289ec3e6837de5585a4d04939d212ef771c995ff0caab281",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.READ_LOGS",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.touchscreen"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "net.cyl.ranobe.26.xml",
+      "640": "net.cyl.ranobe.26.png",
+      "480": "net.cyl.ranobe.26.png",
+      "320": "net.cyl.ranobe.26.png",
+      "240": "net.cyl.ranobe.26.png",
+      "160": "net.cyl.ranobe.26.png",
+      "0": "net.cyl.ranobe.26.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.cyl.ranobe",
+    "versionCode": 26,
+    "name": "Ranobe",
+    "versionName": "2.7.0",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 28,
+    "sig": "7bfa959fb9b2201371a7b1f06f6522d2",
+    "signer": "5f23c91ae02300b1973179d93677ee510d692a15e206b6358a139e8dadb6b1d6",
+    "size": 5302368,
+    "apkName": "net.cyl.ranobe_2.7.0_26.apk",
+    "icon": "net.cyl.ranobe.26.png",
+    "added": 1573366262.352145
   }
 }
