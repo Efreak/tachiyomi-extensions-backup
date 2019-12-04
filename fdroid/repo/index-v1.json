@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1575497023000,
+    "timestamp": 1575497184000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -253,7 +253,7 @@
       "added": 1571017609000,
       "icon": "eu.kanade.tachiyomi.debug.41.png",
       "packageName": "eu.kanade.tachiyomi.debug",
-      "lastUpdated": 1572853326000
+      "lastUpdated": 1575497183000
     },
     {
       "antiFeatures": [
@@ -3389,9 +3389,9 @@
     ],
     "eu.kanade.tachiyomi.debug": [
       {
-        "added": 1572853326000,
-        "apkName": "eu.kanade.tachiyomi.debug_r1532.apk",
-        "hash": "85eee48735428d812b0309e80c7163f96502debb250997819fbbfa4bc1b547ac",
+        "added": 1575497183000,
+        "apkName": "eu.kanade.tachiyomi.debug_r1534.apk",
+        "hash": "82c0141cfd22e964a9bf4ba4dba56d194b161020bbd0003e321400027d9f945c",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "nativecode": [
@@ -3402,7 +3402,7 @@
         "packageName": "eu.kanade.tachiyomi.debug",
         "sig": "4f4d96b80ff4c7d9fcba199c677c7d3c",
         "signer": "8d9c1b4e4c093bc5b50f045bb283b41c547f6ba0932265241e40ccb27e329095",
-        "size": 12539548,
+        "size": 12539570,
         "targetSdkVersion": 27,
         "uses-permission": [
           [
@@ -3451,7 +3451,7 @@
           ]
         ],
         "versionCode": 41,
-        "versionName": "0.8.4-1532"
+        "versionName": "0.8.4-1534"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.boommanga": [
