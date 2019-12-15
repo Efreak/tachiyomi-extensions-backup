@@ -29400,5 +29400,503 @@
     "apkName": "tachiyomi-ru.readmanga-v1.2.15.apk",
     "icon": "eu.kanade.tachiyomi.extension.ru.readmanga.15.png",
     "added": 1576408910.71857
+  },
+  "net.android.adm_7.0.0_145.apk": {
+    "hash": "6da67d9d00a99b82833204578a42e422fa75f9576d8ee4a19e27eabe81e8fa31",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.READ_LOGS",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "net.android.adm.145.xml",
+      "640": "net.android.adm.145.png",
+      "480": "net.android.adm.145.png",
+      "320": "net.android.adm.145.png",
+      "240": "net.android.adm.145.png",
+      "160": "net.android.adm.145.png",
+      "0": "net.android.adm.145.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.android.adm",
+    "versionCode": 145,
+    "name": "AnimeDLR",
+    "versionName": "7.0.0",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 28,
+    "sig": "f928af2e4adcc563f8306f51ed36a866",
+    "signer": "cf4b1ae66b0c9d385fe138166d9f214053df5185fcaee341d3819812721391b4",
+    "size": 8023732,
+    "apkName": "net.android.adm_7.0.0_145.apk",
+    "icon": "net.android.adm.145.png",
+    "added": 1576410173.900567
+  },
+  "net.android.mdm_8.0.0_138.apk": {
+    "hash": "5c78728909a0c4a874c1e92c0b1265ce0fc5bd64a04de598df12d58a04b55d84",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.SET_WALLPAPER",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_app_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_app_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_app_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_app_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_app_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_app_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_app_launcher.png"
+    },
+    "icons": {
+      "65534": "net.android.mdm.138.xml",
+      "640": "net.android.mdm.138.png",
+      "480": "net.android.mdm.138.png",
+      "320": "net.android.mdm.138.png",
+      "240": "net.android.mdm.138.png",
+      "160": "net.android.mdm.138.png",
+      "0": "net.android.mdm.138.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.android.mdm",
+    "versionCode": 138,
+    "name": "MangaDLR",
+    "versionName": "8.0.0",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 28,
+    "sig": "6ee16f956a8defaa43ebb39b52e2b70e",
+    "signer": "0eac82aa4e65defbad7151f4bab5f304a52c4ff2c8e4b19bd16dfb818c30d5a4",
+    "size": 16990053,
+    "apkName": "net.android.mdm_8.0.0_138.apk",
+    "icon": "net.android.mdm.138.png",
+    "added": 1576410176.134355
+  },
+  "net.cyl.ranobe_3.0.0_31.apk": {
+    "hash": "484b68751446efb28e774260151f8ebf51fe7805a45d70cac7de64fa88cced3b",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.READ_LOGS",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.touchscreen"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "net.cyl.ranobe.31.xml",
+      "640": "net.cyl.ranobe.31.png",
+      "480": "net.cyl.ranobe.31.png",
+      "320": "net.cyl.ranobe.31.png",
+      "240": "net.cyl.ranobe.31.png",
+      "160": "net.cyl.ranobe.31.png",
+      "0": "net.cyl.ranobe.31.png"
+    },
+    "antiFeatures": [],
+    "packageName": "net.cyl.ranobe",
+    "versionCode": 31,
+    "name": "Ranobe",
+    "versionName": "3.0.0",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 28,
+    "sig": "7bfa959fb9b2201371a7b1f06f6522d2",
+    "signer": "5f23c91ae02300b1973179d93677ee510d692a15e206b6358a139e8dadb6b1d6",
+    "size": 5040503,
+    "apkName": "net.cyl.ranobe_3.0.0_31.apk",
+    "icon": "net.cyl.ranobe.31.png",
+    "added": 1576410177.766176
+  },
+  "top.rechinx.meow_1.0.6_6_official.apk": {
+    "hash": "47ec831d44d677dad94925345c7b4de443c56826140ca9392b6da039793b7d7c",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "top.rechinx.meow.6.png",
+      "480": "top.rechinx.meow.6.png",
+      "320": "top.rechinx.meow.6.png",
+      "240": "top.rechinx.meow.6.png",
+      "160": "top.rechinx.meow.6.png",
+      "0": "top.rechinx.meow.6.png"
+    },
+    "antiFeatures": [],
+    "packageName": "top.rechinx.meow",
+    "versionCode": 6,
+    "name": "Meow",
+    "versionName": "1.0.6",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "c2fb0bebe0059d54efef2952b8cde1a0",
+    "signer": "7891861a471eea11e128cd727947c8100247a37c37727015fef6568e1c7bc0dd",
+    "size": 5579647,
+    "apkName": "top.rechinx.meow_1.0.6_6_official.apk",
+    "icon": "top.rechinx.meow.6.png",
+    "added": 1576412565.551931
+  },
+  "top.rechinx.meow_1.0.8_8_mabDc.apk": {
+    "hash": "732081339998e679d7a3ac6243ca4f82c9c6184a2d8eba17c9b24d98d43c9337",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "top.rechinx.meow.8.png",
+      "480": "top.rechinx.meow.8.png",
+      "320": "top.rechinx.meow.8.png",
+      "240": "top.rechinx.meow.8.png",
+      "160": "top.rechinx.meow.8.png",
+      "0": "top.rechinx.meow.8.png"
+    },
+    "antiFeatures": [],
+    "packageName": "top.rechinx.meow",
+    "versionCode": 8,
+    "name": "Meow",
+    "versionName": "1.0.8",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "24a221ac91bc9209f85e378bbbe6fb30",
+    "signer": "7b43b872a77403a46408900402b66b44e7c1922c7d4e43d1e36656fabce47382",
+    "size": 5648655,
+    "apkName": "top.rechinx.meow_1.0.8_8_mabDc.apk",
+    "icon": "top.rechinx.meow.8.png",
+    "added": 1576412567.130564
+  },
+  "top.rechinx.meow_1.0.6_6_mabDc-378cb6b.apk": {
+    "hash": "649c7c9cdef573c7da63d49f95dbfbbe518905ef7afd704718d800997759264b",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.READ_PHONE_STATE",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "top.rechinx.meow.6.png",
+      "480": "top.rechinx.meow.6.png",
+      "320": "top.rechinx.meow.6.png",
+      "240": "top.rechinx.meow.6.png",
+      "160": "top.rechinx.meow.6.png",
+      "0": "top.rechinx.meow.6.png"
+    },
+    "antiFeatures": [],
+    "packageName": "top.rechinx.meow",
+    "versionCode": 6,
+    "name": "Meow",
+    "versionName": "1.0.6",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "378cb6bd74429bbf047fd6e679451f22",
+    "signer": "1fbb1e4e787b7b8c9c2c6eba28b1fc03b093a85e212ea149cd3dc8957813fa09",
+    "size": 5605061,
+    "apkName": "top.rechinx.meow_1.0.6_6_mabDc-378cb6b.apk",
+    "icon": "top.rechinx.meow.6.png",
+    "added": 1576412569.69591
   }
 }

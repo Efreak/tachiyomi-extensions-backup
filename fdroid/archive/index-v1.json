@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1576380118000,
+    "timestamp": 1576383774000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -38,9 +38,9 @@
       "summary": "AnimeDLR is an anime downloader for android",
       "webSite": "https://cylonu87.github.io/androidapps/animedlr",
       "added": 1573337450000,
-      "icon": "net.android.adm.137.png",
+      "icon": "net.android.adm.143.png",
       "packageName": "net.android.adm",
-      "lastUpdated": 1575499148000
+      "lastUpdated": 1576381373000
     },
     {
       "antiFeatures": [
@@ -113,9 +113,30 @@
       "summary": "MangaDLR is an android manga reader and downloader that supports CBZ.",
       "webSite": "https://cylonu87.github.io/androidapps/mangadlr",
       "added": 1573337455000,
-      "icon": "net.android.mdm.135.png",
+      "icon": "net.android.mdm.137.png",
       "packageName": "net.android.mdm",
-      "lastUpdated": 1575499151000
+      "lastUpdated": 1576381376000
+    },
+    {
+      "authorName": "ReChinX",
+      "categories": [
+        "Manga/Anime",
+        "Internet",
+        "Reading",
+        "Multimedia"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Features</p><ul><li> Page reading</li><li> Scroll reading</li><li> Auto update</li><li> Login support</li><li> Plugin-like comic source.</li></ul><p>Apologies for the dual versions. One of the versions is a forked  version released by mabDc on github; the other is official version  1.0.6 by rechinx; the mabDc version did not include a version bump or  a different package name, so the only way to know which is which on  version 1.0.6 (via fdroid) is to install an older version and see if  the signature check fails during install. At the current time, the  forked version is at 1.0.8 while the official version is at 1.0.6.  Since I'm not actually using Meow at the moment, I will not be fixing  this issue (I've been too lazy to look up the differences in the  forked version, and intend to check it out eventually).</p>",
+      "issueTracker": "https://github.com/neverfelly/Meow/issues",
+      "license": "GPL-3.0-only",
+      "name": "Meow",
+      "sourceCode": "https://github.com/neverfelly/Meow",
+      "summary": "Yet another free and open source manga reader",
+      "webSite": "https://github.com/neverfelly/Meow",
+      "added": 1576383765000,
+      "icon": "top.rechinx.meow.6.png",
+      "packageName": "top.rechinx.meow",
+      "lastUpdated": 1576383769000
     },
     {
       "authorName": "Javier Tom\u00e1s",
@@ -159,9 +180,9 @@
       "summary": "Ranobe is an app to read and download light novels",
       "webSite": "https://cyberneticlifeform.wixsite.com/cylonu87/ranobe-lightnovel",
       "added": 1569610728000,
-      "icon": "net.cyl.ranobe.26.png",
+      "icon": "net.cyl.ranobe.29.png",
       "packageName": "net.cyl.ranobe",
-      "lastUpdated": 1573337462000
+      "lastUpdated": 1576381377000
     },
     {
       "antiFeatures": [
@@ -4033,6 +4054,78 @@
     ],
     "net.android.adm": [
       {
+        "added": 1575499148000,
+        "apkName": "net.android.adm_6.1.3_143.apk",
+        "hash": "18dbbedb472c2998eb7ab38f842be7024bf248c96ade7d314a87149abbbbc4bc",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "net.android.adm",
+        "sig": "f928af2e4adcc563f8306f51ed36a866",
+        "signer": "cf4b1ae66b0c9d385fe138166d9f214053df5185fcaee341d3819812721391b4",
+        "size": 8416483,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.READ_LOGS",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 143,
+        "versionName": "6.1.3"
+      },
+      {
         "added": 1573337450000,
         "apkName": "net.android.adm_5.3.3_137.apk",
         "hash": "cddd17e40c9584fe7de4456d74def339a20a6b29ee060e4ec776a3c5e68ee63c",
@@ -4243,6 +4336,78 @@
     ],
     "net.android.mdm": [
       {
+        "added": 1575499151000,
+        "apkName": "net.android.mdm_7.0.1_137.apk",
+        "hash": "0cd819dbd02ecc5769205e4d552cafdebc366aca0fab4c58d1bb15e5642995b0",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "net.android.mdm",
+        "sig": "6ee16f956a8defaa43ebb39b52e2b70e",
+        "signer": "0eac82aa4e65defbad7151f4bab5f304a52c4ff2c8e4b19bd16dfb818c30d5a4",
+        "size": 17433509,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 137,
+        "versionName": "7.0.1"
+      },
+      {
         "added": 1573337455000,
         "apkName": "net.android.mdm_6.8.1_135.apk",
         "hash": "41805abe99e4cdc3af4c91aeae321ee75dd63c34e20d1a64ca8af28a3e47a741",
@@ -4312,6 +4477,81 @@
       }
     ],
     "net.cyl.ranobe": [
+      {
+        "added": 1573337456000,
+        "apkName": "net.cyl.ranobe_2.8.2_29.apk",
+        "features": [
+          "android.hardware.touchscreen"
+        ],
+        "hash": "845a75b95012ba1a25107d6902151aa246845d6c641c9158204abd9c60ae3293",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "packageName": "net.cyl.ranobe",
+        "sig": "7bfa959fb9b2201371a7b1f06f6522d2",
+        "signer": "5f23c91ae02300b1973179d93677ee510d692a15e206b6358a139e8dadb6b1d6",
+        "size": 5419847,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.READ_LOGS",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 29,
+        "versionName": "2.8.2"
+      },
       {
         "added": 1573337462000,
         "apkName": "net.cyl.ranobe_2.7.0_26.apk",
@@ -4585,6 +4825,60 @@
         ],
         "versionCode": 16,
         "versionName": "1.1.1"
+      }
+    ],
+    "top.rechinx.meow": [
+      {
+        "added": 1576383769000,
+        "apkName": "top.rechinx.meow_1.0.6_6_mabDc-378cb6b.apk",
+        "hash": "649c7c9cdef573c7da63d49f95dbfbbe518905ef7afd704718d800997759264b",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "top.rechinx.meow",
+        "sig": "378cb6bd74429bbf047fd6e679451f22",
+        "signer": "1fbb1e4e787b7b8c9c2c6eba28b1fc03b093a85e212ea149cd3dc8957813fa09",
+        "size": 5605061,
+        "targetSdkVersion": 27,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 6,
+        "versionName": "1.0.6"
       }
     ]
   }
