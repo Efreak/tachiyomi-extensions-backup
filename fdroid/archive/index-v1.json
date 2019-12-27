@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1577424327000,
+    "timestamp": 1577436188000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -797,8 +797,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -919,8 +919,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -1090,23 +1090,6 @@
       "icon": "eu.kanade.tachiyomi.extension.ru.mangahub.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.mangahub",
       "lastUpdated": 1577238919000
-    },
-    {
-      "categories": [
-        "Tachiyomi Extensions"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> http://mangakakalot.com</li></ul>",
-      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
-      "license": "Unknown",
-      "name": "Tachiyomi: MangaKakalot (EN)",
-      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
-      "summary": "Tachiyomi MangaKakalot Extension",
-      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1569613290000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangakakalot.7.png",
-      "packageName": "eu.kanade.tachiyomi.extension.en.mangakakalot",
-      "lastUpdated": 1569613664000
     },
     {
       "categories": [
@@ -1738,8 +1721,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -2990,25 +2973,6 @@
         "targetSdkVersion": 27,
         "versionCode": 3,
         "versionName": "1.2.3"
-      }
-    ],
-    "eu.kanade.tachiyomi.extension.en.mangakakalot": [
-      {
-        "added": 1569613664000,
-        "apkName": "tachiyomi-en.mangakakalot-v1.2.7.apk",
-        "features": [
-          "tachiyomi.extension"
-        ],
-        "hash": "15f2594718414763669e5c0267973c7492cbbd71941347ab098a3f182f162de1",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangakakalot",
-        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
-        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 136193,
-        "targetSdkVersion": 27,
-        "versionCode": 7,
-        "versionName": "1.2.7"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangareader": [

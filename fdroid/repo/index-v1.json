@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1577424322000,
+    "timestamp": 1577436183000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -1321,8 +1321,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -1477,8 +1477,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -1755,23 +1755,6 @@
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2147483647",
-      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> http://mangakakalot.com</li></ul>",
-      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
-      "license": "Unknown",
-      "name": "Tachiyomi: MangaKakalot (EN)",
-      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
-      "summary": "Tachiyomi MangaKakalot Extension",
-      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1569613290000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangakakalot.8.png",
-      "packageName": "eu.kanade.tachiyomi.extension.en.mangakakalot",
-      "lastUpdated": 1569613664000
-    },
-    {
-      "categories": [
-        "Tachiyomi Extensions"
-      ],
-      "suggestedVersionCode": "2147483647",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://www.mangakawaii.to</li><li> https://www.mangakawaii.to/manga/</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1850,23 +1833,6 @@
       "icon": "eu.kanade.tachiyomi.extension.es.mangamx.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.mangamx",
       "lastUpdated": 1575857482000
-    },
-    {
-      "categories": [
-        "Tachiyomi Extensions"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> http://manganelo.com</li></ul>",
-      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
-      "license": "Unknown",
-      "name": "Tachiyomi: MangaNelo (EN)",
-      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
-      "summary": "Tachiyomi MangaNelo Extension",
-      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1569613291000,
-      "icon": "eu.kanade.tachiyomi.extension.en.manganelo.4.png",
-      "packageName": "eu.kanade.tachiyomi.extension.en.manganelo",
-      "lastUpdated": 1569613291000
     },
     {
       "categories": [
@@ -2548,8 +2514,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -2891,8 +2857,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -4646,25 +4612,6 @@
         "versionName": "1.2.4"
       }
     ],
-    "eu.kanade.tachiyomi.extension.en.mangakakalot": [
-      {
-        "added": 1569613290000,
-        "apkName": "tachiyomi-en.mangakakalot-v1.2.8.apk",
-        "features": [
-          "tachiyomi.extension"
-        ],
-        "hash": "ea33c6331743462f7776cae8cc824f62168f05b3b8b4d94d7b44f4f54132362e",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangakakalot",
-        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
-        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 136193,
-        "targetSdkVersion": 27,
-        "versionCode": 8,
-        "versionName": "1.2.8"
-      }
-    ],
     "eu.kanade.tachiyomi.extension.en.mangakisa": [
       {
         "added": 1571530569000,
@@ -4701,25 +4648,6 @@
         "targetSdkVersion": 27,
         "versionCode": 1,
         "versionName": "1.2.1"
-      }
-    ],
-    "eu.kanade.tachiyomi.extension.en.manganelo": [
-      {
-        "added": 1569613291000,
-        "apkName": "tachiyomi-en.manganelo-v1.2.4.apk",
-        "features": [
-          "tachiyomi.extension"
-        ],
-        "hash": "63dae99f26821f6b749ce21d4df3fe7e8b478c82bfec674a5ad9158463953cc7",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "packageName": "eu.kanade.tachiyomi.extension.en.manganelo",
-        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
-        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50168,
-        "targetSdkVersion": 27,
-        "versionCode": 4,
-        "versionName": "1.2.4"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangaowl": [

@@ -69,18 +69,30 @@ mirrors = (
     'https://ghcdn.rawgit.org/Efreak/tachiyomi-extensions/master/fdroid',
     'https://combinatronics.com/Efreak/tachiyomi-extensions/master/fdroid'
 )
-
-# Set this to true to always use a build server. This saves specifying the
-# --server option on dedicated secure build server hosts.
-# build_server_always = True
-
-# Limit in number of characters that fields can take up
-# Only the fields listed here are supported, defaults shown
-# char_limits = {
-#     'author': 256,
-#     'name': 30,
-#     'summary': 80,
-#     'description': 4000,
-#     'video': 256,
-#     'whatsNew': 500,
-# }
+uninstall_list = (
+    'eu.kanade.tachiyomi.extension.en.mangakakalot',
+    'eu.kanade.tachiyomi.extension.en.manganelo',
+    'eu.kanade.tachiyomi.extension.en.toonily',
+    'eu.kanade.tachiyomi.extension.en.getmanhwa',
+    'eu.kanade.tachiyomi.extension.es.doujinhentai',
+    'eu.kanade.tachiyomi.extension.id.komikgo',
+    'eu.kanade.tachiyomi.extension.en.lhtranslation',
+    'eu.kanade.tachiyomi.extension.ja.rawlh',
+    'eu.kanade.tachiyomi.extension.ja.rawqq',
+    'eu.kanade.tachiyomi.extension.en.manhwa18',
+    'eu.kanade.tachiyomi.extension.vi.truyentranhlh',
+    'eu.kanade.tachiyomi.extension.es.heavenmanga',
+    'eu.kanade.tachiyomi.extension.en.heavenmanga',
+    'eu.kanade.tachiyomi.extension.en.naniscans',
+    'eu.kanade.tachiyomi.extension.pt.mangalivre',
+    'eu.kanade.tachiyomi.extension.ko.manhwahand',
+    'eu.kanade.tachiyomi.extension.all.wpmanga',
+    'eu.kanade.tachiyomi.extension.en.mangazuki',
+    'eu.kanade.tachiyomi.extension.en.shoujosense',
+    'eu.kanade.tachiyomi.extension.en.mangafox',
+    'eu.kanade.tachiyomi.extension.en.psychoplay',
+    'eu.kanade.tachiyomi.extension.en.mangacow',
+    'eu.kanade.tachiyomi.extension.en.mangago',
+    'eu.kanade.tachiyomi.extension.en.mangaplus',
+    'eu.kanade.tachiyomi.extension.en.manhwahentai',
+)
