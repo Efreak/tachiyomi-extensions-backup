@@ -30686,5 +30686,43 @@
     "apkName": "eu.kanade.tachiyomi.debug_r1563.apk",
     "icon": "eu.kanade.tachiyomi.debug.41.png",
     "added": 1577453120.710072
+  },
+  "tachiyomi-all.madara-v1.2.38.apk": {
+    "hash": "f85efa9a3dfcdc140154913d429d3030344456df703532cc5b3456237d3fac10",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.madara.38.png",
+      "480": "eu.kanade.tachiyomi.extension.all.madara.38.png",
+      "320": "eu.kanade.tachiyomi.extension.all.madara.38.png",
+      "240": "eu.kanade.tachiyomi.extension.all.madara.38.png",
+      "160": "eu.kanade.tachiyomi.extension.all.madara.38.png",
+      "0": "eu.kanade.tachiyomi.extension.all.madara.38.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+    "versionCode": 38,
+    "name": "Tachiyomi: Madara (multiple sources)",
+    "versionName": "1.2.38",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 66649,
+    "apkName": "tachiyomi-all.madara-v1.2.38.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.madara.38.png",
+    "added": 1577518222.624094
   }
 }
