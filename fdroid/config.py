@@ -36,6 +36,15 @@ keystorepass = os.environ["KEYSTOREPASS"]
 keypass = os.environ["KEYPASS"]
 keydname = "CN=Lenovo.localdomain, OU=F-Droid"
 
+# The full URL to a git remote repository. You can include
+# multiple servers to mirror to by wrapping the whole thing in {} or [], and
+# including the servergitmirrors strings in a comma-separated list.
+# Servers listed here will also be automatically inserted in the mirrors list.
+#
+servergitmirrors = {
+    'https://github.com/Efreak/tachiyomi-extensions'
+}
+
 # Any mirrors of this repo, for example all of the servers declared in
 # serverwebroot and all the servers declared in servergitmirrors,
 # will automatically be used by the client.  If one
@@ -50,6 +59,15 @@ mirrors = (
 # this is occasionally used on my local network. If it annoys you, disable it.
 # you can do this by opening the repo settings in fdroid.
     'http://192.168.0.2:8000/fdroid',
+# the rawgit alternatives. too lazy to see what sticks around, so toss em all in here...
+    'https://cdn.statically.io/gh/Efreak/tachiyomi-extensions/master/fdroid',
+    'https://cdn.jsdelivr.net/gh/Efreak/tachiyomi-extensions@master/fdroid',
+    'https://rawgit2.com/efreak/tachiyomi-extensions/master/fdroid',
+    'https://gitcdn.xyz/Efreak/tachiyomi-extensions/master/fdroid'
+    'https://gitcdn.link/Efreak/tachiyomi-extensions/master/fdroid'
+    'https://raw.githack.com/Efreak/tachiyomi-extensions/master/fdroid',
+    'https://ghcdn.rawgit.org/Efreak/tachiyomi-extensions/master/fdroid',
+    'https://combinatronics.com/Efreak/tachiyomi-extensions/master/fdroid'
 )
 
 # Set this to true to always use a build server. This saves specifying the
