@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1577489426000,
+    "timestamp": 1577492770000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -1379,8 +1379,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -1498,23 +1498,6 @@
       "icon": "eu.kanade.tachiyomi.extension.it.mangaeden.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.it.mangaeden",
       "lastUpdated": 1569613677000
-    },
-    {
-      "categories": [
-        "Tachiyomi Extensions"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> http://mangafree.online</li></ul>",
-      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
-      "license": "Unknown",
-      "name": "Tachiyomi: Mangafree (EN)",
-      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
-      "summary": "Tachiyomi Mangafree Extension",
-      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1569613288000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangafree.4.png",
-      "packageName": "eu.kanade.tachiyomi.extension.en.mangafree",
-      "lastUpdated": 1572125248000
     },
     {
       "categories": [
@@ -1803,23 +1786,6 @@
       "icon": "eu.kanade.tachiyomi.extension.id.mangashiro.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.mangashiro",
       "lastUpdated": 1569989045000
-    },
-    {
-      "categories": [
-        "Tachiyomi Extensions"
-      ],
-      "suggestedVersionCode": "2147483647",
-      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://readms.net/</li><li> http://mangastream.com/manga/$name</li><li> https://myanimelist.net/manga.php?q=</li></ul>",
-      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
-      "license": "Unknown",
-      "name": "Tachiyomi: Mangastream (EN)",
-      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
-      "summary": "Tachiyomi Mangastream Extension",
-      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1569613296000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangastream.4.png",
-      "packageName": "eu.kanade.tachiyomi.extension.en.mangastream",
-      "lastUpdated": 1569613668000
     },
     {
       "categories": [
@@ -2263,8 +2229,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -2555,8 +2521,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -4029,25 +3995,6 @@
         "versionName": "1.2.2"
       }
     ],
-    "eu.kanade.tachiyomi.extension.en.mangafree": [
-      {
-        "added": 1572125248000,
-        "apkName": "tachiyomi-en.mangafree-v1.2.4.apk",
-        "features": [
-          "tachiyomi.extension"
-        ],
-        "hash": "106b0d322000eaa08c680439680ffa24d48f923123ba006d15bb859e133f7e28",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangafree",
-        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
-        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 54264,
-        "targetSdkVersion": 27,
-        "versionCode": 4,
-        "versionName": "1.2.4"
-      }
-    ],
     "eu.kanade.tachiyomi.extension.en.mangahasu": [
       {
         "added": 1570587097000,
@@ -4255,25 +4202,6 @@
         "targetSdkVersion": 27,
         "versionCode": 5,
         "versionName": "1.2.5"
-      }
-    ],
-    "eu.kanade.tachiyomi.extension.en.mangastream": [
-      {
-        "added": 1569613296000,
-        "apkName": "tachiyomi-en.mangastream-v1.2.4.apk",
-        "features": [
-          "tachiyomi.extension"
-        ],
-        "hash": "7c620e5bacf709d67fb44346eb4cce6f5cd0a80c265264f977bda922f45dd74a",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "packageName": "eu.kanade.tachiyomi.extension.en.mangastream",
-        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
-        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 62462,
-        "targetSdkVersion": 27,
-        "versionCode": 4,
-        "versionName": "1.2.4"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangatown": [
