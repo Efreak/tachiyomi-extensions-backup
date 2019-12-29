@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1577585975000,
+    "timestamp": 1577585991000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -510,9 +510,9 @@
       "summary": "Tachiyomi Guya Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1569613282000,
-      "icon": "eu.kanade.tachiyomi.extension.en.guya.5.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.guya.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.guya",
-      "lastUpdated": 1569613661000
+      "lastUpdated": 1577585984000
     },
     {
       "categories": [
@@ -2607,6 +2607,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.guya": [
+      {
+        "added": 1569613282000,
+        "apkName": "tachiyomi-en.guya-v1.2.6.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "6cf5d4e8ba3bdaf4accc9d9151e2f0f3e6da163e141b70cddfbc6613403adf1b",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.guya",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66537,
+        "targetSdkVersion": 27,
+        "versionCode": 6,
+        "versionName": "1.2.6"
+      },
       {
         "added": 1569613661000,
         "apkName": "tachiyomi-en.guya-v1.2.5.apk",

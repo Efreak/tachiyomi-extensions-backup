@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1577585970000,
+    "timestamp": 1577585986000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -816,9 +816,9 @@
       "summary": "Tachiyomi Guya Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1569613282000,
-      "icon": "eu.kanade.tachiyomi.extension.en.guya.6.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.guya.7.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.guya",
-      "lastUpdated": 1569613661000
+      "lastUpdated": 1577585984000
     },
     {
       "categories": [
@@ -3845,12 +3845,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.guya": [
       {
-        "added": 1569613282000,
-        "apkName": "tachiyomi-en.guya-v1.2.6.apk",
+        "added": 1577585984000,
+        "apkName": "tachiyomi-en.guya-v1.2.7.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "6cf5d4e8ba3bdaf4accc9d9151e2f0f3e6da163e141b70cddfbc6613403adf1b",
+        "hash": "a41b826cc478b7cb9e44c4541ab90f25ba7ab3813c66b04de5f185a1bf181208",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.guya",
@@ -3858,8 +3858,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 66537,
         "targetSdkVersion": 27,
-        "versionCode": 6,
-        "versionName": "1.2.6"
+        "versionCode": 7,
+        "versionName": "1.2.7"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.hentai2read": [
