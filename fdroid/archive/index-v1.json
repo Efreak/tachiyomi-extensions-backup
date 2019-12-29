@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1577492775000,
+    "timestamp": 1577585975000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -753,10 +753,6 @@
       "lastUpdated": 1575857498000
     },
     {
-      "antiFeatures": [
-        "DisabledAlgorithm",
-        "KnownVuln"
-      ],
       "categories": [
         "Tachiyomi Extensions"
       ],
@@ -769,9 +765,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1576036002000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.37.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.38.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1577489422000
+      "lastUpdated": 1577585965000
     },
     {
       "categories": [
@@ -876,8 +872,8 @@
     },
     {
       "antiFeatures": [
-        "DisabledAlgorithm",
-        "KnownVuln"
+        "KnownVuln",
+        "DisabledAlgorithm"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -1593,8 +1589,8 @@
     },
     {
       "antiFeatures": [
-        "DisabledAlgorithm",
-        "KnownVuln"
+        "KnownVuln",
+        "DisabledAlgorithm"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -2180,6 +2176,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
+      {
+        "added": 1577489422000,
+        "apkName": "tachiyomi-all.madara-v1.2.38.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "f85efa9a3dfcdc140154913d429d3030344456df703532cc5b3456237d3fac10",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66649,
+        "targetSdkVersion": 27,
+        "versionCode": 38,
+        "versionName": "1.2.38"
+      },
       {
         "added": 1577418008000,
         "antiFeatures": [

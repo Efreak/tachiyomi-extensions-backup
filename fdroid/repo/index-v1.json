@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1577492770000,
+    "timestamp": 1577585970000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -1255,9 +1255,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1576036002000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.38.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.39.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1577489422000
+      "lastUpdated": 1577585965000
     },
     {
       "categories": [
@@ -1379,8 +1379,8 @@
     },
     {
       "antiFeatures": [
-        "DisabledAlgorithm",
-        "KnownVuln"
+        "KnownVuln",
+        "DisabledAlgorithm"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -2229,8 +2229,8 @@
     },
     {
       "antiFeatures": [
-        "DisabledAlgorithm",
-        "KnownVuln"
+        "KnownVuln",
+        "DisabledAlgorithm"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -2521,8 +2521,8 @@
     },
     {
       "antiFeatures": [
-        "DisabledAlgorithm",
-        "KnownVuln"
+        "KnownVuln",
+        "DisabledAlgorithm"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -3290,12 +3290,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
       {
-        "added": 1577489422000,
-        "apkName": "tachiyomi-all.madara-v1.2.38.apk",
+        "added": 1577585965000,
+        "apkName": "tachiyomi-all.madara-v1.2.39.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "f85efa9a3dfcdc140154913d429d3030344456df703532cc5b3456237d3fac10",
+        "hash": "431065ace806e529234d316222fb4ed6b7f444d8bbca2c10e5f996734d97502b",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.madara",
@@ -3303,8 +3303,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 66649,
         "targetSdkVersion": 27,
-        "versionCode": 38,
-        "versionName": "1.2.38"
+        "versionCode": 39,
+        "versionName": "1.2.39"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangabox": [
