@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1577585986000,
+    "timestamp": 1577587018000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -285,7 +285,7 @@
       "added": 1571017609000,
       "icon": "eu.kanade.tachiyomi.debug.41.png",
       "packageName": "eu.kanade.tachiyomi.debug",
-      "lastUpdated": 1577424320000
+      "lastUpdated": 1577586217000
     },
     {
       "antiFeatures": [
@@ -308,10 +308,10 @@
       "sourceCode": "https://www.github.com/inorichi/Tachiyomi",
       "summary": "Free and open source manga reader for Android",
       "webSite": "https://www.github.com/inorichi/Tachiyomi",
-      "added": 1569610719000,
+      "added": 1555135862000,
       "icon": "eu.kanade.tachiyomi.41.png",
       "packageName": "eu.kanade.tachiyomi",
-      "lastUpdated": 1569610719000
+      "lastUpdated": 1555135862000
     },
     {
       "categories": [
@@ -3019,7 +3019,7 @@
     ],
     "eu.kanade.tachiyomi": [
       {
-        "added": 1569610719000,
+        "added": 1555135862000,
         "apkName": "eu.kanade.tachiyomi_41.apk",
         "hash": "df54662bf3e9cd4590717ca9fcbb9c14ac65f6eeffc72723b97eac9fe234ac2f",
         "hashType": "sha256",
@@ -3086,9 +3086,9 @@
     ],
     "eu.kanade.tachiyomi.debug": [
       {
-        "added": 1577424320000,
-        "apkName": "eu.kanade.tachiyomi.debug_r1563.apk",
-        "hash": "b05fe261daa6513169648fad781897b4f734391c9502efcf42d537e525b80008",
+        "added": 1577586217000,
+        "apkName": "eu.kanade.tachiyomi.debug_r1569.apk",
+        "hash": "8512815455565e1df142090ebbd63bd01dd58b7083223e846877d408fd0c5bf5",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "nativecode": [
@@ -3099,7 +3099,7 @@
         "packageName": "eu.kanade.tachiyomi.debug",
         "sig": "4f4d96b80ff4c7d9fcba199c677c7d3c",
         "signer": "8d9c1b4e4c093bc5b50f045bb283b41c547f6ba0932265241e40ccb27e329095",
-        "size": 13423811,
+        "size": 13436085,
         "targetSdkVersion": 28,
         "uses-permission": [
           [
@@ -3131,6 +3131,10 @@
             null
           ],
           [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
             "android.permission.FOREGROUND_SERVICE",
             null
           ],
@@ -3152,7 +3156,7 @@
           ]
         ],
         "versionCode": 41,
-        "versionName": "0.8.4-1563"
+        "versionName": "0.8.4-1569"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.boommanga": [
