@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1578069118000,
+    "timestamp": 1578195165000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -286,6 +286,42 @@
       "icon": "eu.kanade.tachiyomi.debug.41.png",
       "packageName": "eu.kanade.tachiyomi.debug",
       "lastUpdated": 1577424320000
+    },
+    {
+      "antiFeatures": [
+        "Tracking",
+        "UpstreamNonFree"
+      ],
+      "authorName": "Jays2Kings",
+      "categories": [
+        "Manga/Anime",
+        "Internet",
+        "Reading",
+        "Multimedia"
+      ],
+      "changelog": "https://github.com/Jays2Kings/tachiyomi/releases",
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Tachiyomi is a free and open source manga reader for Android.</p><p>Features of Tachiyomi include:</p><ul><li> Online reading from sources such as KissManga, MangaDex, <a href=\"https://github.com/inorichi/tachiyomi-extensions\">and more</a></li><li> Local reading of downloaded manga</li><li> A configurable reader with multiple viewers, reading directions and other settings</li><li> <a href=\"https://myanimelist.net/\">MyAnimeList</a>, <a href=\"https://anilist.co/\">AniList</a>, <a href=\"https://kitsu.io/explore/anime\">Kitsu</a>, and <a href=\"https://shikimori.one/\">Shikimori</a> support</li><li> Categories to organize your library</li><li> Light and dark themes</li><li> Schedule updating your library for new chapters</li><li> Create backups locally to read offline or to your desired cloud service.</li></ul><p>Plus some new features in this fork such as:</p><ul><li> Android 10 Dark Theme support: You can have Tachiyomi follow the system theme as well as customize which dark theme to use for dark mode</li><li> Android 10 edge to edge support (and a translucent nav bar for older versions): no more small ugly bar for the gesture navigation</li><li> Automatic background based on manga page: For those that like having a white background to match the content, this will automatically set the background to match for moments such as a flashback section of a manga</li><li> <a href=\"Richer\">New chapters notifications https://raw.githubusercontent.com/Jays2Kings/tachiyomi/master/.github/readme-images/new%20notifcations%20collasped.png</a>: Now as a group of notifications, <a href=\"expanding\">out to show more information https://raw.githubusercontent.com/Jays2Kings/tachiyomi/master/.github/readme-images/new%20notifcations.png</a> about the new chapters (like chapter name and manga cover). Tapping on it will bring you right into the chapter or expand it to mark it as read or view all chapters</li><li> <a href=\"New\">material snackbar https://raw.githubusercontent.com/Jays2Kings/tachiyomi/master/.github/readme-images/material%20snackbar.png</a>: Removing manga now auto deletes chapters and has an undo button in case you change your mind</li><li> Multi Source Migration from library</li><li> Notification separation of updating library and new chapters</li><li> <a href=\"Share\">sheets upgrade for Android 10 https://raw.githubusercontent.com/Jays2Kings/tachiyomi/master/.github/readme-images/share%20menu.png</a></li><li> Reader seekbar overrides switch app gesture in Android 10, so no more accidents for that</li><li> Option to hide manga titles in grid view</li><li> Filter out your library by searching for tags (ex. \"Comedy\" or \"Slice of Life\") or exclude mangas by a tag (ex. \"-Shounen\" or \"-Romance\"). Tapping on these tags also performs a local search. You can also search multiple tags (ex. \"Romance, -Harem, Comedy\")</li><li> Android X Support (<i>Becasue of this change needed for Android 10 features, extension preferences are currently disabled for all extensions except Mangadex</i>)</li><li> Tri-State Filters on library</li><li> Filter extensions based on your locale</li><li> Webview Navigation</li><li> Fingerprint/Biometrics lock</li><li> Range Select for Library and Chapters: long Press on an item then long press on another to select everything in between</li><li> Automatically checks for extension updates</li></ul>",
+      "issueTracker": "https://www.github.com/Jays2Kings/Tachiyomi/issues",
+      "license": "Apache-2.0",
+      "name": "Tachiyomi (Jays2Kings Fork)",
+      "sourceCode": "https://www.github.com/Jays2Kings/Tachiyomi",
+      "summary": "Jays2Kings fork of Tachiyomi, with multiple added features.",
+      "webSite": "https://www.github.com/Jays2Kings/Tachiyomi",
+      "added": 1578194151000,
+      "icon": "eu.kanade.tachiyomi.j2k.48.png",
+      "packageName": "eu.kanade.tachiyomi.j2k",
+      "lastUpdated": 1578194151000,
+      "localized": {
+        "en": {
+          "phoneScreenshots": [
+            "material_snackbar.png",
+            "new_notifications.png",
+            "new_notifications_collapsed.png",
+            "share_menu.png"
+          ]
+        }
+      }
     },
     {
       "antiFeatures": [
@@ -1420,8 +1456,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -2270,8 +2306,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -2562,8 +2598,8 @@
     },
     {
       "antiFeatures": [
-        "KnownVuln",
-        "DisabledAlgorithm"
+        "DisabledAlgorithm",
+        "KnownVuln"
       ],
       "categories": [
         "Tachiyomi Extensions"
@@ -6155,6 +6191,93 @@
         "targetSdkVersion": 27,
         "versionCode": 1,
         "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.j2k": [
+      {
+        "added": 1578194151000,
+        "apkName": "eu.kanade.tachiyomi.j2k-v0.9.41_48.apk",
+        "hash": "61049de46bc59b841f66763ed68abfba745476ddf737f85868c34d259a9ee651",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi.j2k",
+        "sig": "ee6e9de8e7354d0e52acd44f225bb5bb",
+        "signer": "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8",
+        "size": 17846368,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 48,
+        "versionName": "0.9.41"
       }
     ],
     "net.android.adm": [
