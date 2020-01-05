@@ -6,4 +6,7 @@ SourceCode: https://github.com/inorichi/tachiyomi-extensions
 IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
 
 Name: 'Tachiyomi: Patch Friday (EN)'
-Summary: 'Tachiyomi Patch Friday Extension'
+Summary: Tachiyomi Patch Friday Extension
+
+AutoUpdateMode: None
+UpdateCheckMode: None

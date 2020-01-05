@@ -9,10 +9,11 @@ Name: 'Tachiyomi: Hiveworks Comics (EN)'
 Summary: Tachiyomi Hiveworks Comics Extension
 Description: |-
     🤩✨🤪😳😯💖🤗😲😫💗💥😆😄
+
     Hiveworks Comics is a creator-owned comics and graphic novel publisher focused on free to read webcomics.
-    
+
     Hiveworks comics tend to be high quality projects, and well worth reading.
-    
+
     The following comics are published directly on the main hiveworks website, however some of them may not work properly due to not following the standard Hiveworks website/archive layout:
     * 2 Slices
     * A Ghost Story
@@ -150,3 +151,6 @@ Description: |-
     * Wilde Life
     * Witchy
     * Zombie Roomie
+
+AutoUpdateMode: None
+UpdateCheckMode: None
