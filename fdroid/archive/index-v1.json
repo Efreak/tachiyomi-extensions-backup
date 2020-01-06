@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1578268779000,
+    "timestamp": 1578268976000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -832,10 +832,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi ManaMoa (MangaShow.Me) Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1578264823000,
+      "added": 1578265002000,
       "icon": "eu.kanade.tachiyomi.extension.ko.mangashowme.14.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.mangashowme",
-      "lastUpdated": 1578265004000
+      "lastUpdated": 1578268925000
     },
     {
       "categories": [
@@ -1290,9 +1290,9 @@
       "summary": "Tachiyomi My Manga Reader CMS (Many sources) Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1578264732000,
-      "icon": "eu.kanade.tachiyomi.extension.all.mmrcms.24.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.mmrcms.25.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mmrcms",
-      "lastUpdated": 1578264951000
+      "lastUpdated": 1578268789000
     },
     {
       "categories": [
@@ -1613,9 +1613,9 @@
       "summary": "Tachiyomi Scantrad Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1578264803000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
-      "lastUpdated": 1578264991000
+      "lastUpdated": 1578268909000
     },
     {
       "categories": [
@@ -2733,6 +2733,23 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mmrcms": [
       {
+        "added": 1578264732000,
+        "apkName": "tachiyomi-all.mmrcms-v1.2.25.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "86d52f68a6fff98e290f3166f5a97fdd72b7f28cbe56e0575930bb5f556312fb",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.mmrcms",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 62379,
+        "targetSdkVersion": 27,
+        "versionCode": 25,
+        "versionName": "1.2.25"
+      },
+      {
         "added": 1578264951000,
         "apkName": "tachiyomi-all.mmrcms-v1.2.24.apk",
         "features": [
@@ -3620,6 +3637,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.scantrad": [
+      {
+        "added": 1578264803000,
+        "apkName": "tachiyomi-fr.scantrad-v1.2.3.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "c2d2f9f29aceed9af8abf6acb93f564102f69e6b7a9428a6d3d6d141b7c4033a",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54190,
+        "targetSdkVersion": 27,
+        "versionCode": 3,
+        "versionName": "1.2.3"
+      },
       {
         "added": 1578264991000,
         "apkName": "tachiyomi-fr.scantrad-v1.2.2.apk",

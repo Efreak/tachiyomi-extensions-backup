@@ -5848,7 +5848,7 @@
     "added": 1578293622.85273
   },
   "tachiyomi-ko.mangashowme-v1.2.15.apk": {
-    "hash": "5bbd9bba556a19c48746491bffa2f76b3a8c09a90034e1bbc97c77c30644b756",
+    "hash": "b0973a7d3020ba8531d91d7acddfbd56b4f7c0af48c3e82728a9cc14cb6e18b9",
     "hashType": "sha256",
     "uses-permission": [],
     "uses-permission-sdk-23": [],
@@ -5880,10 +5880,10 @@
     "targetSdkVersion": 27,
     "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
     "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-    "size": 62398,
+    "size": 62401,
     "apkName": "tachiyomi-ko.mangashowme-v1.2.15.apk",
     "icon": "eu.kanade.tachiyomi.extension.ko.mangashowme.15.png",
-    "added": 1578293623.653964
+    "added": 1578297725.589783
   },
   "tachiyomi-ko.manhwahand-v1.2.3.apk": {
     "hash": "d2ba86c84a09ce0527da19c3339e98f28f31a111029c627b75f92f64ceb1acd7",
@@ -14630,5 +14630,81 @@
     "apkName": "eu.kanade.tachiyomi.debug_r1579.apk",
     "icon": "eu.kanade.tachiyomi.debug.41.png",
     "added": 1578296854.598949
+  },
+  "tachiyomi-all.mmrcms-v1.2.26.apk": {
+    "hash": "a2bfff1a1185119eb72f4b344665f3eee8d8041871c628e691853f274f83fb1c",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.mmrcms.26.png",
+      "480": "eu.kanade.tachiyomi.extension.all.mmrcms.26.png",
+      "320": "eu.kanade.tachiyomi.extension.all.mmrcms.26.png",
+      "240": "eu.kanade.tachiyomi.extension.all.mmrcms.26.png",
+      "160": "eu.kanade.tachiyomi.extension.all.mmrcms.26.png",
+      "0": "eu.kanade.tachiyomi.extension.all.mmrcms.26.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.mmrcms",
+    "versionCode": 26,
+    "name": "Tachiyomi: My Manga Reader CMS (Many sources)",
+    "versionName": "1.2.26",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62385,
+    "apkName": "tachiyomi-all.mmrcms-v1.2.26.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.mmrcms.26.png",
+    "added": 1578297589.721701
+  },
+  "tachiyomi-fr.scantrad-v1.2.4.apk": {
+    "hash": "afb4f6ab0087864a83c4dc10f37786a70f3e88e7ea57ac25eb6af4837b6359b0",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.fr.scantrad.4.png",
+      "480": "eu.kanade.tachiyomi.extension.fr.scantrad.4.png",
+      "320": "eu.kanade.tachiyomi.extension.fr.scantrad.4.png",
+      "240": "eu.kanade.tachiyomi.extension.fr.scantrad.4.png",
+      "160": "eu.kanade.tachiyomi.extension.fr.scantrad.4.png",
+      "0": "eu.kanade.tachiyomi.extension.fr.scantrad.4.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
+    "versionCode": 4,
+    "name": "Tachiyomi: Scantrad",
+    "versionName": "1.2.4",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54188,
+    "apkName": "tachiyomi-fr.scantrad-v1.2.4.apk",
+    "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.4.png",
+    "added": 1578297709.434627
   }
 }
