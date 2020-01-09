@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1578605706000,
+    "timestamp": 1578610456000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -1397,11 +1397,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: Manga Cruzers",
+      "name": "Tachiyomi: Manga Cruzers (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Manga Cruzers Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1578605505000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangacruzers.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangacruzers",
