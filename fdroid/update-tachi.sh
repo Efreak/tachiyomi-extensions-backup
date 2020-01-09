@@ -17,8 +17,9 @@ oldrev=$(git rev-parse HEAD)
 # generally have a separate commit for each file
 for file in $apkfiles
 do
-	cp $HOME/tachiyomi-extensions/apk/$file repo/$file
-	fdroid update -c --pretty #this takes too long. figure out a way to have netlify push the results back to github
+	cp $HOME/tachiyomi-extensions/apk/$file repo/$file --preserve=all
+	# this takes too long. figure out a way to have netlify push the results back to github
+	fdroid update --create-metadata --pretty --use-date-from-apk
 	git add archive repo metadata tmp
 	git commit -m "$file"
 done
