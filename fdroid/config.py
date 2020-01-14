@@ -95,4 +95,5 @@ uninstall_list = (
     'eu.kanade.tachiyomi.extension.en.mangago',
     'eu.kanade.tachiyomi.extension.en.mangaplus',
     'eu.kanade.tachiyomi.extension.en.manhwahentai',
+    'eu.kanade.tachiyomi.extension.en.mangarock',
 )
