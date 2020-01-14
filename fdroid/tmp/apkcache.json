@@ -14554,5 +14554,119 @@
     "apkName": "top.rechinx.meow_1.0.6_6_mabDc-378cb6b.apk",
     "icon": "top.rechinx.meow.6.png",
     "added": 1578975439.692775
+  },
+  "tachiyomi-all.madara-v1.2.45.apk": {
+    "hash": "ecc95eb8365a13a1d5b77cd655177e4f12bd60d883f068c17398a22ee222b251",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.madara.45.png",
+      "480": "eu.kanade.tachiyomi.extension.all.madara.45.png",
+      "320": "eu.kanade.tachiyomi.extension.all.madara.45.png",
+      "240": "eu.kanade.tachiyomi.extension.all.madara.45.png",
+      "160": "eu.kanade.tachiyomi.extension.all.madara.45.png",
+      "0": "eu.kanade.tachiyomi.extension.all.madara.45.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+    "versionCode": 45,
+    "name": "Tachiyomi: Madara (multiple sources)",
+    "versionName": "1.2.45",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 58285,
+    "apkName": "tachiyomi-all.madara-v1.2.45.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.madara.45.png",
+    "added": 1579050068.646258
+  },
+  "tachiyomi-all.mangadex-v1.2.78.apk": {
+    "hash": "47a01908b9ca73cc1fe28dd5e9972ed4c31e7eeb7178aa77d34fbc5e6c2a3ea7",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.mangadex.78.png",
+      "480": "eu.kanade.tachiyomi.extension.all.mangadex.78.png",
+      "320": "eu.kanade.tachiyomi.extension.all.mangadex.78.png",
+      "240": "eu.kanade.tachiyomi.extension.all.mangadex.78.png",
+      "160": "eu.kanade.tachiyomi.extension.all.mangadex.78.png",
+      "0": "eu.kanade.tachiyomi.extension.all.mangadex.78.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
+    "versionCode": 78,
+    "name": "Tachiyomi: MangaDex",
+    "versionName": "1.2.78",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 74770,
+    "apkName": "tachiyomi-all.mangadex-v1.2.78.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.mangadex.78.png",
+    "added": 1579050088.507507
+  },
+  "tachiyomi-id.mangaindo-v1.2.1.apk": {
+    "hash": "e9da4dbde221ab292c1e0767c36f9dcfd1988a99ded8dcb0a73f3c8b9b6d5dc2",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.id.mangaindo.1.png",
+      "480": "eu.kanade.tachiyomi.extension.id.mangaindo.1.png",
+      "320": "eu.kanade.tachiyomi.extension.id.mangaindo.1.png",
+      "240": "eu.kanade.tachiyomi.extension.id.mangaindo.1.png",
+      "160": "eu.kanade.tachiyomi.extension.id.mangaindo.1.png",
+      "0": "eu.kanade.tachiyomi.extension.id.mangaindo.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.id.mangaindo",
+    "versionCode": 1,
+    "name": "Tachiyomi: Manga Indo",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 82863,
+    "apkName": "tachiyomi-id.mangaindo-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.id.mangaindo.1.png",
+    "added": 1579050106.899811
   }
 }
