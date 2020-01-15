@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1579061586000,
+    "timestamp": 1579125612000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -546,9 +546,9 @@
       "summary": "Tachiyomi FoolSlide Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1578946358000,
-      "icon": "eu.kanade.tachiyomi.extension.all.foolslide.30.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.foolslide.31.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
-      "lastUpdated": 1578946506000
+      "lastUpdated": 1579125570000
     },
     {
       "categories": [
@@ -1377,9 +1377,9 @@
       "summary": "Tachiyomi My Manga Reader CMS (Many sources) Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1578946365000,
-      "icon": "eu.kanade.tachiyomi.extension.all.mmrcms.25.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.mmrcms.26.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mmrcms",
-      "lastUpdated": 1578946537000
+      "lastUpdated": 1579125589000
     },
     {
       "categories": [
@@ -1618,6 +1618,23 @@
       "icon": "eu.kanade.tachiyomi.extension.ja.rawdevart.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.ja.rawdevart",
       "lastUpdated": 1578946596000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://rawkuma.com</li></ul>",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Rawkuma (JA)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Rawkuma Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1578946425000,
+      "icon": "eu.kanade.tachiyomi.extension.ja.rawkuma.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
+      "lastUpdated": 1579125605000
     },
     {
       "categories": [
@@ -2426,6 +2443,23 @@
     ],
     "eu.kanade.tachiyomi.extension.all.foolslide": [
       {
+        "added": 1578946358000,
+        "apkName": "tachiyomi-all.foolslide-v1.2.31.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "02b17a13e46f44a4ef196788ab51a6a86a0f26fb7ce3d999a426e85f46f74a40",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 41909,
+        "targetSdkVersion": 27,
+        "versionCode": 31,
+        "versionName": "1.2.31"
+      },
+      {
         "added": 1578946506000,
         "apkName": "tachiyomi-all.foolslide-v1.2.30.apk",
         "features": [
@@ -3074,6 +3108,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mmrcms": [
+      {
+        "added": 1578946365000,
+        "apkName": "tachiyomi-all.mmrcms-v1.2.26.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "a2bfff1a1185119eb72f4b344665f3eee8d8041871c628e691853f274f83fb1c",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.mmrcms",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 62385,
+        "targetSdkVersion": 27,
+        "versionCode": 26,
+        "versionName": "1.2.26"
+      },
       {
         "added": 1578946537000,
         "apkName": "tachiyomi-all.mmrcms-v1.2.25.apk",
@@ -4466,6 +4517,25 @@
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 87032,
+        "targetSdkVersion": 27,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.ja.rawkuma": [
+      {
+        "added": 1578946425000,
+        "apkName": "tachiyomi-ja.rawkuma-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "86acafe9de3b06fcdc5d3e53696c4234b13d0e1b20dea814b4b6883cc9be4693",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 78775,
         "targetSdkVersion": 27,
         "versionCode": 1,
         "versionName": "1.2.1"

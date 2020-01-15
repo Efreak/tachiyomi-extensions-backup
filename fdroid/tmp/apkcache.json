@@ -14871,5 +14871,119 @@
     "apkName": "net.android.mdm_8.0.1_139.apk",
     "icon": "net.android.mdm.139.png",
     "added": 1579090379.31931
+  },
+  "tachiyomi-all.foolslide-v1.2.32.apk": {
+    "hash": "0e1aa4483ab5ea858886a9ef27f33d34c14f702db8b2925a85fb4c1e27683609",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.foolslide.32.png",
+      "480": "eu.kanade.tachiyomi.extension.all.foolslide.32.png",
+      "320": "eu.kanade.tachiyomi.extension.all.foolslide.32.png",
+      "240": "eu.kanade.tachiyomi.extension.all.foolslide.32.png",
+      "160": "eu.kanade.tachiyomi.extension.all.foolslide.32.png",
+      "0": "eu.kanade.tachiyomi.extension.all.foolslide.32.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
+    "versionCode": 32,
+    "name": "Tachiyomi: FoolSlide (multiple sources)",
+    "versionName": "1.2.32",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 41909,
+    "apkName": "tachiyomi-all.foolslide-v1.2.32.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.foolslide.32.png",
+    "added": 1579154370.573162
+  },
+  "tachiyomi-all.mmrcms-v1.2.27.apk": {
+    "hash": "d8c51adb96e9125b60bf99659eb2f057386534f63b99fa3736a81504aaa8ef85",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.mmrcms.27.png",
+      "480": "eu.kanade.tachiyomi.extension.all.mmrcms.27.png",
+      "320": "eu.kanade.tachiyomi.extension.all.mmrcms.27.png",
+      "240": "eu.kanade.tachiyomi.extension.all.mmrcms.27.png",
+      "160": "eu.kanade.tachiyomi.extension.all.mmrcms.27.png",
+      "0": "eu.kanade.tachiyomi.extension.all.mmrcms.27.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.mmrcms",
+    "versionCode": 27,
+    "name": "Tachiyomi: My Manga Reader CMS (Many sources)",
+    "versionName": "1.2.27",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62386,
+    "apkName": "tachiyomi-all.mmrcms-v1.2.27.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.mmrcms.27.png",
+    "added": 1579154389.692959
+  },
+  "tachiyomi-ja.rawkuma-v1.2.2.apk": {
+    "hash": "5bd4bcca4a774e7be6a3faffd49ea0d0e396a2ee04b8c8365906ce5aba47561d",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ja.rawkuma.2.png",
+      "480": "eu.kanade.tachiyomi.extension.ja.rawkuma.2.png",
+      "320": "eu.kanade.tachiyomi.extension.ja.rawkuma.2.png",
+      "240": "eu.kanade.tachiyomi.extension.ja.rawkuma.2.png",
+      "160": "eu.kanade.tachiyomi.extension.ja.rawkuma.2.png",
+      "0": "eu.kanade.tachiyomi.extension.ja.rawkuma.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
+    "versionCode": 2,
+    "name": "Tachiyomi: Rawkuma",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 78775,
+    "apkName": "tachiyomi-ja.rawkuma-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ja.rawkuma.2.png",
+    "added": 1579154405.985583
   }
 }
