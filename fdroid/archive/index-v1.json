@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1579052725000,
+    "timestamp": 1579061586000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -146,9 +146,9 @@
       "summary": "MangaDLR is an android manga reader and downloader that supports CBZ.",
       "webSite": "https://cylonu87.github.io/androidapps/mangadlr",
       "added": 1578946353000,
-      "icon": "net.android.mdm.137.png",
+      "icon": "net.android.mdm.138.png",
       "packageName": "net.android.mdm",
-      "lastUpdated": 1578946496000
+      "lastUpdated": 1579061579000
     },
     {
       "authorName": "ReChinX",
@@ -5562,6 +5562,78 @@
       }
     ],
     "net.android.mdm": [
+      {
+        "added": 1578946353000,
+        "apkName": "net.android.mdm_8.0.0_138.apk",
+        "hash": "5c78728909a0c4a874c1e92c0b1265ce0fc5bd64a04de598df12d58a04b55d84",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "net.android.mdm",
+        "sig": "6ee16f956a8defaa43ebb39b52e2b70e",
+        "signer": "0eac82aa4e65defbad7151f4bab5f304a52c4ff2c8e4b19bd16dfb818c30d5a4",
+        "size": 16990053,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.SET_WALLPAPER",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 138,
+        "versionName": "8.0.0"
+      },
       {
         "added": 1578946496000,
         "apkName": "net.android.mdm_7.0.1_137.apk",

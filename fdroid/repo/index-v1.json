@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1579052719000,
+    "timestamp": 1579061581000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -170,9 +170,9 @@
       "summary": "MangaDLR is an android manga reader and downloader that supports CBZ.",
       "webSite": "https://cylonu87.github.io/androidapps/mangadlr",
       "added": 1578946353000,
-      "icon": "net.android.mdm.138.png",
+      "icon": "net.android.mdm.139.png",
       "packageName": "net.android.mdm",
-      "lastUpdated": 1578946496000
+      "lastUpdated": 1579061579000
     },
     {
       "authorName": "ReChinX",
@@ -6463,15 +6463,15 @@
     ],
     "net.android.mdm": [
       {
-        "added": 1578946353000,
-        "apkName": "net.android.mdm_8.0.0_138.apk",
-        "hash": "5c78728909a0c4a874c1e92c0b1265ce0fc5bd64a04de598df12d58a04b55d84",
+        "added": 1579061579000,
+        "apkName": "net.android.mdm_8.0.1_139.apk",
+        "hash": "02c8f487315e7ed281cf466e69b61cbd1eb1d32598386ab98744cb3ab07d7dee",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "net.android.mdm",
         "sig": "6ee16f956a8defaa43ebb39b52e2b70e",
         "signer": "0eac82aa4e65defbad7151f4bab5f304a52c4ff2c8e4b19bd16dfb818c30d5a4",
-        "size": 16990053,
+        "size": 16753861,
         "targetSdkVersion": 28,
         "uses-permission": [
           [
@@ -6531,8 +6531,8 @@
             null
           ]
         ],
-        "versionCode": 138,
-        "versionName": "8.0.0"
+        "versionCode": 139,
+        "versionName": "8.0.1"
       }
     ],
     "net.cyl.ranobe": [
