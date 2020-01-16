@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1579125608000,
+    "timestamp": 1579165979000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -310,9 +310,9 @@
       "summary": "Jays2Kings fork of Tachiyomi, with multiple added features.",
       "webSite": "https://www.github.com/Jays2Kings/Tachiyomi",
       "added": 1578946342000,
-      "icon": "eu.kanade.tachiyomi.j2k.54.png",
+      "icon": "eu.kanade.tachiyomi.j2k.55.png",
       "packageName": "eu.kanade.tachiyomi.j2k",
-      "lastUpdated": 1579052714000,
+      "lastUpdated": 1579165973000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -6174,9 +6174,9 @@
     ],
     "eu.kanade.tachiyomi.j2k": [
       {
-        "added": 1579052714000,
-        "apkName": "eu.kanade.tachiyomi.j2k.v0.9.69_54.apk",
-        "hash": "f53be26146ec6458e5c5b8ddfaf3fe6a9806cf6ea5b36663ab5d3d85e29bbf50",
+        "added": 1579165973000,
+        "apkName": "eu.kanade.tachiyomi.j2k_v0.9.7_55.apk",
+        "hash": "98393c4196b771e7e291b314558ea8c417544c43112952b35738e90ea5a42efa",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -6187,7 +6187,7 @@
         "packageName": "eu.kanade.tachiyomi.j2k",
         "sig": "ee6e9de8e7354d0e52acd44f225bb5bb",
         "signer": "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8",
-        "size": 17880373,
+        "size": 17941871,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -6255,8 +6255,8 @@
             null
           ]
         ],
-        "versionCode": 54,
-        "versionName": "0.9.69"
+        "versionCode": 55,
+        "versionName": "0.9.7"
       }
     ],
     "net.android.adm": [
