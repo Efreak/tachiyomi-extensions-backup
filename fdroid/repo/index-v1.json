@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1579165979000,
+    "timestamp": 1579166103000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -903,9 +903,9 @@
       "summary": "Tachiyomi Henchan Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1578946441000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.henchan.11.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.henchan.12.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.henchan",
-      "lastUpdated": 1578946612000
+      "lastUpdated": 1579166100000
     },
     {
       "categories": [
@@ -5623,21 +5623,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.henchan": [
       {
-        "added": 1578946441000,
-        "apkName": "tachiyomi-ru.henchan-v1.2.11.apk",
+        "added": 1579166100000,
+        "apkName": "tachiyomi-ru.henchan-v1.2.12.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "21fbd6b958ec38d5b4e26d27c7d7e84d39f840f39ae30922c0369769b84585d1",
+        "hash": "67f8e25aae74f6717af16e6b9124424d2731f2ef683a7fd968d55f34a0f20823",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.henchan",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 74771,
+        "size": 74764,
         "targetSdkVersion": 27,
-        "versionCode": 11,
-        "versionName": "1.2.11"
+        "versionCode": 12,
+        "versionName": "1.2.12"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.libmanga": [
