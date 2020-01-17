@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1579243271000,
+    "timestamp": 1579403582000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -546,9 +546,9 @@
       "summary": "Tachiyomi FoolSlide Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1579242897000,
-      "icon": "eu.kanade.tachiyomi.extension.all.foolslide.31.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.foolslide.32.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
-      "lastUpdated": 1579243129000
+      "lastUpdated": 1579402838000
     },
     {
       "categories": [
@@ -1632,9 +1632,9 @@
       "summary": "Tachiyomi Rawkuma Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1579242986000,
-      "icon": "eu.kanade.tachiyomi.extension.ja.rawkuma.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.ja.rawkuma.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
-      "lastUpdated": 1579243226000
+      "lastUpdated": 1579338049000
     },
     {
       "categories": [
@@ -1822,6 +1822,22 @@
       "icon": "eu.kanade.tachiyomi.extension.all.toomics.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.toomics",
       "lastUpdated": 1579243173000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: TruyenQQ (VI)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi TruyenQQ Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1579402874000,
+      "icon": "eu.kanade.tachiyomi.extension.vi.truyenqq.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqq",
+      "lastUpdated": 1579402890000
     },
     {
       "categories": [
@@ -2515,6 +2531,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.foolslide": [
+      {
+        "added": 1579242897000,
+        "apkName": "tachiyomi-all.foolslide-v1.2.32.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "0e1aa4483ab5ea858886a9ef27f33d34c14f702db8b2925a85fb4c1e27683609",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 41909,
+        "targetSdkVersion": 27,
+        "versionCode": 32,
+        "versionName": "1.2.32"
+      },
       {
         "added": 1579243129000,
         "apkName": "tachiyomi-all.foolslide-v1.2.31.apk",
@@ -4597,6 +4630,23 @@
     ],
     "eu.kanade.tachiyomi.extension.ja.rawkuma": [
       {
+        "added": 1579242986000,
+        "apkName": "tachiyomi-ja.rawkuma-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "5bd4bcca4a774e7be6a3faffd49ea0d0e396a2ee04b8c8365906ce5aba47561d",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 78775,
+        "targetSdkVersion": 27,
+        "versionCode": 2,
+        "versionName": "1.2.2"
+      },
+      {
         "added": 1579243226000,
         "apkName": "tachiyomi-ja.rawkuma-v1.2.1.apk",
         "features": [
@@ -5217,6 +5267,25 @@
         "targetSdkVersion": 27,
         "versionCode": 4,
         "versionName": "1.2.4"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.vi.truyenqq": [
+      {
+        "added": 1579402874000,
+        "apkName": "tachiyomi-vi.truyenqq-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "97adc0886939fe0925afb41b69958b6087969858f7910edeebcb7fd81e431e44",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqq",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50112,
+        "targetSdkVersion": 27,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.zh.dmzj": [
