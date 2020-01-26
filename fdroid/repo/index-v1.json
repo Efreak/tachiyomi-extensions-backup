@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1580014306000,
+    "timestamp": 1580022426000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -283,7 +283,7 @@
       "sourceCode": "https://www.github.com/inorichi/Tachiyomi",
       "summary": "Free and open source manga reader for Android",
       "webSite": "https://www.github.com/inorichi/Tachiyomi",
-      "added": 1579242871000,
+      "added": 1579717240000,
       "icon": "eu.kanade.tachiyomi.debug.41.png",
       "packageName": "eu.kanade.tachiyomi.debug",
       "lastUpdated": 1580014296000
@@ -382,7 +382,7 @@
       "added": 1579243005000,
       "icon": "eu.kanade.tachiyomi.extension.pt.yesmangas.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.yesmangas",
-      "lastUpdated": 1579243238000
+      "lastUpdated": 1579243005000
     },
     {
       "categories": [
@@ -500,7 +500,7 @@
       "added": 1579243025000,
       "icon": "eu.kanade.tachiyomi.extension.vi.blogtruyen.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.vi.blogtruyen",
-      "lastUpdated": 1579243248000
+      "lastUpdated": 1579243025000
     },
     {
       "categories": [
@@ -800,7 +800,7 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi FoolSlide Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243127000,
+      "added": 1579243128000,
       "icon": "eu.kanade.tachiyomi.extension.all.foolslide.34.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
       "lastUpdated": 1579558906000
@@ -837,7 +837,7 @@
       "added": 1579242998000,
       "icon": "eu.kanade.tachiyomi.extension.pt.goldenmangas.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
-      "lastUpdated": 1579243234000
+      "lastUpdated": 1579242998000
     },
     {
       "categories": [
@@ -939,7 +939,7 @@
       "added": 1579242975000,
       "icon": "eu.kanade.tachiyomi.extension.it.hentaifantasy.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.it.hentaifantasy",
-      "lastUpdated": 1579243218000
+      "lastUpdated": 1579242975000
     },
     {
       "categories": [
@@ -1074,7 +1074,7 @@
       "added": 1579243000000,
       "icon": "eu.kanade.tachiyomi.extension.pt.hqdragon.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.hqdragon",
-      "lastUpdated": 1579243235000
+      "lastUpdated": 1579243000000
     },
     {
       "categories": [
@@ -1275,7 +1275,7 @@
       "added": 1579242967000,
       "icon": "eu.kanade.tachiyomi.extension.id.komikcast.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.komikcast",
-      "lastUpdated": 1579243213000
+      "lastUpdated": 1579242967000
     },
     {
       "categories": [
@@ -1372,7 +1372,7 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242899000,
+      "added": 1579558926000,
       "icon": "eu.kanade.tachiyomi.extension.all.madara.48.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
       "lastUpdated": 1579900072000
@@ -1392,7 +1392,7 @@
       "added": 1579242968000,
       "icon": "eu.kanade.tachiyomi.extension.id.maidmanga.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.maidmanga",
-      "lastUpdated": 1579243214000
+      "lastUpdated": 1579242968000
     },
     {
       "categories": [
@@ -1625,7 +1625,7 @@
       "added": 1579242932000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangaeden.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangaeden",
-      "lastUpdated": 1579243183000
+      "lastUpdated": 1579242932000
     },
     {
       "categories": [
@@ -1642,7 +1642,7 @@
       "added": 1579242976000,
       "icon": "eu.kanade.tachiyomi.extension.it.mangaeden.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.it.mangaeden",
-      "lastUpdated": 1579243220000
+      "lastUpdated": 1579242976000
     },
     {
       "categories": [
@@ -1692,7 +1692,7 @@
       "added": 1579242933000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangahere.11.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangahere",
-      "lastUpdated": 1579243185000
+      "lastUpdated": 1579242933000
     },
     {
       "categories": [
@@ -1894,7 +1894,7 @@
       "added": 1579242938000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangareader.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangareader",
-      "lastUpdated": 1579243193000
+      "lastUpdated": 1579242938000
     },
     {
       "categories": [
@@ -1928,7 +1928,7 @@
       "added": 1579242940000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangasee.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangasee",
-      "lastUpdated": 1579243194000
+      "lastUpdated": 1579242940000
     },
     {
       "categories": [
@@ -2215,7 +2215,7 @@
       "added": 1579242994000,
       "icon": "eu.kanade.tachiyomi.extension.ko.navercomic.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.navercomic",
-      "lastUpdated": 1579243231000
+      "lastUpdated": 1579242994000
     },
     {
       "categories": [
@@ -2450,7 +2450,7 @@
       "added": 1579242973000,
       "icon": "eu.kanade.tachiyomi.extension.id.pecintakomik.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.pecintakomik",
-      "lastUpdated": 1579243216000
+      "lastUpdated": 1579242973000
     },
     {
       "categories": [
@@ -2467,7 +2467,7 @@
       "added": 1579242944000,
       "icon": "eu.kanade.tachiyomi.extension.en.perveden.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.perveden",
-      "lastUpdated": 1579243196000
+      "lastUpdated": 1579242944000
     },
     {
       "categories": [
@@ -2484,7 +2484,7 @@
       "added": 1579242977000,
       "icon": "eu.kanade.tachiyomi.extension.it.perveden.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.it.perveden",
-      "lastUpdated": 1579243223000
+      "lastUpdated": 1579242977000
     },
     {
       "categories": [
@@ -2636,7 +2636,7 @@
       "added": 1579242947000,
       "icon": "eu.kanade.tachiyomi.extension.en.readmangatoday.8.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.readmangatoday",
-      "lastUpdated": 1579243199000
+      "lastUpdated": 1579242947000
     },
     {
       "categories": [
@@ -2653,7 +2653,7 @@
       "added": 1579242950000,
       "icon": "eu.kanade.tachiyomi.extension.en.renascans.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.renascans",
-      "lastUpdated": 1579243199000
+      "lastUpdated": 1579242950000
     },
     {
       "categories": [
@@ -2805,7 +2805,7 @@
       "added": 1579242953000,
       "icon": "eu.kanade.tachiyomi.extension.en.tapastic.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.tapastic",
-      "lastUpdated": 1579243202000
+      "lastUpdated": 1579242953000
     },
     {
       "categories": [
@@ -2855,7 +2855,7 @@
       "added": 1579243038000,
       "icon": "eu.kanade.tachiyomi.extension.zh.tohomh123.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.tohomh123",
-      "lastUpdated": 1579243257000
+      "lastUpdated": 1579243038000
     },
     {
       "categories": [
@@ -2905,7 +2905,7 @@
       "added": 1579242954000,
       "icon": "eu.kanade.tachiyomi.extension.en.tsumino.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.tsumino",
-      "lastUpdated": 1579243202000
+      "lastUpdated": 1579242954000
     },
     {
       "categories": [
