@@ -61,7 +61,7 @@ mirrors = (
     'http://192.168.0.2:8000/fdroid',
 # the rawgit alternatives. too lazy to see what sticks around, so toss em all in here...
     'https://cdn.statically.io/gh/Efreak/tachiyomi-extensions/master/fdroid',
-    'https://cdn.jsdelivr.net/gh/Efreak/tachiyomi-extensions@master/fdroid',
+#    'https://cdn.jsdelivr.net/gh/Efreak/tachiyomi-extensions@master/fdroid',
     'https://rawgit2.com/efreak/tachiyomi-extensions/master/fdroid',
     'https://gitcdn.xyz/Efreak/tachiyomi-extensions/master/fdroid'
     'https://gitcdn.link/Efreak/tachiyomi-extensions/master/fdroid'
