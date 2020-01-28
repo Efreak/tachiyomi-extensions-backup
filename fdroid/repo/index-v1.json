@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1580157070000,
+    "timestamp": 1580320149000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -8,7 +8,6 @@
     "description": "This is a repository of source extensions to be used with Tachiyomi. Applications in this repository are official binaries built and signed by the developers of Tachiyomi and copied to this directory. ",
     "mirrors": [
       "http://192.168.0.2:8000/fdroid/repo",
-      "https://cdn.jsdelivr.net/gh/Efreak/tachiyomi-extensions@master/fdroid/repo",
       "https://cdn.statically.io/gh/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://combinatronics.com/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://ghcdn.rawgit.org/Efreak/tachiyomi-extensions/master/fdroid/repo",
@@ -801,9 +800,9 @@
       "summary": "Tachiyomi FoolSlide Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1579243128000,
-      "icon": "eu.kanade.tachiyomi.extension.all.foolslide.34.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.foolslide.35.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
-      "lastUpdated": 1579558906000
+      "lastUpdated": 1580320110000
     },
     {
       "categories": [
@@ -847,9 +846,9 @@
       "license": "Unknown",
       "name": "Tachiyomi: Gufeng Manhua",
       "added": 1580157068000,
-      "icon": "eu.kanade.tachiyomi.extension.zh.gufengmh.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.zh.gufengmh.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.gufengmh",
-      "lastUpdated": 1580157068000
+      "lastUpdated": 1580320147000
     },
     {
       "categories": [
@@ -2612,9 +2611,9 @@
       "summary": "Tachiyomi ReadComicOnline Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1579242946000,
-      "icon": "eu.kanade.tachiyomi.extension.en.readcomiconline.6.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.readcomiconline.7.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-      "lastUpdated": 1579243198000
+      "lastUpdated": 1580320130000
     },
     {
       "categories": [
@@ -2932,9 +2931,9 @@
       "summary": "Tachiyomi TuMangaOnline Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1579242961000,
-      "icon": "eu.kanade.tachiyomi.extension.es.tumangaonline.19.png",
+      "icon": "eu.kanade.tachiyomi.extension.es.tumangaonline.20.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.tumangaonline",
-      "lastUpdated": 1580157052000
+      "lastUpdated": 1580193337000
     },
     {
       "categories": [
@@ -3481,21 +3480,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.foolslide": [
       {
-        "added": 1579558906000,
-        "apkName": "tachiyomi-all.foolslide-v1.2.34.apk",
+        "added": 1580320110000,
+        "apkName": "tachiyomi-all.foolslide-v1.2.35.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "d0819a3bc8e1e754ca1907a70778fa25ae17c1ce6b578e14fbe5027c19d26094",
+        "hash": "759606a15c156272fb9103676b5acf0b90f4990eca3bae9be1ec662fdc4c24f6",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 46005,
+        "size": 46003,
         "targetSdkVersion": 27,
-        "versionCode": 34,
-        "versionName": "1.2.34"
+        "versionCode": 35,
+        "versionName": "1.2.35"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.genkan": [
@@ -4716,21 +4715,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.readcomiconline": [
       {
-        "added": 1579242946000,
-        "apkName": "tachiyomi-en.readcomiconline-v1.2.6.apk",
+        "added": 1580320130000,
+        "apkName": "tachiyomi-en.readcomiconline-v1.2.7.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "00788481bf9c25a9fe5aeba31bfa7f975b83b27077169a8830828fa51de1050c",
+        "hash": "749870c862570cbe73bf6794239d726011238b9f31c5a4e67de656feed22b643",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.readcomiconline",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50101,
+        "size": 50103,
         "targetSdkVersion": 27,
-        "versionCode": 6,
-        "versionName": "1.2.6"
+        "versionCode": 7,
+        "versionName": "1.2.7"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.readmangatoday": [
@@ -5001,21 +5000,21 @@
     ],
     "eu.kanade.tachiyomi.extension.es.tumangaonline": [
       {
-        "added": 1580157052000,
-        "apkName": "tachiyomi-es.tumangaonline-v1.2.19.apk",
+        "added": 1580193337000,
+        "apkName": "tachiyomi-es.tumangaonline-v1.2.20.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "5262a19e43c530af884ba60765d26a32fbb6615399aa169fd7357b3e973ab385",
+        "hash": "e6d26bec106cc41e6d860c854111eef56b9b3174e91c30d35a99f73e73ce5f4a",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.es.tumangaonline",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 62478,
+        "size": 62479,
         "targetSdkVersion": 27,
-        "versionCode": 19,
-        "versionName": "1.2.19"
+        "versionCode": 20,
+        "versionName": "1.2.20"
       }
     ],
     "eu.kanade.tachiyomi.extension.es.vcpvmp": [
@@ -6350,21 +6349,21 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.gufengmh": [
       {
-        "added": 1580157068000,
-        "apkName": "tachiyomi-zh.gufengmh-v1.2.1.apk",
+        "added": 1580320147000,
+        "apkName": "tachiyomi-zh.gufengmh-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "867c8337b4c7e448ffd7e56ac7320194cd535bf0f9bcc1b443b2c2233cfc96f6",
+        "hash": "c962d909a4fa406604b1da8fa03fe0d2deb3fa3262cb10f5c25c62bb57116c14",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.zh.gufengmh",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 37806,
+        "size": 41895,
         "targetSdkVersion": 27,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.zh.hanhankuman": [

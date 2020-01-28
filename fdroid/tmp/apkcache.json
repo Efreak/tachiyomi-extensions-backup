@@ -16889,5 +16889,195 @@
     "apkName": "tachiyomi-zh.gufengmh-v1.2.1.apk",
     "icon": "eu.kanade.tachiyomi.extension.zh.gufengmh.1.png",
     "added": 1580185868.330979
+  },
+  "tachiyomi-es.tumangaonline-v1.2.20.apk": {
+    "hash": "e6d26bec106cc41e6d860c854111eef56b9b3174e91c30d35a99f73e73ce5f4a",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.es.tumangaonline.20.png",
+      "480": "eu.kanade.tachiyomi.extension.es.tumangaonline.20.png",
+      "320": "eu.kanade.tachiyomi.extension.es.tumangaonline.20.png",
+      "240": "eu.kanade.tachiyomi.extension.es.tumangaonline.20.png",
+      "160": "eu.kanade.tachiyomi.extension.es.tumangaonline.20.png",
+      "0": "eu.kanade.tachiyomi.extension.es.tumangaonline.20.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.es.tumangaonline",
+    "versionCode": 20,
+    "name": "Tachiyomi: TuMangaOnline",
+    "versionName": "1.2.20",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62479,
+    "apkName": "tachiyomi-es.tumangaonline-v1.2.20.apk",
+    "icon": "eu.kanade.tachiyomi.extension.es.tumangaonline.20.png",
+    "added": 1580222137.829953
+  },
+  "tachiyomi-zh.gufengmh-v1.2.2.apk": {
+    "hash": "0f681b79924f002f762942f70445b8706c0a1a5383ec0a81f946fc7a8f4a1c4c",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.zh.gufengmh.2.png",
+      "480": "eu.kanade.tachiyomi.extension.zh.gufengmh.2.png",
+      "320": "eu.kanade.tachiyomi.extension.zh.gufengmh.2.png",
+      "240": "eu.kanade.tachiyomi.extension.zh.gufengmh.2.png",
+      "160": "eu.kanade.tachiyomi.extension.zh.gufengmh.2.png",
+      "0": "eu.kanade.tachiyomi.extension.zh.gufengmh.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.zh.gufengmh",
+    "versionCode": 2,
+    "name": "Tachiyomi: Gufeng Manhua",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 41902,
+    "apkName": "tachiyomi-zh.gufengmh-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.zh.gufengmh.2.png",
+    "added": 1580222155.279354
+  },
+  "tachiyomi-all.foolslide-v1.2.35.apk": {
+    "hash": "759606a15c156272fb9103676b5acf0b90f4990eca3bae9be1ec662fdc4c24f6",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.foolslide.35.png",
+      "480": "eu.kanade.tachiyomi.extension.all.foolslide.35.png",
+      "320": "eu.kanade.tachiyomi.extension.all.foolslide.35.png",
+      "240": "eu.kanade.tachiyomi.extension.all.foolslide.35.png",
+      "160": "eu.kanade.tachiyomi.extension.all.foolslide.35.png",
+      "0": "eu.kanade.tachiyomi.extension.all.foolslide.35.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
+    "versionCode": 35,
+    "name": "Tachiyomi: FoolSlide (multiple sources)",
+    "versionName": "1.2.35",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 46003,
+    "apkName": "tachiyomi-all.foolslide-v1.2.35.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.foolslide.35.png",
+    "added": 1580348910.002744
+  },
+  "tachiyomi-en.readcomiconline-v1.2.7.apk": {
+    "hash": "749870c862570cbe73bf6794239d726011238b9f31c5a4e67de656feed22b643",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readcomiconline.7.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readcomiconline.7.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readcomiconline.7.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readcomiconline.7.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readcomiconline.7.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readcomiconline.7.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readcomiconline",
+    "versionCode": 7,
+    "name": "Tachiyomi: ReadComicOnline",
+    "versionName": "1.2.7",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50103,
+    "apkName": "tachiyomi-en.readcomiconline-v1.2.7.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readcomiconline.7.png",
+    "added": 1580348930.801717
+  },
+  "tachiyomi-zh.gufengmh-v1.2.3.apk": {
+    "hash": "c962d909a4fa406604b1da8fa03fe0d2deb3fa3262cb10f5c25c62bb57116c14",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.zh.gufengmh.3.png",
+      "480": "eu.kanade.tachiyomi.extension.zh.gufengmh.3.png",
+      "320": "eu.kanade.tachiyomi.extension.zh.gufengmh.3.png",
+      "240": "eu.kanade.tachiyomi.extension.zh.gufengmh.3.png",
+      "160": "eu.kanade.tachiyomi.extension.zh.gufengmh.3.png",
+      "0": "eu.kanade.tachiyomi.extension.zh.gufengmh.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.zh.gufengmh",
+    "versionCode": 3,
+    "name": "Tachiyomi: Gufeng Manhua",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 41895,
+    "apkName": "tachiyomi-zh.gufengmh-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.zh.gufengmh.3.png",
+    "added": 1580348947.690172
   }
 }
