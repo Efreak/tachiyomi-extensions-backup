@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1580320149000,
+    "timestamp": 1580322503000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -285,7 +285,7 @@
       "added": 1579717240000,
       "icon": "eu.kanade.tachiyomi.debug.41.png",
       "packageName": "eu.kanade.tachiyomi.debug",
-      "lastUpdated": 1580014296000
+      "lastUpdated": 1580322497000
     },
     {
       "antiFeatures": [
@@ -309,9 +309,9 @@
       "summary": "Jays2Kings fork of Tachiyomi, with multiple added features.",
       "webSite": "https://www.github.com/Jays2Kings/Tachiyomi",
       "added": 1579242874000,
-      "icon": "eu.kanade.tachiyomi.j2k.55.png",
+      "icon": "eu.kanade.tachiyomi.j2k.56.png",
       "packageName": "eu.kanade.tachiyomi.j2k",
-      "lastUpdated": 1579243085000,
+      "lastUpdated": 1580322500000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -3329,9 +3329,9 @@
     ],
     "eu.kanade.tachiyomi.debug": [
       {
-        "added": 1580014296000,
-        "apkName": "eu.kanade.tachiyomi.debug_v0.8.4-1671_41.apk",
-        "hash": "a87c527ee414ba96acc5cc95f785dd6547fe103671c9d6c8ca702ec868e778a6",
+        "added": 1580322497000,
+        "apkName": "eu.kanade.tachiyomi.debug_v0.8.4-1680_41.apk",
+        "hash": "7ae2157a4cab1932a6b75ec28e49c7e74835da4d6b31918084bceba60c5be6d1",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -3342,7 +3342,7 @@
         "packageName": "eu.kanade.tachiyomi.debug",
         "sig": "4f4d96b80ff4c7d9fcba199c677c7d3c",
         "signer": "8d9c1b4e4c093bc5b50f045bb283b41c547f6ba0932265241e40ccb27e329095",
-        "size": 15135428,
+        "size": 15136435,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -3399,7 +3399,7 @@
           ]
         ],
         "versionCode": 41,
-        "versionName": "0.8.4-1671"
+        "versionName": "0.8.4-1680"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.boommanga": [
@@ -6558,9 +6558,9 @@
     ],
     "eu.kanade.tachiyomi.j2k": [
       {
-        "added": 1579242874000,
-        "apkName": "eu.kanade.tachiyomi.j2k_v0.9.7_55.apk",
-        "hash": "98393c4196b771e7e291b314558ea8c417544c43112952b35738e90ea5a42efa",
+        "added": 1580322500000,
+        "apkName": "eu.kanade.tachiyomi.j2k_v0.9.75_56.apk",
+        "hash": "32e58d0f14306ef491d7f8c1915a238890753e86ee0003dc3198c686e38028df",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -6571,7 +6571,7 @@
         "packageName": "eu.kanade.tachiyomi.j2k",
         "sig": "ee6e9de8e7354d0e52acd44f225bb5bb",
         "signer": "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8",
-        "size": 17941871,
+        "size": 13972710,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -6639,8 +6639,8 @@
             null
           ]
         ],
-        "versionCode": 55,
-        "versionName": "0.9.7"
+        "versionCode": 56,
+        "versionName": "0.9.75"
       }
     ],
     "net.android.adm": [
