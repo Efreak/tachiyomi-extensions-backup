@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1580322503000,
+    "timestamp": 1580503041000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -25,6 +25,7 @@
       "eu.kanade.tachiyomi.extension.en.toonily",
       "eu.kanade.tachiyomi.extension.en.getmanhwa",
       "eu.kanade.tachiyomi.extension.es.doujinhentai",
+      "eu.kanade.tachiyomi.extension.id.komikgo",
       "eu.kanade.tachiyomi.extension.en.lhtranslation",
       "eu.kanade.tachiyomi.extension.ja.rawlh",
       "eu.kanade.tachiyomi.extension.ja.rawqq",
@@ -817,9 +818,9 @@
       "summary": "Tachiyomi Genkan (multiple sources) Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1579242897000,
-      "icon": "eu.kanade.tachiyomi.extension.all.genkan.11.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.genkan.12.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.genkan",
-      "lastUpdated": 1580094298000
+      "lastUpdated": 1580364917000
     },
     {
       "categories": [
@@ -1334,9 +1335,9 @@
       "summary": "Tachiyomi LectorManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1579242959000,
-      "icon": "eu.kanade.tachiyomi.extension.es.lectormanga.4.png",
+      "icon": "eu.kanade.tachiyomi.extension.es.lectormanga.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.lectormanga",
-      "lastUpdated": 1579243205000
+      "lastUpdated": 1580436414000
     },
     {
       "categories": [
@@ -1384,9 +1385,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1579558926000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.49.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.50.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1580157033000
+      "lastUpdated": 1580364936000
     },
     {
       "categories": [
@@ -2510,9 +2511,9 @@
       "summary": "Tachiyomi Pufei Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1579243037000,
-      "icon": "eu.kanade.tachiyomi.extension.zh.pufei.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.zh.pufei.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.pufei",
-      "lastUpdated": 1579243037000
+      "lastUpdated": 1580503039000
     },
     {
       "categories": [
@@ -2931,9 +2932,9 @@
       "summary": "Tachiyomi TuMangaOnline Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1579242961000,
-      "icon": "eu.kanade.tachiyomi.extension.es.tumangaonline.20.png",
+      "icon": "eu.kanade.tachiyomi.extension.es.tumangaonline.21.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.tumangaonline",
-      "lastUpdated": 1580193337000
+      "lastUpdated": 1580436436000
     },
     {
       "categories": [
@@ -3499,21 +3500,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.genkan": [
       {
-        "added": 1580094298000,
-        "apkName": "tachiyomi-all.genkan-v1.2.11.apk",
+        "added": 1580364917000,
+        "apkName": "tachiyomi-all.genkan-v1.2.12.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "c8aaf449923317f92b48be7a9408da629a26e2bf7b61f12a7aeeb8346133b101",
+        "hash": "a412e42b41d5e337a6e3c1959782c74afdee655bde82aba6ed812050189b7846",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.genkan",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 46008,
+        "size": 46006,
         "targetSdkVersion": 27,
-        "versionCode": 11,
-        "versionName": "1.2.11"
+        "versionCode": 12,
+        "versionName": "1.2.12"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.komga": [
@@ -3537,12 +3538,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
       {
-        "added": 1580157033000,
-        "apkName": "tachiyomi-all.madara-v1.2.49.apk",
+        "added": 1580364936000,
+        "apkName": "tachiyomi-all.madara-v1.2.50.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "a468a8f169167077fe6bea76371c658911e7890cfb7b2ae268a6db8d23b7ce48",
+        "hash": "e90d0317a9552b4caf87a98b789cf8ce21bbe8e77fcbca890d3ef4a477df7eec",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.madara",
@@ -3550,8 +3551,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 58291,
         "targetSdkVersion": 27,
-        "versionCode": 49,
-        "versionName": "1.2.49"
+        "versionCode": 50,
+        "versionName": "1.2.50"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangabox": [
@@ -4943,21 +4944,21 @@
     ],
     "eu.kanade.tachiyomi.extension.es.lectormanga": [
       {
-        "added": 1579242959000,
-        "apkName": "tachiyomi-es.lectormanga-v1.2.4.apk",
+        "added": 1580436414000,
+        "apkName": "tachiyomi-es.lectormanga-v1.2.5.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "60e140c648ccac726fd5c26035f0f43b10535b298fd578e430423c665dd55efc",
+        "hash": "6d7ec58cc4399c1815796375b8b9bd5376ad78f78558727b88e9263e95a8ce6e",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.es.lectormanga",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 74769,
+        "size": 74772,
         "targetSdkVersion": 27,
-        "versionCode": 4,
-        "versionName": "1.2.4"
+        "versionCode": 5,
+        "versionName": "1.2.5"
       }
     ],
     "eu.kanade.tachiyomi.extension.es.mangamx": [
@@ -5000,21 +5001,21 @@
     ],
     "eu.kanade.tachiyomi.extension.es.tumangaonline": [
       {
-        "added": 1580193337000,
-        "apkName": "tachiyomi-es.tumangaonline-v1.2.20.apk",
+        "added": 1580436436000,
+        "apkName": "tachiyomi-es.tumangaonline-v1.2.21.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "e6d26bec106cc41e6d860c854111eef56b9b3174e91c30d35a99f73e73ce5f4a",
+        "hash": "e18cf924bcb8f7c93672a67686f793887ee65d5a4ed869201f8ea90b7f71b702",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.es.tumangaonline",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 62479,
+        "size": 62478,
         "targetSdkVersion": 27,
-        "versionCode": 20,
-        "versionName": "1.2.20"
+        "versionCode": 21,
+        "versionName": "1.2.21"
       }
     ],
     "eu.kanade.tachiyomi.extension.es.vcpvmp": [
@@ -6482,21 +6483,21 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.pufei": [
       {
-        "added": 1579243037000,
-        "apkName": "tachiyomi-zh.pufei-v1.2.1.apk",
+        "added": 1580503039000,
+        "apkName": "tachiyomi-zh.pufei-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "1b6112b7ff754f9ab24d42c7883148ac5fa04abf53d27c31f42ec6b2dfef8c07",
+        "hash": "486dde34bd9e5bc91d93df0a4d32c79e744f2894979b8743e8f70cfcff2d0e32",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.zh.pufei",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 70570,
+        "size": 70577,
         "targetSdkVersion": 27,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.zh.qimiaomh": [
