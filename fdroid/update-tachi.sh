@@ -41,9 +41,9 @@ read -n1 -e -t 30 -p 'Push? <Y/N> ' gitpush
 case $gitpush in
   [Nn] ) echo "Aborting...Clean it up yourself" $gitrev;;
   * ) git push
-      git fetch inorichi master:upstream/master > /dev/null
-      git fetch inorichi repo:upstream/repo > /dev/null
-      git push origin master upstream/repo upstream/master;;
+#      git fetch inorichi master:upstream/master > /dev/null
+#      git fetch inorichi repo:upstream/repo > /dev/null
+#      git push origin master upstream/repo upstream/master;;
 esac
 echo "Old hash: $oldrev"
 echo "Current hash: $(git rev-parse HEAD)"
