@@ -5,6 +5,13 @@ mv config.py.bak config.py
 
 # get updates
 cd $HOME/tachiyomi-extensions
+if
+  git fetch && test -z "$(git diff origin/repo)"
+then
+  echo "Already up to date!"
+  echo "Consider ./download_apps.sh"
+  exit
+fi
 git pull
 
 # get a list of new extensions
