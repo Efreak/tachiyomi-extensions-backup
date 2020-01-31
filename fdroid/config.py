@@ -58,7 +58,7 @@ mirrors = (
     'https://tachiext.netlify.com/fdroid',
 # this is occasionally used on my local network. If it annoys you, disable it.
 # you can do this by opening the repo settings in fdroid.
-    'http://192.168.0.2:8000/fdroid',
+#    'http://192.168.0.2:8000/fdroid',
 # the rawgit alternatives. too lazy to see what sticks around, so toss em all in here...
     'https://cdn.statically.io/gh/Efreak/tachiyomi-extensions/master/fdroid',
 #    'https://cdn.jsdelivr.net/gh/Efreak/tachiyomi-extensions@master/fdroid',
