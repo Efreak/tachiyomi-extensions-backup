@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" name="Unofficial Tachiyomi Extensions F-Droid Archive" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1580503045" url="https://tachi.efreakbnc.net/fdroid/archive" version="21">
+	<repo icon="fdroid-icon.png" name="Unofficial Tachiyomi Extensions F-Droid Archive" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1580504395" url="https://tachi.efreakbnc.net/fdroid/archive" version="21">
 		<description>The repository of older versions of source extensions to be used with Tachiyomi. Applications in this repository are official binaries built and signed by the developers of Tachiyomi and copied to this directory. </description>
-		<mirror>http://192.168.0.2:8000/fdroid/archive</mirror>
 		<mirror>https://cdn.statically.io/gh/Efreak/tachiyomi-extensions/master/fdroid/archive</mirror>
 		<mirror>https://combinatronics.com/Efreak/tachiyomi-extensions/master/fdroid/archive</mirror>
 		<mirror>https://ghcdn.rawgit.org/Efreak/tachiyomi-extensions/master/fdroid/archive</mirror>
@@ -39,8 +38,8 @@
 	<uninstall packageName="eu.kanade.tachiyomi.extension.en.mangarock"/>
 	<application id="net.android.adm">
 		<id>net.android.adm</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>AnimeDLR</name>
 		<summary>AnimeDLR is an anime downloader for android</summary>
 		<icon>net.android.adm.143.png</icon>
@@ -63,7 +62,7 @@
 			<size>8416483</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>f928af2e4adcc563f8306f51ed36a866</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.providers.gsf.permission.READ_GSERVICES</permissions>
 		</package>
@@ -75,15 +74,15 @@
 			<size>7900178</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>f928af2e4adcc563f8306f51ed36a866</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.providers.gsf.permission.READ_GSERVICES</permissions>
 		</package>
 	</application>
 	<application id="net.android.hdlr">
 		<id>net.android.hdlr</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>H-DLR</name>
 		<summary>Enjoy your Hentai collection anywhere and anytime</summary>
 		<icon>net.android.hdlr.21.png</icon>
@@ -106,15 +105,15 @@
 			<size>3595586</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>530dcea5e374ea6cae941517ec897363</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 		</package>
 	</application>
 	<application id="net.android.kamuy">
 		<id>net.android.kamuy</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Kamuy</name>
 		<summary>Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList</summary>
 		<icon>net.android.kamuy.37.png</icon>
@@ -137,15 +136,15 @@
 			<size>4523978</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>ea3b0343873ff94021bb9b53f856a1dc</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.providers.gsf.permission.READ_GSERVICES,com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY</permissions>
 		</package>
 	</application>
 	<application id="net.android.mdm">
 		<id>net.android.mdm</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>MangaDLR</name>
 		<summary>MangaDLR is an android manga reader and downloader that supports CBZ.</summary>
 		<icon>net.android.mdm.138.png</icon>
@@ -168,7 +167,7 @@
 			<size>16990053</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>6ee16f956a8defaa43ebb39b52e2b70e</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,SET_WALLPAPER,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.providers.gsf.permission.READ_GSERVICES</permissions>
 		</package>
@@ -180,15 +179,15 @@
 			<size>17433509</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>6ee16f956a8defaa43ebb39b52e2b70e</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,SET_WALLPAPER,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.providers.gsf.permission.READ_GSERVICES</permissions>
 		</package>
 	</application>
 	<application id="top.rechinx.meow">
 		<id>top.rechinx.meow</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Meow</name>
 		<summary>Yet another free and open source manga reader</summary>
 		<icon>top.rechinx.meow.6.png</icon>
@@ -210,15 +209,15 @@
 			<size>5605061</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>378cb6bd74429bbf047fd6e679451f22</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
 	<application id="tachiyomi.mangadex">
 		<id>tachiyomi.mangadex</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-26</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Neko</name>
 		<summary>Free, open source, unofficial MangaDex reader forked from Tachiyomi</summary>
 		<icon>tachiyomi.mangadex.40.png</icon>
@@ -240,7 +239,7 @@
 			<size>11872436</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>81688c90989dcd70e06a3951a90e102c</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -253,7 +252,7 @@
 			<size>11876210</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>81688c90989dcd70e06a3951a90e102c</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -261,8 +260,8 @@
 	</application>
 	<application id="net.cyl.ranobe">
 		<id>net.cyl.ranobe</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Ranobe</name>
 		<summary>Ranobe is an app to read and download light novels</summary>
 		<icon>net.cyl.ranobe.29.png</icon>
@@ -285,7 +284,7 @@
 			<size>5419847</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>7bfa959fb9b2201371a7b1f06f6522d2</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<features>android.hardware.touchscreen</features>
@@ -298,7 +297,7 @@
 			<size>5302368</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>7bfa959fb9b2201371a7b1f06f6522d2</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<features>android.hardware.touchscreen</features>
@@ -306,8 +305,8 @@
 	</application>
 	<application id="eu.kanade.tachiyomi.debug">
 		<id>eu.kanade.tachiyomi.debug</id>
-		<added>2020-01-22</added>
-		<lastupdated>2020-01-29</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi (dev)</name>
 		<summary>Free and open source manga reader for Android</summary>
 		<icon>eu.kanade.tachiyomi.debug.41.png</icon>
@@ -331,7 +330,7 @@
 			<size>15144548</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-01-22</added>
+			<added>2020-01-31</added>
 			<sig>4f4d96b80ff4c7d9fcba199c677c7d3c</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -339,8 +338,8 @@
 	</application>
 	<application id="eu.kanade.tachiyomi.j2k">
 		<id>eu.kanade.tachiyomi.j2k</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-29</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi (Jays2Kings Fork)</name>
 		<summary>Jays2Kings fork of Tachiyomi, with multiple added features.</summary>
 		<icon>eu.kanade.tachiyomi.j2k.55.png</icon>
@@ -364,7 +363,7 @@
 			<size>17941871</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>ee6e9de8e7354d0e52acd44f225bb5bb</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -377,7 +376,7 @@
 			<size>17880373</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>ee6e9de8e7354d0e52acd44f225bb5bb</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -390,7 +389,7 @@
 			<size>17846368</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>ee6e9de8e7354d0e52acd44f225bb5bb</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -398,8 +397,8 @@
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.pt.unionmangas">
 		<id>eu.kanade.tachiyomi.extension.pt.unionmangas</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi Union Mangás Extension (PT)</name>
 		<summary>Tachiyomi Union Mangás Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.pt.unionmangas.8.png</icon>
@@ -420,15 +419,15 @@
 			<size>46078</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.boommanga">
 		<id>eu.kanade.tachiyomi.extension.all.boommanga</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: BoomManga, ManManga, TwinsComics</name>
 		<summary>Tachiyomi BoomManga Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.boommanga.1.png</icon>
@@ -449,15 +448,15 @@
 			<size>83047</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.pt.centraldemangas">
 		<id>eu.kanade.tachiyomi.extension.pt.centraldemangas</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Central de Mangás (PT)</name>
 		<summary>Tachiyomi Central de Mangás Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.pt.centraldemangas.1.png</icon>
@@ -478,15 +477,15 @@
 			<size>41994</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.comicake">
 		<id>eu.kanade.tachiyomi.extension.all.comicake</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: ComiCake (ALL)</name>
 		<summary>Tachiyomi ComiCake Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.comicake.6.png</icon>
@@ -507,15 +506,15 @@
 			<size>74850</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.comicextra">
 		<id>eu.kanade.tachiyomi.extension.en.comicextra</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: ComicExtra (EN)</name>
 		<summary>Tachiyomi ComicExtra Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.comicextra.3.png</icon>
@@ -536,15 +535,15 @@
 			<size>46075</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ru.comx">
 		<id>eu.kanade.tachiyomi.extension.ru.comx</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: ComX (RU)</name>
 		<summary>Tachiyomi ComX Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ru.comx.3.png</icon>
@@ -565,15 +564,15 @@
 			<size>33769</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.explosm">
 		<id>eu.kanade.tachiyomi.extension.en.explosm</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Cyanide &amp; Happiness (EN)</name>
 		<summary>Tachiyomi Cyanide &amp; Happiness Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.explosm.1.png</icon>
@@ -594,15 +593,15 @@
 			<size>58279</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.dilbert">
 		<id>eu.kanade.tachiyomi.extension.en.dilbert</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Dilbert (EN)</name>
 		<summary>Tachiyomi Dilbert Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.dilbert.1.png</icon>
@@ -623,15 +622,15 @@
 			<size>70732</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.zh.dmzj">
 		<id>eu.kanade.tachiyomi.extension.zh.dmzj</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Dmzj (ZH)</name>
 		<summary>Tachiyomi Dmzj Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.zh.dmzj.7.png</icon>
@@ -652,15 +651,15 @@
 			<size>41961</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.dragonball_multiverse">
 		<id>eu.kanade.tachiyomi.extension.en.dragonball_multiverse</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Dragon Ball Multiverse (EN)</name>
 		<summary>Tachiyomi Dragon Ball Multiverse Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.dragonball_multiverse.1.png</icon>
@@ -681,15 +680,15 @@
 			<size>132115</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.dynasty">
 		<id>eu.kanade.tachiyomi.extension.en.dynasty</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Dynasty (EN)</name>
 		<summary>Tachiyomi Dynasty Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.dynasty.10.png</icon>
@@ -710,7 +709,7 @@
 			<size>74664</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -722,15 +721,15 @@
 			<size>83562</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.ehentai">
 		<id>eu.kanade.tachiyomi.extension.all.ehentai</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: E-Hentai (ALL)</name>
 		<summary>Tachiyomi E-Hentai Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.ehentai.6.png</icon>
@@ -751,15 +750,15 @@
 			<size>63153</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.fmreader">
 		<id>eu.kanade.tachiyomi.extension.all.fmreader</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: FMReader (multiple aggregators) (ALL)</name>
 		<summary>Tachiyomi FMReader (multiple aggregators)</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.fmreader.3.png</icon>
@@ -780,7 +779,7 @@
 			<size>70754</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -792,15 +791,15 @@
 			<size>66658</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.foolslide">
 		<id>eu.kanade.tachiyomi.extension.all.foolslide</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-29</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: FoolSlide (ALL)</name>
 		<summary>Tachiyomi FoolSlide Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.foolslide.34.png</icon>
@@ -821,7 +820,7 @@
 			<size>46005</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-20</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -833,7 +832,7 @@
 			<size>41907</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-19</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -845,15 +844,15 @@
 			<size>50383</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.genkan">
 		<id>eu.kanade.tachiyomi.extension.all.genkan</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-30</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Genkan (multiple sources) (ALL)</name>
 		<summary>Tachiyomi Genkan (multiple sources) Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.genkan.11.png</icon>
@@ -874,7 +873,7 @@
 			<size>46008</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-27</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -886,7 +885,7 @@
 			<size>58296</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -898,7 +897,7 @@
 			<size>62552</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -910,15 +909,15 @@
 			<size>62552</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.zh.gufengmh">
 		<id>eu.kanade.tachiyomi.extension.zh.gufengmh</id>
-		<added>2020-01-27</added>
-		<lastupdated>2020-01-29</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Gufeng Manhua</name>
 		<summary></summary>
 		<icon>eu.kanade.tachiyomi.extension.zh.gufengmh.2.png</icon>
@@ -939,7 +938,7 @@
 			<size>41902</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-28</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -951,15 +950,15 @@
 			<size>37806</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-27</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.guya">
 		<id>eu.kanade.tachiyomi.extension.en.guya</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-27</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Guya (EN)</name>
 		<summary>Tachiyomi Guya Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.guya.8.png</icon>
@@ -980,7 +979,7 @@
 			<size>62387</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -992,15 +991,15 @@
 			<size>66537</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.zh.hanhankuman">
 		<id>eu.kanade.tachiyomi.extension.zh.hanhankuman</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Hanhankuman (ZH)</name>
 		<summary>Tachiyomi Hanhankuman Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.zh.hanhankuman.2.png</icon>
@@ -1021,15 +1020,15 @@
 			<size>33790</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ru.henchan">
 		<id>eu.kanade.tachiyomi.extension.ru.henchan</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Henchan (RU)</name>
 		<summary>Tachiyomi Henchan Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ru.henchan.11.png</icon>
@@ -1050,15 +1049,15 @@
 			<size>74771</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.hentai2read">
 		<id>eu.kanade.tachiyomi.extension.en.hentai2read</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Hentai2Read (EN)</name>
 		<summary>Tachiyomi Hentai2Read Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.hentai2read.4.png</icon>
@@ -1079,15 +1078,15 @@
 			<size>87038</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.vi.hentaivn">
 		<id>eu.kanade.tachiyomi.extension.vi.hentaivn</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-24</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: HentaiVN (VI)</name>
 		<summary>Tachiyomi HentaiVN Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.vi.hentaivn.3.png</icon>
@@ -1108,15 +1107,15 @@
 			<size>91061</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.holymanga">
 		<id>eu.kanade.tachiyomi.extension.en.holymanga</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: HolyManga (EN)</name>
 		<summary>Tachiyomi HolyManga Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.holymanga.1.png</icon>
@@ -1137,15 +1136,15 @@
 			<size>74744</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.pt.hqnow">
 		<id>eu.kanade.tachiyomi.extension.pt.hqnow</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-23</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: HQ Now! (PT)</name>
 		<summary>Tachiyomi HQ Now! Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.pt.hqnow.1.png</icon>
@@ -1166,15 +1165,15 @@
 			<size>70570</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.fr.japscan">
 		<id>eu.kanade.tachiyomi.extension.fr.japscan</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-26</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Japscan (FR)</name>
 		<summary>Tachiyomi Japscan Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.fr.japscan.13.png</icon>
@@ -1195,7 +1194,7 @@
 			<size>312246</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1207,15 +1206,15 @@
 			<size>312307</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ko.jmana">
 		<id>eu.kanade.tachiyomi.extension.ko.jmana</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: JMana (KO)</name>
 		<summary>Tachiyomi JMana Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ko.jmana.8.png</icon>
@@ -1236,15 +1235,15 @@
 			<size>95212</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.komga">
 		<id>eu.kanade.tachiyomi.extension.all.komga</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Komga (ALL)</name>
 		<summary>Tachiyomi Komga Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.komga.4.png</icon>
@@ -1265,7 +1264,7 @@
 			<size>357633</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1277,15 +1276,15 @@
 			<size>357633</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.zh.kuaikanmanhua">
 		<id>eu.kanade.tachiyomi.extension.zh.kuaikanmanhua</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Kuaikanmanhua (ZH)</name>
 		<summary>Tachiyomi FoolSlide Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.zh.kuaikanmanhua.1.png</icon>
@@ -1306,14 +1305,14 @@
 			<size>62468</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.es.lectormanga">
 		<id>eu.kanade.tachiyomi.extension.es.lectormanga</id>
-		<added>2020-01-17</added>
+		<added>2020-01-31</added>
 		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: LectorManga (ES)</name>
 		<summary>Tachiyomi LectorManga Extension</summary>
@@ -1335,7 +1334,7 @@
 			<size>74769</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1347,7 +1346,7 @@
 			<size>78936</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1359,15 +1358,15 @@
 			<size>74750</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ru.libmanga">
 		<id>eu.kanade.tachiyomi.extension.ru.libmanga</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: LibManga (RU)</name>
 		<summary>Tachiyomi LibManga Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ru.libmanga.7.png</icon>
@@ -1388,7 +1387,7 @@
 			<size>58357</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1400,15 +1399,15 @@
 			<size>54367</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.madara">
 		<id>eu.kanade.tachiyomi.extension.all.madara</id>
-		<added>2020-01-20</added>
-		<lastupdated>2020-01-30</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Madara (ALL)</name>
 		<summary>Tachiyomi Madara Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.madara.49.png</icon>
@@ -1429,7 +1428,7 @@
 			<size>58291</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-27</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1441,7 +1440,7 @@
 			<size>58285</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-24</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1453,7 +1452,7 @@
 			<size>58292</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-22</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1465,15 +1464,15 @@
 			<size>58294</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-20</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ko.mangashowme">
 		<id>eu.kanade.tachiyomi.extension.ko.mangashowme</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: ManaMoa (MangaShow.Me) (KO)</name>
 		<summary>Tachiyomi ManaMoa (MangaShow.Me) Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ko.mangashowme.13.png</icon>
@@ -1494,15 +1493,15 @@
 			<size>71084</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.mangaplus">
 		<id>eu.kanade.tachiyomi.extension.all.mangaplus</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: MANGA Plus by SHUEISHA (ALL)</name>
 		<summary>Tachiyomi MANGA Plus by SHUEISHA Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.mangaplus.2.png</icon>
@@ -1523,15 +1522,15 @@
 			<size>842438</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ar.mangaae">
 		<id>eu.kanade.tachiyomi.extension.ar.mangaae</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Manga.ae (AR)</name>
 		<summary>Tachiyomi Manga.ae Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ar.mangaae.2.png</icon>
@@ -1552,15 +1551,15 @@
 			<size>33778</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.mangabox">
 		<id>eu.kanade.tachiyomi.extension.all.mangabox</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: MangaBox (Mangakakalot and others) (ALL)</name>
 		<summary>Tachiyomi MangaBox Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.mangabox.11.png</icon>
@@ -1581,7 +1580,7 @@
 			<size>54193</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1593,15 +1592,15 @@
 			<size>54193</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.mangacards">
 		<id>eu.kanade.tachiyomi.extension.all.mangacards</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: MangaCards (Valhalla, NANI?) (ALL)</name>
 		<summary>Tachiyomi MangaCards (Valhalla, NANI?) Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.mangacards.5.png</icon>
@@ -1622,7 +1621,7 @@
 			<size>54380</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1634,15 +1633,15 @@
 			<size>54380</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.mangadex">
 		<id>eu.kanade.tachiyomi.extension.all.mangadex</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-21</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: MangaDex (ALL)</name>
 		<summary>Tachiyomi MangaDex Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.mangadex.78.png</icon>
@@ -1663,7 +1662,7 @@
 			<size>74770</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1675,15 +1674,15 @@
 			<size>83350</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.mangadventure">
 		<id>eu.kanade.tachiyomi.extension.all.mangadventure</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: MangAdventure (ALL)</name>
 		<summary>Tachiyomi MangAdventure Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.mangadventure.3.png</icon>
@@ -1704,15 +1703,15 @@
 			<size>58729</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.mangahasu">
 		<id>eu.kanade.tachiyomi.extension.en.mangahasu</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Mangahasu (EN)</name>
 		<summary>Tachiyomi Mangahasu Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.mangahasu.4.png</icon>
@@ -1733,15 +1732,15 @@
 			<size>46072</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.mangahere">
 		<id>eu.kanade.tachiyomi.extension.en.mangahere</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-26</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Mangahere (EN)</name>
 		<summary>Tachiyomi Mangahere Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.mangahere.11.png</icon>
@@ -1762,15 +1761,15 @@
 			<size>78771</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.mangahub">
 		<id>eu.kanade.tachiyomi.extension.en.mangahub</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Mangahub (EN)</name>
 		<summary>Tachiyomi Mangahub Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.mangahub.3.png</icon>
@@ -1791,15 +1790,15 @@
 			<size>46069</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.fr.mangakawaii">
 		<id>eu.kanade.tachiyomi.extension.fr.mangakawaii</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Mangakawaii (FR)</name>
 		<summary>Tachiyomi Mangakawaii Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.fr.mangakawaii.2.png</icon>
@@ -1820,15 +1819,15 @@
 			<size>74756</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.mangakisa">
 		<id>eu.kanade.tachiyomi.extension.en.mangakisa</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: MangaKisa (EN)</name>
 		<summary>Tachiyomi MangaKisa Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.mangakisa.1.png</icon>
@@ -1849,15 +1848,15 @@
 			<size>50168</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.mangalife">
 		<id>eu.kanade.tachiyomi.extension.en.mangalife</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: MangaLife (EN)</name>
 		<summary>Tachiyomi MangaLife Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.mangalife.2.png</icon>
@@ -1878,7 +1877,7 @@
 			<size>41902</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1890,15 +1889,15 @@
 			<size>37797</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.es.mangamx">
 		<id>eu.kanade.tachiyomi.extension.es.mangamx</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: MangaMx (ES)</name>
 		<summary>Tachiyomi MangaMx Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.es.mangamx.3.png</icon>
@@ -1919,7 +1918,7 @@
 			<size>46066</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1931,15 +1930,15 @@
 			<size>41970</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ru.mangaonlinebiz">
 		<id>eu.kanade.tachiyomi.extension.ru.mangaonlinebiz</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Mangaonlinebiz (RU)</name>
 		<summary>Tachiyomi Mangaonlinebiz Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ru.mangaonlinebiz.6.png</icon>
@@ -1960,15 +1959,15 @@
 			<size>41991</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.mangaowl">
 		<id>eu.kanade.tachiyomi.extension.en.mangaowl</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: MangaOwl (EN)</name>
 		<summary>Tachiyomi Tapastic Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.mangaowl.1.png</icon>
@@ -1989,15 +1988,15 @@
 			<size>70582</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.id.mangashiro">
 		<id>eu.kanade.tachiyomi.extension.id.mangashiro</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Mangashiro (ID)</name>
 		<summary>Tachiyomi Mangashiro Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.id.mangashiro.1.png</icon>
@@ -2018,15 +2017,15 @@
 			<size>54267</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.mangatensei">
 		<id>eu.kanade.tachiyomi.extension.all.mangatensei</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Mangatensei (ALL)</name>
 		<summary>Tachiyomi Mangatensei Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.mangatensei.3.png</icon>
@@ -2047,15 +2046,15 @@
 			<size>62577</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.mangatown">
 		<id>eu.kanade.tachiyomi.extension.en.mangatown</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Mangatown (EN)</name>
 		<summary>Tachiyomi Mangatown Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.mangatown.2.png</icon>
@@ -2076,15 +2075,15 @@
 			<size>58360</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.pt.mangasproject">
 		<id>eu.kanade.tachiyomi.extension.pt.mangasproject</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-22</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: mangásPROJECT (PT)</name>
 		<summary>Tachiyomi mangásPROJECT Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.pt.mangasproject.5.png</icon>
@@ -2105,15 +2104,15 @@
 			<size>46011</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.zh.manhuadb">
 		<id>eu.kanade.tachiyomi.extension.zh.manhuadb</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: ManhuaDB (ZH)</name>
 		<summary>Tachiyomi ManhuaDB Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.zh.manhuadb.1.png</icon>
@@ -2134,15 +2133,15 @@
 			<size>115701</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.zh.manhuadui">
 		<id>eu.kanade.tachiyomi.extension.zh.manhuadui</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Manhuadui (ZH)</name>
 		<summary>Tachiyomi Manhuadui Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.zh.manhuadui.5.png</icon>
@@ -2163,15 +2162,15 @@
 			<size>152648</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.zh.manhuaren">
 		<id>eu.kanade.tachiyomi.extension.zh.manhuaren</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Manhuaren (ZH)</name>
 		<summary>Tachiyomi Manhuaren Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.zh.manhuaren.6.png</icon>
@@ -2192,15 +2191,15 @@
 			<size>74744</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.merakiscans">
 		<id>eu.kanade.tachiyomi.extension.en.merakiscans</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: MerakiScans (EN)</name>
 		<summary>Tachiyomi MerakiScans Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.merakiscans.5.png</icon>
@@ -2221,15 +2220,15 @@
 			<size>37816</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ru.mintmanga">
 		<id>eu.kanade.tachiyomi.extension.ru.mintmanga</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Mintmanga (RU)</name>
 		<summary>Tachiyomi Mintmanga Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ru.mintmanga.15.png</icon>
@@ -2250,7 +2249,7 @@
 			<size>87123</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2262,15 +2261,15 @@
 			<size>87123</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.mmrcms">
 		<id>eu.kanade.tachiyomi.extension.all.mmrcms</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: My Manga Reader CMS (Many sources) (ALL)</name>
 		<summary>Tachiyomi My Manga Reader CMS (Many sources) Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.mmrcms.24.png</icon>
@@ -2291,7 +2290,7 @@
 			<size>83264</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2303,15 +2302,15 @@
 			<size>83264</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.myreadingmanga">
 		<id>eu.kanade.tachiyomi.extension.all.myreadingmanga</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: MyReadingManga (ALL)</name>
 		<summary>Tachiyomi MyReadingManga Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.myreadingmanga.29.png</icon>
@@ -2332,7 +2331,7 @@
 			<size>46330</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2344,15 +2343,15 @@
 			<size>46330</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.vi.nettruyen">
 		<id>eu.kanade.tachiyomi.extension.vi.nettruyen</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: NetTruyen (VI)</name>
 		<summary>Tachiyomi NetTruyen Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.vi.nettruyen.4.png</icon>
@@ -2373,15 +2372,15 @@
 			<size>70648</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.id.neumanga">
 		<id>eu.kanade.tachiyomi.extension.id.neumanga</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Neumanga (ID)</name>
 		<summary>Tachiyomi Neumanga Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.id.neumanga.3.png</icon>
@@ -2402,15 +2401,15 @@
 			<size>70645</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ko.newtoki">
 		<id>eu.kanade.tachiyomi.extension.ko.newtoki</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: NewToki (KO)</name>
 		<summary>Tachiyomi NewToki Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ko.newtoki.10.png</icon>
@@ -2431,7 +2430,7 @@
 			<size>119899</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2443,15 +2442,15 @@
 			<size>119898</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.nhentai">
 		<id>eu.kanade.tachiyomi.extension.all.nhentai</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: NHentai (ALL)</name>
 		<summary>Tachiyomi NHentai Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.nhentai.15.png</icon>
@@ -2472,7 +2471,7 @@
 			<size>50467</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2484,15 +2483,15 @@
 			<size>46371</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.ninehentai">
 		<id>eu.kanade.tachiyomi.extension.all.ninehentai</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: NineHentai (ALL)</name>
 		<summary>Tachiyomi NineHentai Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.ninehentai.4.png</icon>
@@ -2513,15 +2512,15 @@
 			<size>99522</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.ninemanga">
 		<id>eu.kanade.tachiyomi.extension.all.ninemanga</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: NineManga (ALL)</name>
 		<summary>Tachiyomi NineManga Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.ninemanga.7.png</icon>
@@ -2542,7 +2541,7 @@
 			<size>74674</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2554,15 +2553,15 @@
 			<size>87143</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ru.nudemoon">
 		<id>eu.kanade.tachiyomi.extension.ru.nudemoon</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Nude-Moon (RU)</name>
 		<summary>Tachiyomi Nude-Moon Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ru.nudemoon.2.png</icon>
@@ -2583,14 +2582,14 @@
 			<size>54261</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.zh.pufei">
 		<id>eu.kanade.tachiyomi.extension.zh.pufei</id>
-		<added>2020-01-17</added>
+		<added>2020-01-31</added>
 		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Pufei (ZH)</name>
 		<summary>Tachiyomi Pufei Extension</summary>
@@ -2612,15 +2611,15 @@
 			<size>70570</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.pururin">
 		<id>eu.kanade.tachiyomi.extension.en.pururin</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Pururin (EN)</name>
 		<summary>Tachiyomi Pururin Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.pururin.1.png</icon>
@@ -2641,15 +2640,15 @@
 			<size>41970</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ja.rawdevart">
 		<id>eu.kanade.tachiyomi.extension.ja.rawdevart</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Rawdevart (JA)</name>
 		<summary>Tachiyomi Rawdevart Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ja.rawdevart.2.png</icon>
@@ -2670,15 +2669,15 @@
 			<size>82862</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ja.rawkuma">
 		<id>eu.kanade.tachiyomi.extension.ja.rawkuma</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-18</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Rawkuma (JA)</name>
 		<summary>Tachiyomi Rawkuma Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ja.rawkuma.2.png</icon>
@@ -2699,7 +2698,7 @@
 			<size>78775</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2711,15 +2710,15 @@
 			<size>78775</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.readcomiconline">
 		<id>eu.kanade.tachiyomi.extension.en.readcomiconline</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-29</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: ReadComicOnline (EN)</name>
 		<summary>Tachiyomi ReadComicOnline Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.readcomiconline.6.png</icon>
@@ -2740,7 +2739,7 @@
 			<size>50101</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2752,15 +2751,15 @@
 			<size>50100</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ru.readmanga">
 		<id>eu.kanade.tachiyomi.extension.ru.readmanga</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Readmanga (RU)</name>
 		<summary>Tachiyomi Readmanga Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ru.readmanga.14.png</icon>
@@ -2781,7 +2780,7 @@
 			<size>74835</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2793,15 +2792,15 @@
 			<size>70739</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.pt.saikaiscan">
 		<id>eu.kanade.tachiyomi.extension.pt.saikaiscan</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Saikai Scan (PT)</name>
 		<summary>Tachiyomi Saikai Scan Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.pt.saikaiscan.1.png</icon>
@@ -2822,15 +2821,15 @@
 			<size>33787</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.fr.scantrad">
 		<id>eu.kanade.tachiyomi.extension.fr.scantrad</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Scantrad (FR)</name>
 		<summary>Tachiyomi Scantrad Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.fr.scantrad.3.png</icon>
@@ -2851,7 +2850,7 @@
 			<size>54190</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2863,15 +2862,15 @@
 			<size>54261</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.ja.senmanga">
 		<id>eu.kanade.tachiyomi.extension.ja.senmanga</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Sen Manga (JA)</name>
 		<summary>Tachiyomi Sen Manga Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ja.senmanga.3.png</icon>
@@ -2892,15 +2891,15 @@
 			<size>54261</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.sleepypandascans">
 		<id>eu.kanade.tachiyomi.extension.en.sleepypandascans</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Sleepy Panda Scans (EN)</name>
 		<summary>Tachiyomi Sleepy Panda Scans Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.sleepypandascans.1.png</icon>
@@ -2921,15 +2920,15 @@
 			<size>62409</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.toomics">
 		<id>eu.kanade.tachiyomi.extension.all.toomics</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Toomics (ALL)</name>
 		<summary>Tachiyomi Toomics Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.toomics.1.png</icon>
@@ -2950,15 +2949,15 @@
 			<size>54191</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.vi.truyenqq">
 		<id>eu.kanade.tachiyomi.extension.vi.truyenqq</id>
-		<added>2020-01-19</added>
-		<lastupdated>2020-01-19</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: TruyenQQ (VI)</name>
 		<summary>Tachiyomi TruyenQQ Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.vi.truyenqq.1.png</icon>
@@ -2979,14 +2978,14 @@
 			<size>50112</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-19</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.es.tumangaonline">
 		<id>eu.kanade.tachiyomi.extension.es.tumangaonline</id>
-		<added>2020-01-17</added>
+		<added>2020-01-31</added>
 		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: TuMangaOnline (ES)</name>
 		<summary>Tachiyomi TuMangaOnline Extension</summary>
@@ -3008,7 +3007,7 @@
 			<size>62479</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-28</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -3020,7 +3019,7 @@
 			<size>62478</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-27</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -3032,7 +3031,7 @@
 			<size>62479</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-22</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -3044,7 +3043,7 @@
 			<size>62472</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-22</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -3056,15 +3055,15 @@
 			<size>62481</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.vgperson">
 		<id>eu.kanade.tachiyomi.extension.en.vgperson</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: vgperson (EN)</name>
 		<summary>Tachiyomi vgperson Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.vgperson.1.png</icon>
@@ -3085,15 +3084,15 @@
 			<size>62394</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.webcomics">
 		<id>eu.kanade.tachiyomi.extension.en.webcomics</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Webcomics (EN)</name>
 		<summary>Tachiyomi Webcomics Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.en.webcomics.1.png</icon>
@@ -3114,15 +3113,15 @@
 			<size>74744</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.webtoons">
 		<id>eu.kanade.tachiyomi.extension.all.webtoons</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-20</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: Webtoons (ALL)</name>
 		<summary>Tachiyomi Webtoons Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.all.webtoons.12.png</icon>
@@ -3143,7 +3142,7 @@
 			<size>66498</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -3155,15 +3154,15 @@
 			<size>70971</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.de.wiemanga">
 		<id>eu.kanade.tachiyomi.extension.de.wiemanga</id>
-		<added>2020-01-17</added>
-		<lastupdated>2020-01-17</lastupdated>
+		<added>2020-01-31</added>
+		<lastupdated>2020-01-31</lastupdated>
 		<name>Tachiyomi: WieManga (DE)</name>
 		<summary>Tachiyomi WieManga Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.de.wiemanga.3.png</icon>
@@ -3184,7 +3183,7 @@
 			<size>50165</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-01-17</added>
+			<added>2020-01-31</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>

@@ -1,13 +1,12 @@
 {
   "repo": {
-    "timestamp": 1580503045000,
+    "timestamp": 1580504395000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
     "address": "https://tachi.efreakbnc.net/fdroid/archive",
     "description": "The repository of older versions of source extensions to be used with Tachiyomi. Applications in this repository are official binaries built and signed by the developers of Tachiyomi and copied to this directory. ",
     "mirrors": [
-      "http://192.168.0.2:8000/fdroid/archive",
       "https://cdn.statically.io/gh/Efreak/tachiyomi-extensions/master/fdroid/archive",
       "https://combinatronics.com/Efreak/tachiyomi-extensions/master/fdroid/archive",
       "https://ghcdn.rawgit.org/Efreak/tachiyomi-extensions/master/fdroid/archive",
@@ -70,10 +69,10 @@
       "sourceCode": "https://bitbucket.org/cylonu87/animedlr/src",
       "summary": "AnimeDLR is an anime downloader for android",
       "webSite": "https://cylonu87.github.io/androidapps/animedlr",
-      "added": 1579242879000,
+      "added": 1580504110000,
       "icon": "net.android.adm.143.png",
       "packageName": "net.android.adm",
-      "lastUpdated": 1579243092000
+      "lastUpdated": 1580504270000
     },
     {
       "antiFeatures": [
@@ -93,10 +92,10 @@
       "name": "H-DLR",
       "summary": "Enjoy your Hentai collection anywhere and anytime",
       "webSite": "https://cylonu87.github.io/HDLR/",
-      "added": 1579242881000,
+      "added": 1580504112000,
       "icon": "net.android.hdlr.21.png",
       "packageName": "net.android.hdlr",
-      "lastUpdated": 1579243095000
+      "lastUpdated": 1580504273000
     },
     {
       "antiFeatures": [
@@ -118,10 +117,10 @@
       "sourceCode": "https://bitbucket.org/cylonu87/kamuy/src/",
       "summary": "Unofficial client for MAL, Kitsu, AniList, Anime-Planet, LiveChart, MyDramaList",
       "webSite": "https://cylonu87.github.io/androidapps/kamuy",
-      "added": 1579242883000,
+      "added": 1580504114000,
       "icon": "net.android.kamuy.37.png",
       "packageName": "net.android.kamuy",
-      "lastUpdated": 1579243103000
+      "lastUpdated": 1580504276000
     },
     {
       "antiFeatures": [
@@ -145,10 +144,10 @@
       "sourceCode": "https://bitbucket.org/cylonu87/mangadlr/src",
       "summary": "MangaDLR is an android manga reader and downloader that supports CBZ.",
       "webSite": "https://cylonu87.github.io/androidapps/mangadlr",
-      "added": 1579242886000,
+      "added": 1580504117000,
       "icon": "net.android.mdm.138.png",
       "packageName": "net.android.mdm",
-      "lastUpdated": 1579243112000
+      "lastUpdated": 1580504281000
     },
     {
       "authorName": "ReChinX",
@@ -166,10 +165,10 @@
       "sourceCode": "https://github.com/neverfelly/Meow",
       "summary": "Yet another free and open source manga reader",
       "webSite": "https://github.com/neverfelly/Meow",
-      "added": 1579243046000,
+      "added": 1580504239000,
       "icon": "top.rechinx.meow.6.png",
       "packageName": "top.rechinx.meow",
-      "lastUpdated": 1579243266000
+      "lastUpdated": 1580504388000
     },
     {
       "authorName": "Javier Tom\u00e1s",
@@ -187,10 +186,10 @@
       "sourceCode": "https://github.com/CarlosEsco/Neko",
       "summary": "Free, open source, unofficial MangaDex reader forked from Tachiyomi",
       "webSite": "https://github.com/CarlosEsco/Neko",
-      "added": 1579243044000,
+      "added": 1580504237000,
       "icon": "tachiyomi.mangadex.40.png",
       "packageName": "tachiyomi.mangadex",
-      "lastUpdated": 1580014302000
+      "lastUpdated": 1580504385000
     },
     {
       "antiFeatures": [
@@ -212,10 +211,10 @@
       "name": "Ranobe",
       "summary": "Ranobe is an app to read and download light novels",
       "webSite": "https://cyberneticlifeform.wixsite.com/cylonu87/ranobe-lightnovel",
-      "added": 1579242891000,
+      "added": 1580504119000,
       "icon": "net.cyl.ranobe.29.png",
       "packageName": "net.cyl.ranobe",
-      "lastUpdated": 1579243121000
+      "lastUpdated": 1580504287000
     },
     {
       "antiFeatures": [
@@ -239,10 +238,10 @@
       "sourceCode": "https://www.github.com/inorichi/Tachiyomi",
       "summary": "Free and open source manga reader for Android",
       "webSite": "https://www.github.com/inorichi/Tachiyomi",
-      "added": 1579717240000,
+      "added": 1580504101000,
       "icon": "eu.kanade.tachiyomi.debug.41.png",
       "packageName": "eu.kanade.tachiyomi.debug",
-      "lastUpdated": 1580322497000
+      "lastUpdated": 1580504255000
     },
     {
       "antiFeatures": [
@@ -265,10 +264,10 @@
       "sourceCode": "https://www.github.com/Jays2Kings/Tachiyomi",
       "summary": "Jays2Kings fork of Tachiyomi, with multiple added features.",
       "webSite": "https://www.github.com/Jays2Kings/Tachiyomi",
-      "added": 1579242874000,
+      "added": 1580504104000,
       "icon": "eu.kanade.tachiyomi.j2k.55.png",
       "packageName": "eu.kanade.tachiyomi.j2k",
-      "lastUpdated": 1580322500000,
+      "lastUpdated": 1580504266000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -292,10 +291,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Union Mang\u00e1s Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243004000,
+      "added": 1580504207000,
       "icon": "eu.kanade.tachiyomi.extension.pt.unionmangas.8.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.unionmangas",
-      "lastUpdated": 1579243237000
+      "lastUpdated": 1580504360000
     },
     {
       "categories": [
@@ -308,10 +307,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi BoomManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242893000,
+      "added": 1580504120000,
       "icon": "eu.kanade.tachiyomi.extension.all.boommanga.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.boommanga",
-      "lastUpdated": 1579243121000
+      "lastUpdated": 1580504288000
     },
     {
       "categories": [
@@ -325,10 +324,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Central de Mang\u00e1s Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242998000,
+      "added": 1580504202000,
       "icon": "eu.kanade.tachiyomi.extension.pt.centraldemangas.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.centraldemangas",
-      "lastUpdated": 1579243233000
+      "lastUpdated": 1580504356000
     },
     {
       "categories": [
@@ -342,10 +341,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi ComiCake Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242894000,
+      "added": 1580504120000,
       "icon": "eu.kanade.tachiyomi.extension.all.comicake.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.comicake",
-      "lastUpdated": 1579243122000
+      "lastUpdated": 1580504289000
     },
     {
       "categories": [
@@ -359,10 +358,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi ComicExtra Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242916000,
+      "added": 1580504141000,
       "icon": "eu.kanade.tachiyomi.extension.en.comicextra.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.comicextra",
-      "lastUpdated": 1579243175000
+      "lastUpdated": 1580504320000
     },
     {
       "categories": [
@@ -376,10 +375,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi ComX Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243012000,
+      "added": 1580504210000,
       "icon": "eu.kanade.tachiyomi.extension.ru.comx.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.comx",
-      "lastUpdated": 1579243239000
+      "lastUpdated": 1580504361000
     },
     {
       "categories": [
@@ -392,10 +391,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Cyanide & Happiness Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242924000,
+      "added": 1580504144000,
       "icon": "eu.kanade.tachiyomi.extension.en.explosm.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.explosm",
-      "lastUpdated": 1579243179000
+      "lastUpdated": 1580504324000
     },
     {
       "categories": [
@@ -409,10 +408,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Dilbert Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242919000,
+      "added": 1580504142000,
       "icon": "eu.kanade.tachiyomi.extension.en.dilbert.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.dilbert",
-      "lastUpdated": 1579243176000
+      "lastUpdated": 1580504321000
     },
     {
       "categories": [
@@ -426,10 +425,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Dmzj Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243031000,
+      "added": 1580504227000,
       "icon": "eu.kanade.tachiyomi.extension.zh.dmzj.7.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.dmzj",
-      "lastUpdated": 1579243251000
+      "lastUpdated": 1580504372000
     },
     {
       "categories": [
@@ -443,10 +442,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Dragon Ball Multiverse Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242920000,
+      "added": 1580504143000,
       "icon": "eu.kanade.tachiyomi.extension.en.dragonball_multiverse.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.dragonball_multiverse",
-      "lastUpdated": 1579243177000
+      "lastUpdated": 1580504322000
     },
     {
       "categories": [
@@ -460,10 +459,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Dynasty Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242923000,
+      "added": 1580504144000,
       "icon": "eu.kanade.tachiyomi.extension.en.dynasty.10.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.dynasty",
-      "lastUpdated": 1579243178000
+      "lastUpdated": 1580504323000
     },
     {
       "categories": [
@@ -477,10 +476,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi E-Hentai Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242895000,
+      "added": 1580504121000,
       "icon": "eu.kanade.tachiyomi.extension.all.ehentai.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.ehentai",
-      "lastUpdated": 1579243123000
+      "lastUpdated": 1580504290000
     },
     {
       "categories": [
@@ -494,10 +493,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi FMReader (multiple aggregators)",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242896000,
+      "added": 1580504122000,
       "icon": "eu.kanade.tachiyomi.extension.all.fmreader.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.fmreader",
-      "lastUpdated": 1579243125000
+      "lastUpdated": 1580504292000
     },
     {
       "categories": [
@@ -511,10 +510,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi FoolSlide Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243128000,
+      "added": 1580504122000,
       "icon": "eu.kanade.tachiyomi.extension.all.foolslide.34.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
-      "lastUpdated": 1580320110000
+      "lastUpdated": 1580504294000
     },
     {
       "categories": [
@@ -528,10 +527,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Genkan (multiple sources) Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242897000,
+      "added": 1580504123000,
       "icon": "eu.kanade.tachiyomi.extension.all.genkan.11.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.genkan",
-      "lastUpdated": 1580364917000
+      "lastUpdated": 1580504297000
     },
     {
       "categories": [
@@ -540,10 +539,10 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Tachiyomi: Gufeng Manhua",
-      "added": 1580157068000,
+      "added": 1580504228000,
       "icon": "eu.kanade.tachiyomi.extension.zh.gufengmh.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.gufengmh",
-      "lastUpdated": 1580320147000
+      "lastUpdated": 1580504373000
     },
     {
       "categories": [
@@ -557,10 +556,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Guya Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242926000,
+      "added": 1580504146000,
       "icon": "eu.kanade.tachiyomi.extension.en.guya.8.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.guya",
-      "lastUpdated": 1580090591000
+      "lastUpdated": 1580504325000
     },
     {
       "categories": [
@@ -574,10 +573,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Hanhankuman Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243032000,
+      "added": 1580504228000,
       "icon": "eu.kanade.tachiyomi.extension.zh.hanhankuman.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.hanhankuman",
-      "lastUpdated": 1579243253000
+      "lastUpdated": 1580504374000
     },
     {
       "categories": [
@@ -591,10 +590,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Henchan Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243016000,
+      "added": 1580504212000,
       "icon": "eu.kanade.tachiyomi.extension.ru.henchan.11.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.henchan",
-      "lastUpdated": 1579243240000
+      "lastUpdated": 1580504362000
     },
     {
       "categories": [
@@ -608,10 +607,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Hentai2Read Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242926000,
+      "added": 1580504146000,
       "icon": "eu.kanade.tachiyomi.extension.en.hentai2read.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
-      "lastUpdated": 1579243181000
+      "lastUpdated": 1580504326000
     },
     {
       "categories": [
@@ -625,10 +624,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi HentaiVN Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243025000,
+      "added": 1580504220000,
       "icon": "eu.kanade.tachiyomi.extension.vi.hentaivn.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-      "lastUpdated": 1579900094000
+      "lastUpdated": 1580504370000
     },
     {
       "categories": [
@@ -642,10 +641,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi HolyManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242929000,
+      "added": 1580504150000,
       "icon": "eu.kanade.tachiyomi.extension.en.holymanga.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.holymanga",
-      "lastUpdated": 1579243182000
+      "lastUpdated": 1580504327000
     },
     {
       "categories": [
@@ -658,10 +657,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi HQ Now! Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243001000,
+      "added": 1580504204000,
       "icon": "eu.kanade.tachiyomi.extension.pt.hqnow.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.hqnow",
-      "lastUpdated": 1579777412000
+      "lastUpdated": 1580504357000
     },
     {
       "categories": [
@@ -675,10 +674,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Japscan Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242963000,
+      "added": 1580504180000,
       "icon": "eu.kanade.tachiyomi.extension.fr.japscan.13.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.japscan",
-      "lastUpdated": 1580022691000
+      "lastUpdated": 1580504346000
     },
     {
       "categories": [
@@ -692,10 +691,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi JMana Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242992000,
+      "added": 1580504198000,
       "icon": "eu.kanade.tachiyomi.extension.ko.jmana.8.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.jmana",
-      "lastUpdated": 1579243227000
+      "lastUpdated": 1580504353000
     },
     {
       "categories": [
@@ -709,10 +708,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Komga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242898000,
+      "added": 1580504124000,
       "icon": "eu.kanade.tachiyomi.extension.all.komga.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.komga",
-      "lastUpdated": 1579243138000
+      "lastUpdated": 1580504298000
     },
     {
       "categories": [
@@ -726,10 +725,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi FoolSlide Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243032000,
+      "added": 1580504229000,
       "icon": "eu.kanade.tachiyomi.extension.zh.kuaikanmanhua.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.kuaikanmanhua",
-      "lastUpdated": 1579243254000
+      "lastUpdated": 1580504374000
     },
     {
       "categories": [
@@ -743,10 +742,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi LectorManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242959000,
+      "added": 1580504176000,
       "icon": "eu.kanade.tachiyomi.extension.es.lectormanga.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.lectormanga",
-      "lastUpdated": 1580436414000
+      "lastUpdated": 1580504339000
     },
     {
       "categories": [
@@ -760,10 +759,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi LibManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243017000,
+      "added": 1580504213000,
       "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.7.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
-      "lastUpdated": 1579243241000
+      "lastUpdated": 1580504363000
     },
     {
       "categories": [
@@ -777,10 +776,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579558926000,
+      "added": 1580504124000,
       "icon": "eu.kanade.tachiyomi.extension.all.madara.49.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1580364936000
+      "lastUpdated": 1580504301000
     },
     {
       "categories": [
@@ -794,10 +793,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi ManaMoa (MangaShow.Me) Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242993000,
+      "added": 1580504199000,
       "icon": "eu.kanade.tachiyomi.extension.ko.mangashowme.13.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.mangashowme",
-      "lastUpdated": 1579243229000
+      "lastUpdated": 1580504354000
     },
     {
       "categories": [
@@ -811,10 +810,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi MANGA Plus by SHUEISHA Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242903000,
+      "added": 1580504128000,
       "icon": "eu.kanade.tachiyomi.extension.all.mangaplus.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangaplus",
-      "lastUpdated": 1579243164000
+      "lastUpdated": 1580504307000
     },
     {
       "categories": [
@@ -828,10 +827,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Manga.ae Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242912000,
+      "added": 1580504136000,
       "icon": "eu.kanade.tachiyomi.extension.ar.mangaae.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.ar.mangaae",
-      "lastUpdated": 1579243174000
+      "lastUpdated": 1580504318000
     },
     {
       "categories": [
@@ -844,10 +843,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi MangaBox Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242899000,
+      "added": 1580504125000,
       "icon": "eu.kanade.tachiyomi.extension.all.mangabox.11.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangabox",
-      "lastUpdated": 1579243149000
+      "lastUpdated": 1580504302000
     },
     {
       "categories": [
@@ -861,10 +860,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi MangaCards (Valhalla, NANI?) Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242900000,
+      "added": 1580504126000,
       "icon": "eu.kanade.tachiyomi.extension.all.mangacards.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangacards",
-      "lastUpdated": 1579243154000
+      "lastUpdated": 1580504304000
     },
     {
       "categories": [
@@ -878,10 +877,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi MangaDex Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242901000,
+      "added": 1580504126000,
       "icon": "eu.kanade.tachiyomi.extension.all.mangadex.78.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
-      "lastUpdated": 1579573418000
+      "lastUpdated": 1580504305000
     },
     {
       "categories": [
@@ -895,10 +894,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi MangAdventure Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242902000,
+      "added": 1580504127000,
       "icon": "eu.kanade.tachiyomi.extension.all.mangadventure.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangadventure",
-      "lastUpdated": 1579243162000
+      "lastUpdated": 1580504306000
     },
     {
       "categories": [
@@ -912,10 +911,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Mangahasu Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242933000,
+      "added": 1580504155000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangahasu.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangahasu",
-      "lastUpdated": 1579243184000
+      "lastUpdated": 1580504327000
     },
     {
       "categories": [
@@ -929,10 +928,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Mangahere Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242933000,
+      "added": 1580504155000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangahere.11.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangahere",
-      "lastUpdated": 1580022671000
+      "lastUpdated": 1580504328000
     },
     {
       "categories": [
@@ -946,10 +945,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Mangahub Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242934000,
+      "added": 1580504156000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangahub.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangahub",
-      "lastUpdated": 1579243185000
+      "lastUpdated": 1580504329000
     },
     {
       "categories": [
@@ -963,10 +962,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Mangakawaii Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242964000,
+      "added": 1580504181000,
       "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-      "lastUpdated": 1579243211000
+      "lastUpdated": 1580504347000
     },
     {
       "categories": [
@@ -980,10 +979,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi MangaKisa Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242935000,
+      "added": 1580504157000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangakisa.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangakisa",
-      "lastUpdated": 1579243186000
+      "lastUpdated": 1580504330000
     },
     {
       "categories": [
@@ -997,10 +996,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi MangaLife Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242936000,
+      "added": 1580504157000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangalife.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangalife",
-      "lastUpdated": 1579243187000
+      "lastUpdated": 1580504331000
     },
     {
       "categories": [
@@ -1013,10 +1012,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi MangaMx Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242960000,
+      "added": 1580504176000,
       "icon": "eu.kanade.tachiyomi.extension.es.mangamx.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.mangamx",
-      "lastUpdated": 1579243207000
+      "lastUpdated": 1580504341000
     },
     {
       "categories": [
@@ -1030,10 +1029,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Mangaonlinebiz Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243019000,
+      "added": 1580504214000,
       "icon": "eu.kanade.tachiyomi.extension.ru.mangaonlinebiz.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.mangaonlinebiz",
-      "lastUpdated": 1579243242000
+      "lastUpdated": 1580504364000
     },
     {
       "categories": [
@@ -1047,10 +1046,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Tapastic Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242937000,
+      "added": 1580504159000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangaowl.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangaowl",
-      "lastUpdated": 1579243191000
+      "lastUpdated": 1580504332000
     },
     {
       "categories": [
@@ -1064,10 +1063,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Mangashiro Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242970000,
+      "added": 1580504189000,
       "icon": "eu.kanade.tachiyomi.extension.id.mangashiro.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.mangashiro",
-      "lastUpdated": 1579243215000
+      "lastUpdated": 1580504349000
     },
     {
       "categories": [
@@ -1081,10 +1080,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Mangatensei Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242904000,
+      "added": 1580504129000,
       "icon": "eu.kanade.tachiyomi.extension.all.mangatensei.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangatensei",
-      "lastUpdated": 1579243164000
+      "lastUpdated": 1580504307000
     },
     {
       "categories": [
@@ -1098,10 +1097,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Mangatown Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242941000,
+      "added": 1580504162000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangatown.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangatown",
-      "lastUpdated": 1579243195000
+      "lastUpdated": 1580504333000
     },
     {
       "categories": [
@@ -1115,10 +1114,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi mang\u00e1sPROJECT Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243002000,
+      "added": 1580504206000,
       "icon": "eu.kanade.tachiyomi.extension.pt.mangasproject.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.mangasproject",
-      "lastUpdated": 1579669861000
+      "lastUpdated": 1580504358000
     },
     {
       "categories": [
@@ -1132,10 +1131,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi ManhuaDB Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243033000,
+      "added": 1580504230000,
       "icon": "eu.kanade.tachiyomi.extension.zh.manhuadb.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.manhuadb",
-      "lastUpdated": 1579243255000
+      "lastUpdated": 1580504375000
     },
     {
       "categories": [
@@ -1149,10 +1148,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Manhuadui Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243034000,
+      "added": 1580504231000,
       "icon": "eu.kanade.tachiyomi.extension.zh.manhuadui.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.manhuadui",
-      "lastUpdated": 1579243256000
+      "lastUpdated": 1580504376000
     },
     {
       "categories": [
@@ -1166,10 +1165,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Manhuaren Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243036000,
+      "added": 1580504232000,
       "icon": "eu.kanade.tachiyomi.extension.zh.manhuaren.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.manhuaren",
-      "lastUpdated": 1579243256000
+      "lastUpdated": 1580504377000
     },
     {
       "categories": [
@@ -1183,10 +1182,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi MerakiScans Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242942000,
+      "added": 1580504164000,
       "icon": "eu.kanade.tachiyomi.extension.en.merakiscans.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.merakiscans",
-      "lastUpdated": 1579243196000
+      "lastUpdated": 1580504333000
     },
     {
       "categories": [
@@ -1200,10 +1199,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Mintmanga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243020000,
+      "added": 1580504215000,
       "icon": "eu.kanade.tachiyomi.extension.ru.mintmanga.15.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-      "lastUpdated": 1579243244000
+      "lastUpdated": 1580504366000
     },
     {
       "categories": [
@@ -1217,10 +1216,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi My Manga Reader CMS (Many sources) Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242905000,
+      "added": 1580504130000,
       "icon": "eu.kanade.tachiyomi.extension.all.mmrcms.24.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mmrcms",
-      "lastUpdated": 1579243166000
+      "lastUpdated": 1580504309000
     },
     {
       "categories": [
@@ -1234,10 +1233,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi MyReadingManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242906000,
+      "added": 1580504131000,
       "icon": "eu.kanade.tachiyomi.extension.all.myreadingmanga.29.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
-      "lastUpdated": 1579243168000
+      "lastUpdated": 1580504310000
     },
     {
       "categories": [
@@ -1251,10 +1250,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi NetTruyen Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243028000,
+      "added": 1580504223000,
       "icon": "eu.kanade.tachiyomi.extension.vi.nettruyen.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-      "lastUpdated": 1579243250000
+      "lastUpdated": 1580504370000
     },
     {
       "categories": [
@@ -1268,10 +1267,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Neumanga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242971000,
+      "added": 1580504190000,
       "icon": "eu.kanade.tachiyomi.extension.id.neumanga.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.neumanga",
-      "lastUpdated": 1579243216000
+      "lastUpdated": 1580504349000
     },
     {
       "categories": [
@@ -1285,10 +1284,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi NewToki Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242996000,
+      "added": 1580504200000,
       "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.10.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
-      "lastUpdated": 1579243232000
+      "lastUpdated": 1580504355000
     },
     {
       "categories": [
@@ -1302,10 +1301,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi NHentai Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242907000,
+      "added": 1580504131000,
       "icon": "eu.kanade.tachiyomi.extension.all.nhentai.15.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
-      "lastUpdated": 1579243170000
+      "lastUpdated": 1580504312000
     },
     {
       "categories": [
@@ -1319,10 +1318,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi NineHentai Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242907000,
+      "added": 1580504132000,
       "icon": "eu.kanade.tachiyomi.extension.all.ninehentai.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.ninehentai",
-      "lastUpdated": 1579243171000
+      "lastUpdated": 1580504312000
     },
     {
       "categories": [
@@ -1336,10 +1335,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi NineManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242908000,
+      "added": 1580504133000,
       "icon": "eu.kanade.tachiyomi.extension.all.ninemanga.7.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.ninemanga",
-      "lastUpdated": 1579243172000
+      "lastUpdated": 1580504315000
     },
     {
       "categories": [
@@ -1353,10 +1352,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Nude-Moon Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243020000,
+      "added": 1580504215000,
       "icon": "eu.kanade.tachiyomi.extension.ru.nudemoon.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.nudemoon",
-      "lastUpdated": 1579243245000
+      "lastUpdated": 1580504367000
     },
     {
       "categories": [
@@ -1370,10 +1369,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Pufei Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243037000,
+      "added": 1580504233000,
       "icon": "eu.kanade.tachiyomi.extension.zh.pufei.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.pufei",
-      "lastUpdated": 1580503039000
+      "lastUpdated": 1580504378000
     },
     {
       "categories": [
@@ -1387,10 +1386,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Pururin Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242945000,
+      "added": 1580504166000,
       "icon": "eu.kanade.tachiyomi.extension.en.pururin.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.pururin",
-      "lastUpdated": 1579243197000
+      "lastUpdated": 1580504334000
     },
     {
       "categories": [
@@ -1404,10 +1403,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Rawdevart Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242983000,
+      "added": 1580504197000,
       "icon": "eu.kanade.tachiyomi.extension.ja.rawdevart.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.ja.rawdevart",
-      "lastUpdated": 1579243225000
+      "lastUpdated": 1580504350000
     },
     {
       "categories": [
@@ -1421,10 +1420,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Rawkuma Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242986000,
+      "added": 1580504197000,
       "icon": "eu.kanade.tachiyomi.extension.ja.rawkuma.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
-      "lastUpdated": 1579338049000
+      "lastUpdated": 1580504351000
     },
     {
       "categories": [
@@ -1438,10 +1437,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi ReadComicOnline Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242946000,
+      "added": 1580504168000,
       "icon": "eu.kanade.tachiyomi.extension.en.readcomiconline.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-      "lastUpdated": 1580320130000
+      "lastUpdated": 1580504335000
     },
     {
       "categories": [
@@ -1455,10 +1454,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Readmanga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243022000,
+      "added": 1580504217000,
       "icon": "eu.kanade.tachiyomi.extension.ru.readmanga.14.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.readmanga",
-      "lastUpdated": 1579243246000
+      "lastUpdated": 1580504369000
     },
     {
       "categories": [
@@ -1472,10 +1471,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Saikai Scan Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579243003000,
+      "added": 1580504206000,
       "icon": "eu.kanade.tachiyomi.extension.pt.saikaiscan.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.saikaiscan",
-      "lastUpdated": 1579243237000
+      "lastUpdated": 1580504359000
     },
     {
       "categories": [
@@ -1489,10 +1488,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Scantrad Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242964000,
+      "added": 1580504182000,
       "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
-      "lastUpdated": 1579243213000
+      "lastUpdated": 1580504348000
     },
     {
       "categories": [
@@ -1506,10 +1505,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Sen Manga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242990000,
+      "added": 1580504198000,
       "icon": "eu.kanade.tachiyomi.extension.ja.senmanga.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.ja.senmanga",
-      "lastUpdated": 1579243227000
+      "lastUpdated": 1580504352000
     },
     {
       "categories": [
@@ -1523,10 +1522,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Sleepy Panda Scans Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242951000,
+      "added": 1580504170000,
       "icon": "eu.kanade.tachiyomi.extension.en.sleepypandascans.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.sleepypandascans",
-      "lastUpdated": 1579243200000
+      "lastUpdated": 1580504336000
     },
     {
       "categories": [
@@ -1540,10 +1539,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Toomics Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242909000,
+      "added": 1580504135000,
       "icon": "eu.kanade.tachiyomi.extension.all.toomics.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.toomics",
-      "lastUpdated": 1579243173000
+      "lastUpdated": 1580504316000
     },
     {
       "categories": [
@@ -1556,10 +1555,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi TruyenQQ Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579402874000,
+      "added": 1580504224000,
       "icon": "eu.kanade.tachiyomi.extension.vi.truyenqq.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-      "lastUpdated": 1579402890000
+      "lastUpdated": 1580504371000
     },
     {
       "categories": [
@@ -1573,10 +1572,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi TuMangaOnline Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242961000,
+      "added": 1580504178000,
       "icon": "eu.kanade.tachiyomi.extension.es.tumangaonline.20.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.tumangaonline",
-      "lastUpdated": 1580436436000
+      "lastUpdated": 1580504344000
     },
     {
       "categories": [
@@ -1590,10 +1589,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi vgperson Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242955000,
+      "added": 1580504171000,
       "icon": "eu.kanade.tachiyomi.extension.en.vgperson.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.vgperson",
-      "lastUpdated": 1579243203000
+      "lastUpdated": 1580504337000
     },
     {
       "categories": [
@@ -1607,10 +1606,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Webcomics Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242956000,
+      "added": 1580504172000,
       "icon": "eu.kanade.tachiyomi.extension.en.webcomics.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.webcomics",
-      "lastUpdated": 1579243203000
+      "lastUpdated": 1580504337000
     },
     {
       "categories": [
@@ -1624,10 +1623,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Webtoons Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242910000,
+      "added": 1580504135000,
       "icon": "eu.kanade.tachiyomi.extension.all.webtoons.12.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.webtoons",
-      "lastUpdated": 1579558942000
+      "lastUpdated": 1580504318000
     },
     {
       "categories": [
@@ -1641,16 +1640,16 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi WieManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1579242914000,
+      "added": 1580504139000,
       "icon": "eu.kanade.tachiyomi.extension.de.wiemanga.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.de.wiemanga",
-      "lastUpdated": 1579243175000
+      "lastUpdated": 1580504319000
     }
   ],
   "packages": {
     "eu.kanade.tachiyomi.debug": [
       {
-        "added": 1579717240000,
+        "added": 1580504248000,
         "apkName": "eu.kanade.tachiyomi.debug_v0.8.4-1662_41.apk",
         "hash": "e4553d1bd78abcc2e816e94bf25bc7dba0bced27c8119caa431b5ddf2fff3c08",
         "hashType": "sha256",
@@ -1723,7 +1722,7 @@
         "versionName": "0.8.4-1662"
       },
       {
-        "added": 1579941056000,
+        "added": 1580504252000,
         "apkName": "eu.kanade.tachiyomi.debug_v0.8.4-1670_41.apk",
         "hash": "761b8c84393201d1075a2009249c6cc58c0481b6ae5be65256e94fb9611cff12",
         "hashType": "sha256",
@@ -1796,7 +1795,7 @@
         "versionName": "0.8.4-1670"
       },
       {
-        "added": 1580014296000,
+        "added": 1580504255000,
         "apkName": "eu.kanade.tachiyomi.debug_v0.8.4-1671_41.apk",
         "hash": "a87c527ee414ba96acc5cc95f785dd6547fe103671c9d6c8ca702ec868e778a6",
         "hashType": "sha256",
@@ -1871,7 +1870,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.boommanga": [
       {
-        "added": 1579243121000,
+        "added": 1580504288000,
         "apkName": "tachiyomi-all.boommanga-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -1890,7 +1889,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.comicake": [
       {
-        "added": 1579243122000,
+        "added": 1580504289000,
         "apkName": "tachiyomi-all.comicake-v1.2.6.apk",
         "features": [
           "tachiyomi.extension"
@@ -1909,7 +1908,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.ehentai": [
       {
-        "added": 1579243123000,
+        "added": 1580504290000,
         "apkName": "tachiyomi-all.ehentai-v1.2.6.apk",
         "features": [
           "tachiyomi.extension"
@@ -1928,7 +1927,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.fmreader": [
       {
-        "added": 1579243125000,
+        "added": 1580504292000,
         "apkName": "tachiyomi-all.fmreader-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -1945,7 +1944,7 @@
         "versionName": "1.2.3"
       },
       {
-        "added": 1579243124000,
+        "added": 1580504291000,
         "apkName": "tachiyomi-all.fmreader-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -1964,7 +1963,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.foolslide": [
       {
-        "added": 1579558906000,
+        "added": 1580504294000,
         "apkName": "tachiyomi-all.foolslide-v1.2.34.apk",
         "features": [
           "tachiyomi.extension"
@@ -1981,7 +1980,7 @@
         "versionName": "1.2.34"
       },
       {
-        "added": 1579402838000,
+        "added": 1580504293000,
         "apkName": "tachiyomi-all.foolslide-v1.2.33.apk",
         "features": [
           "tachiyomi.extension"
@@ -1998,7 +1997,7 @@
         "versionName": "1.2.33"
       },
       {
-        "added": 1579243128000,
+        "added": 1580504293000,
         "apkName": "tachiyomi-all.foolslide-v1.2.30.apk",
         "features": [
           "tachiyomi.extension"
@@ -2017,7 +2016,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.genkan": [
       {
-        "added": 1580094298000,
+        "added": 1580504295000,
         "apkName": "tachiyomi-all.genkan-v1.2.11.apk",
         "features": [
           "tachiyomi.extension"
@@ -2034,7 +2033,7 @@
         "versionName": "1.2.11"
       },
       {
-        "added": 1579242897000,
+        "added": 1580504295000,
         "apkName": "tachiyomi-all.genkan-v1.2.10.apk",
         "features": [
           "tachiyomi.extension"
@@ -2051,7 +2050,7 @@
         "versionName": "1.2.10"
       },
       {
-        "added": 1579243135000,
+        "added": 1580504297000,
         "apkName": "tachiyomi-all.genkan-v1.2.8.apk",
         "features": [
           "tachiyomi.extension"
@@ -2068,7 +2067,7 @@
         "versionName": "1.2.8"
       },
       {
-        "added": 1579243131000,
+        "added": 1580504296000,
         "apkName": "tachiyomi-all.genkan-v1.2.7.apk",
         "features": [
           "tachiyomi.extension"
@@ -2087,7 +2086,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.komga": [
       {
-        "added": 1579243138000,
+        "added": 1580504298000,
         "apkName": "tachiyomi-all.komga-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
@@ -2104,7 +2103,7 @@
         "versionName": "1.2.4"
       },
       {
-        "added": 1579243137000,
+        "added": 1580504297000,
         "apkName": "tachiyomi-all.komga-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -2123,7 +2122,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
       {
-        "added": 1580157033000,
+        "added": 1580504301000,
         "apkName": "tachiyomi-all.madara-v1.2.49.apk",
         "features": [
           "tachiyomi.extension"
@@ -2140,7 +2139,7 @@
         "versionName": "1.2.49"
       },
       {
-        "added": 1579900072000,
+        "added": 1580504300000,
         "apkName": "tachiyomi-all.madara-v1.2.48.apk",
         "features": [
           "tachiyomi.extension"
@@ -2157,7 +2156,7 @@
         "versionName": "1.2.48"
       },
       {
-        "added": 1579717242000,
+        "added": 1580504300000,
         "apkName": "tachiyomi-all.madara-v1.2.47.apk",
         "features": [
           "tachiyomi.extension"
@@ -2174,7 +2173,7 @@
         "versionName": "1.2.47"
       },
       {
-        "added": 1579558926000,
+        "added": 1580504299000,
         "apkName": "tachiyomi-all.madara-v1.2.46.apk",
         "features": [
           "tachiyomi.extension"
@@ -2193,7 +2192,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mangabox": [
       {
-        "added": 1579243149000,
+        "added": 1580504302000,
         "apkName": "tachiyomi-all.mangabox-v1.2.11.apk",
         "features": [
           "tachiyomi.extension"
@@ -2210,7 +2209,7 @@
         "versionName": "1.2.11"
       },
       {
-        "added": 1579243148000,
+        "added": 1580504301000,
         "apkName": "tachiyomi-all.mangabox-v1.2.10.apk",
         "features": [
           "tachiyomi.extension"
@@ -2229,7 +2228,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mangacards": [
       {
-        "added": 1579243154000,
+        "added": 1580504304000,
         "apkName": "tachiyomi-all.mangacards-v1.2.5.apk",
         "features": [
           "tachiyomi.extension"
@@ -2246,7 +2245,7 @@
         "versionName": "1.2.5"
       },
       {
-        "added": 1579243154000,
+        "added": 1580504303000,
         "apkName": "tachiyomi-all.mangacards-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
@@ -2265,7 +2264,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mangadex": [
       {
-        "added": 1579242901000,
+        "added": 1580504305000,
         "apkName": "tachiyomi-all.mangadex-v1.2.78.apk",
         "features": [
           "tachiyomi.extension"
@@ -2282,7 +2281,7 @@
         "versionName": "1.2.78"
       },
       {
-        "added": 1579243156000,
+        "added": 1580504304000,
         "apkName": "tachiyomi-all.mangadex-v1.2.73.apk",
         "features": [
           "tachiyomi.extension"
@@ -2301,7 +2300,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mangadventure": [
       {
-        "added": 1579243162000,
+        "added": 1580504306000,
         "apkName": "tachiyomi-all.mangadventure-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -2320,7 +2319,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mangaplus": [
       {
-        "added": 1579243164000,
+        "added": 1580504307000,
         "apkName": "tachiyomi-all.mangaplus-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -2339,7 +2338,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mangatensei": [
       {
-        "added": 1579243164000,
+        "added": 1580504307000,
         "apkName": "tachiyomi-all.mangatensei-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -2358,7 +2357,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mmrcms": [
       {
-        "added": 1579243166000,
+        "added": 1580504309000,
         "apkName": "tachiyomi-all.mmrcms-v1.2.24.apk",
         "features": [
           "tachiyomi.extension"
@@ -2375,7 +2374,7 @@
         "versionName": "1.2.24"
       },
       {
-        "added": 1579243165000,
+        "added": 1580504308000,
         "apkName": "tachiyomi-all.mmrcms-v1.2.23.apk",
         "features": [
           "tachiyomi.extension"
@@ -2394,7 +2393,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.myreadingmanga": [
       {
-        "added": 1579243168000,
+        "added": 1580504310000,
         "apkName": "tachiyomi-all.myreadingmanga-v1.2.29.apk",
         "features": [
           "tachiyomi.extension"
@@ -2411,7 +2410,7 @@
         "versionName": "1.2.29"
       },
       {
-        "added": 1579243168000,
+        "added": 1580504310000,
         "apkName": "tachiyomi-all.myreadingmanga-v1.2.28.apk",
         "features": [
           "tachiyomi.extension"
@@ -2430,7 +2429,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.nhentai": [
       {
-        "added": 1579243170000,
+        "added": 1580504312000,
         "apkName": "tachiyomi-all.nhentai-v1.2.15.apk",
         "features": [
           "tachiyomi.extension"
@@ -2447,7 +2446,7 @@
         "versionName": "1.2.15"
       },
       {
-        "added": 1579243169000,
+        "added": 1580504311000,
         "apkName": "tachiyomi-all.nhentai-v1.2.14.apk",
         "features": [
           "tachiyomi.extension"
@@ -2466,7 +2465,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.ninehentai": [
       {
-        "added": 1579243171000,
+        "added": 1580504312000,
         "apkName": "tachiyomi-all.ninehentai-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
@@ -2485,7 +2484,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.ninemanga": [
       {
-        "added": 1579243172000,
+        "added": 1580504315000,
         "apkName": "tachiyomi-all.ninemanga-v1.2.7.apk",
         "features": [
           "tachiyomi.extension"
@@ -2502,7 +2501,7 @@
         "versionName": "1.2.7"
       },
       {
-        "added": 1579243171000,
+        "added": 1580504313000,
         "apkName": "tachiyomi-all.ninemanga-v1.2.6.apk",
         "features": [
           "tachiyomi.extension"
@@ -2521,7 +2520,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.toomics": [
       {
-        "added": 1579243173000,
+        "added": 1580504316000,
         "apkName": "tachiyomi-all.toomics-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -2540,7 +2539,7 @@
     ],
     "eu.kanade.tachiyomi.extension.all.webtoons": [
       {
-        "added": 1579242910000,
+        "added": 1580504318000,
         "apkName": "tachiyomi-all.webtoons-v1.2.12.apk",
         "features": [
           "tachiyomi.extension"
@@ -2557,7 +2556,7 @@
         "versionName": "1.2.12"
       },
       {
-        "added": 1579243173000,
+        "added": 1580504317000,
         "apkName": "tachiyomi-all.webtoons-v1.2.11.apk",
         "features": [
           "tachiyomi.extension"
@@ -2576,7 +2575,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ar.mangaae": [
       {
-        "added": 1579243174000,
+        "added": 1580504318000,
         "apkName": "tachiyomi-ar.mangaae-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -2595,7 +2594,7 @@
     ],
     "eu.kanade.tachiyomi.extension.de.wiemanga": [
       {
-        "added": 1579243175000,
+        "added": 1580504319000,
         "apkName": "tachiyomi-de.wiemanga-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -2614,7 +2613,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.comicextra": [
       {
-        "added": 1579243175000,
+        "added": 1580504320000,
         "apkName": "tachiyomi-en.comicextra-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -2633,7 +2632,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.dilbert": [
       {
-        "added": 1579243176000,
+        "added": 1580504321000,
         "apkName": "tachiyomi-en.dilbert-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -2652,7 +2651,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.dragonball_multiverse": [
       {
-        "added": 1579243177000,
+        "added": 1580504322000,
         "apkName": "tachiyomi-en.dragonball_multiverse-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -2671,7 +2670,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.dynasty": [
       {
-        "added": 1579243177000,
+        "added": 1580504322000,
         "apkName": "tachiyomi-en.dynasty-v1.2.10.apk",
         "features": [
           "tachiyomi.extension"
@@ -2688,7 +2687,7 @@
         "versionName": "1.2.10"
       },
       {
-        "added": 1579243178000,
+        "added": 1580504323000,
         "apkName": "tachiyomi-en.dynasty-v1.2.9.apk",
         "features": [
           "tachiyomi.extension"
@@ -2707,7 +2706,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.explosm": [
       {
-        "added": 1579243179000,
+        "added": 1580504324000,
         "apkName": "tachiyomi-en.explosm-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -2726,7 +2725,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.guya": [
       {
-        "added": 1579242926000,
+        "added": 1580504325000,
         "apkName": "tachiyomi-en.guya-v1.2.8.apk",
         "features": [
           "tachiyomi.extension"
@@ -2743,7 +2742,7 @@
         "versionName": "1.2.8"
       },
       {
-        "added": 1579243180000,
+        "added": 1580504324000,
         "apkName": "tachiyomi-en.guya-v1.2.6.apk",
         "features": [
           "tachiyomi.extension"
@@ -2762,7 +2761,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.hentai2read": [
       {
-        "added": 1579243181000,
+        "added": 1580504326000,
         "apkName": "tachiyomi-en.hentai2read-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
@@ -2781,7 +2780,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.holymanga": [
       {
-        "added": 1579243182000,
+        "added": 1580504327000,
         "apkName": "tachiyomi-en.holymanga-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -2800,7 +2799,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangahasu": [
       {
-        "added": 1579243184000,
+        "added": 1580504327000,
         "apkName": "tachiyomi-en.mangahasu-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
@@ -2819,7 +2818,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangahere": [
       {
-        "added": 1579242933000,
+        "added": 1580504328000,
         "apkName": "tachiyomi-en.mangahere-v1.2.11.apk",
         "features": [
           "tachiyomi.extension"
@@ -2838,7 +2837,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangahub": [
       {
-        "added": 1579243185000,
+        "added": 1580504329000,
         "apkName": "tachiyomi-en.mangahub-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -2857,7 +2856,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangakisa": [
       {
-        "added": 1579243186000,
+        "added": 1580504330000,
         "apkName": "tachiyomi-en.mangakisa-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -2876,7 +2875,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangalife": [
       {
-        "added": 1579243187000,
+        "added": 1580504331000,
         "apkName": "tachiyomi-en.mangalife-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -2893,7 +2892,7 @@
         "versionName": "1.2.2"
       },
       {
-        "added": 1579243187000,
+        "added": 1580504330000,
         "apkName": "tachiyomi-en.mangalife-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -2912,7 +2911,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangaowl": [
       {
-        "added": 1579243191000,
+        "added": 1580504332000,
         "apkName": "tachiyomi-en.mangaowl-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -2931,7 +2930,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangatown": [
       {
-        "added": 1579243195000,
+        "added": 1580504333000,
         "apkName": "tachiyomi-en.mangatown-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -2950,7 +2949,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.merakiscans": [
       {
-        "added": 1579243196000,
+        "added": 1580504333000,
         "apkName": "tachiyomi-en.merakiscans-v1.2.5.apk",
         "features": [
           "tachiyomi.extension"
@@ -2969,7 +2968,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.pururin": [
       {
-        "added": 1579243197000,
+        "added": 1580504334000,
         "apkName": "tachiyomi-en.pururin-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -2988,7 +2987,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.readcomiconline": [
       {
-        "added": 1579242946000,
+        "added": 1580504335000,
         "apkName": "tachiyomi-en.readcomiconline-v1.2.6.apk",
         "features": [
           "tachiyomi.extension"
@@ -3005,7 +3004,7 @@
         "versionName": "1.2.6"
       },
       {
-        "added": 1579243198000,
+        "added": 1580504335000,
         "apkName": "tachiyomi-en.readcomiconline-v1.2.5.apk",
         "features": [
           "tachiyomi.extension"
@@ -3024,7 +3023,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.sleepypandascans": [
       {
-        "added": 1579243200000,
+        "added": 1580504336000,
         "apkName": "tachiyomi-en.sleepypandascans-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3043,7 +3042,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.vgperson": [
       {
-        "added": 1579243203000,
+        "added": 1580504337000,
         "apkName": "tachiyomi-en.vgperson-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3062,7 +3061,7 @@
     ],
     "eu.kanade.tachiyomi.extension.en.webcomics": [
       {
-        "added": 1579243203000,
+        "added": 1580504337000,
         "apkName": "tachiyomi-en.webcomics-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3081,7 +3080,7 @@
     ],
     "eu.kanade.tachiyomi.extension.es.lectormanga": [
       {
-        "added": 1579242959000,
+        "added": 1580504339000,
         "apkName": "tachiyomi-es.lectormanga-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
@@ -3098,7 +3097,7 @@
         "versionName": "1.2.4"
       },
       {
-        "added": 1579243205000,
+        "added": 1580504339000,
         "apkName": "tachiyomi-es.lectormanga-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -3115,7 +3114,7 @@
         "versionName": "1.2.2"
       },
       {
-        "added": 1579243204000,
+        "added": 1580504338000,
         "apkName": "tachiyomi-es.lectormanga-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3134,7 +3133,7 @@
     ],
     "eu.kanade.tachiyomi.extension.es.mangamx": [
       {
-        "added": 1579243207000,
+        "added": 1580504341000,
         "apkName": "tachiyomi-es.mangamx-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -3151,7 +3150,7 @@
         "versionName": "1.2.3"
       },
       {
-        "added": 1579243206000,
+        "added": 1580504340000,
         "apkName": "tachiyomi-es.mangamx-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -3170,7 +3169,7 @@
     ],
     "eu.kanade.tachiyomi.extension.es.tumangaonline": [
       {
-        "added": 1580193337000,
+        "added": 1580504344000,
         "apkName": "tachiyomi-es.tumangaonline-v1.2.20.apk",
         "features": [
           "tachiyomi.extension"
@@ -3187,7 +3186,7 @@
         "versionName": "1.2.20"
       },
       {
-        "added": 1580157052000,
+        "added": 1580504344000,
         "apkName": "tachiyomi-es.tumangaonline-v1.2.19.apk",
         "features": [
           "tachiyomi.extension"
@@ -3204,7 +3203,7 @@
         "versionName": "1.2.19"
       },
       {
-        "added": 1579717285000,
+        "added": 1580504343000,
         "apkName": "tachiyomi-es.tumangaonline-v1.2.18.apk",
         "features": [
           "tachiyomi.extension"
@@ -3221,7 +3220,7 @@
         "versionName": "1.2.18"
       },
       {
-        "added": 1579669827000,
+        "added": 1580504342000,
         "apkName": "tachiyomi-es.tumangaonline-v1.2.17.apk",
         "features": [
           "tachiyomi.extension"
@@ -3238,7 +3237,7 @@
         "versionName": "1.2.17"
       },
       {
-        "added": 1579242961000,
+        "added": 1580504341000,
         "apkName": "tachiyomi-es.tumangaonline-v1.2.16.apk",
         "features": [
           "tachiyomi.extension"
@@ -3257,7 +3256,7 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.japscan": [
       {
-        "added": 1579242963000,
+        "added": 1580504346000,
         "apkName": "tachiyomi-fr.japscan-v1.2.13.apk",
         "features": [
           "tachiyomi.extension"
@@ -3274,7 +3273,7 @@
         "versionName": "1.2.13"
       },
       {
-        "added": 1579243211000,
+        "added": 1580504345000,
         "apkName": "tachiyomi-fr.japscan-v1.2.12.apk",
         "features": [
           "tachiyomi.extension"
@@ -3293,7 +3292,7 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.mangakawaii": [
       {
-        "added": 1579243211000,
+        "added": 1580504347000,
         "apkName": "tachiyomi-fr.mangakawaii-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -3312,7 +3311,7 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.scantrad": [
       {
-        "added": 1579243213000,
+        "added": 1580504348000,
         "apkName": "tachiyomi-fr.scantrad-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -3329,7 +3328,7 @@
         "versionName": "1.2.3"
       },
       {
-        "added": 1579243212000,
+        "added": 1580504347000,
         "apkName": "tachiyomi-fr.scantrad-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -3348,7 +3347,7 @@
     ],
     "eu.kanade.tachiyomi.extension.id.mangashiro": [
       {
-        "added": 1579243215000,
+        "added": 1580504349000,
         "apkName": "tachiyomi-id.mangashiro-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3367,7 +3366,7 @@
     ],
     "eu.kanade.tachiyomi.extension.id.neumanga": [
       {
-        "added": 1579243216000,
+        "added": 1580504349000,
         "apkName": "tachiyomi-id.neumanga-v1.0.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -3386,7 +3385,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ja.rawdevart": [
       {
-        "added": 1579243225000,
+        "added": 1580504350000,
         "apkName": "tachiyomi-ja.rawdevart-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -3405,7 +3404,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ja.rawkuma": [
       {
-        "added": 1579242986000,
+        "added": 1580504351000,
         "apkName": "tachiyomi-ja.rawkuma-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -3422,7 +3421,7 @@
         "versionName": "1.2.2"
       },
       {
-        "added": 1579243226000,
+        "added": 1580504351000,
         "apkName": "tachiyomi-ja.rawkuma-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3441,7 +3440,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ja.senmanga": [
       {
-        "added": 1579243227000,
+        "added": 1580504352000,
         "apkName": "tachiyomi-ja.senmanga-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -3460,7 +3459,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ko.jmana": [
       {
-        "added": 1579243227000,
+        "added": 1580504353000,
         "apkName": "tachiyomi-ko.jmana-v1.2.8.apk",
         "features": [
           "tachiyomi.extension"
@@ -3479,7 +3478,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ko.mangashowme": [
       {
-        "added": 1579243229000,
+        "added": 1580504354000,
         "apkName": "tachiyomi-ko.mangashowme-v1.2.13.apk",
         "features": [
           "tachiyomi.extension"
@@ -3498,7 +3497,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ko.newtoki": [
       {
-        "added": 1579243231000,
+        "added": 1580504354000,
         "apkName": "tachiyomi-ko.newtoki-v1.2.10.apk",
         "features": [
           "tachiyomi.extension"
@@ -3515,7 +3514,7 @@
         "versionName": "1.2.10"
       },
       {
-        "added": 1579243232000,
+        "added": 1580504355000,
         "apkName": "tachiyomi-ko.newtoki-v1.2.9.apk",
         "features": [
           "tachiyomi.extension"
@@ -3534,7 +3533,7 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.centraldemangas": [
       {
-        "added": 1579243233000,
+        "added": 1580504356000,
         "apkName": "tachiyomi-pt.centraldemangas-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3553,7 +3552,7 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.hqnow": [
       {
-        "added": 1579243001000,
+        "added": 1580504357000,
         "apkName": "tachiyomi-pt.hqnow-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3572,7 +3571,7 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.mangasproject": [
       {
-        "added": 1579243002000,
+        "added": 1580504358000,
         "apkName": "tachiyomi-pt.mangasproject-v1.2.5.apk",
         "features": [
           "tachiyomi.extension"
@@ -3591,7 +3590,7 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.saikaiscan": [
       {
-        "added": 1579243237000,
+        "added": 1580504359000,
         "apkName": "tachiyomi-pt.saikaiscan-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3610,7 +3609,7 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.unionmangas": [
       {
-        "added": 1579243237000,
+        "added": 1580504360000,
         "apkName": "tachiyomi-pt.unionmangas-v1.2.8.apk",
         "features": [
           "tachiyomi.extension"
@@ -3629,7 +3628,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.comx": [
       {
-        "added": 1579243239000,
+        "added": 1580504361000,
         "apkName": "tachiyomi-ru.comx-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -3648,7 +3647,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.henchan": [
       {
-        "added": 1579243240000,
+        "added": 1580504362000,
         "apkName": "tachiyomi-ru.henchan-v1.2.11.apk",
         "features": [
           "tachiyomi.extension"
@@ -3667,7 +3666,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.libmanga": [
       {
-        "added": 1579243241000,
+        "added": 1580504363000,
         "apkName": "tachiyomi-ru.libmanga-v1.2.7.apk",
         "features": [
           "tachiyomi.extension"
@@ -3684,7 +3683,7 @@
         "versionName": "1.2.7"
       },
       {
-        "added": 1579243241000,
+        "added": 1580504362000,
         "apkName": "tachiyomi-ru.libmanga-v1.2.6.apk",
         "features": [
           "tachiyomi.extension"
@@ -3703,7 +3702,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.mangaonlinebiz": [
       {
-        "added": 1579243242000,
+        "added": 1580504364000,
         "apkName": "tachiyomi-ru.mangaonlinebiz-v1.2.6.apk",
         "features": [
           "tachiyomi.extension"
@@ -3722,7 +3721,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.mintmanga": [
       {
-        "added": 1579243244000,
+        "added": 1580504366000,
         "apkName": "tachiyomi-ru.mintmanga-v1.2.15.apk",
         "features": [
           "tachiyomi.extension"
@@ -3739,7 +3738,7 @@
         "versionName": "1.2.15"
       },
       {
-        "added": 1579243243000,
+        "added": 1580504365000,
         "apkName": "tachiyomi-ru.mintmanga-v1.2.14.apk",
         "features": [
           "tachiyomi.extension"
@@ -3758,7 +3757,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.nudemoon": [
       {
-        "added": 1579243245000,
+        "added": 1580504367000,
         "apkName": "tachiyomi-ru.nudemoon-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -3777,7 +3776,7 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.readmanga": [
       {
-        "added": 1579243246000,
+        "added": 1580504369000,
         "apkName": "tachiyomi-ru.readmanga-v1.2.14.apk",
         "features": [
           "tachiyomi.extension"
@@ -3794,7 +3793,7 @@
         "versionName": "1.2.14"
       },
       {
-        "added": 1579243246000,
+        "added": 1580504368000,
         "apkName": "tachiyomi-ru.readmanga-v1.2.13.apk",
         "features": [
           "tachiyomi.extension"
@@ -3813,7 +3812,7 @@
     ],
     "eu.kanade.tachiyomi.extension.vi.hentaivn": [
       {
-        "added": 1579243025000,
+        "added": 1580504370000,
         "apkName": "tachiyomi-vi.hentaivn-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
@@ -3832,7 +3831,7 @@
     ],
     "eu.kanade.tachiyomi.extension.vi.nettruyen": [
       {
-        "added": 1579243250000,
+        "added": 1580504370000,
         "apkName": "tachiyomi-vi.nettruyen-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
@@ -3851,7 +3850,7 @@
     ],
     "eu.kanade.tachiyomi.extension.vi.truyenqq": [
       {
-        "added": 1579402874000,
+        "added": 1580504371000,
         "apkName": "tachiyomi-vi.truyenqq-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3870,7 +3869,7 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.dmzj": [
       {
-        "added": 1579243251000,
+        "added": 1580504372000,
         "apkName": "tachiyomi-zh.dmzj-v1.2.7.apk",
         "features": [
           "tachiyomi.extension"
@@ -3889,7 +3888,7 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.gufengmh": [
       {
-        "added": 1580193355000,
+        "added": 1580504373000,
         "apkName": "tachiyomi-zh.gufengmh-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -3906,7 +3905,7 @@
         "versionName": "1.2.2"
       },
       {
-        "added": 1580157068000,
+        "added": 1580504372000,
         "apkName": "tachiyomi-zh.gufengmh-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3925,7 +3924,7 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.hanhankuman": [
       {
-        "added": 1579243253000,
+        "added": 1580504374000,
         "apkName": "tachiyomi-zh.hanhankuman-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
@@ -3944,7 +3943,7 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.kuaikanmanhua": [
       {
-        "added": 1579243254000,
+        "added": 1580504374000,
         "apkName": "tachiyomi-zh.kuaikanmanhua-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3963,7 +3962,7 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.manhuadb": [
       {
-        "added": 1579243255000,
+        "added": 1580504375000,
         "apkName": "tachiyomi-zh.manhuadb-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -3982,7 +3981,7 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.manhuadui": [
       {
-        "added": 1579243256000,
+        "added": 1580504376000,
         "apkName": "tachiyomi-zh.manhuadui-v1.2.5.apk",
         "features": [
           "tachiyomi.extension"
@@ -4001,7 +4000,7 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.manhuaren": [
       {
-        "added": 1579243256000,
+        "added": 1580504377000,
         "apkName": "tachiyomi-zh.manhuaren-v1.2.6.apk",
         "features": [
           "tachiyomi.extension"
@@ -4020,7 +4019,7 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.pufei": [
       {
-        "added": 1579243037000,
+        "added": 1580504378000,
         "apkName": "tachiyomi-zh.pufei-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
@@ -4039,7 +4038,7 @@
     ],
     "eu.kanade.tachiyomi.j2k": [
       {
-        "added": 1579242874000,
+        "added": 1580504266000,
         "apkName": "eu.kanade.tachiyomi.j2k_v0.9.7_55.apk",
         "hash": "98393c4196b771e7e291b314558ea8c417544c43112952b35738e90ea5a42efa",
         "hashType": "sha256",
@@ -4124,7 +4123,7 @@
         "versionName": "0.9.7"
       },
       {
-        "added": 1579243085000,
+        "added": 1580504262000,
         "apkName": "eu.kanade.tachiyomi.j2k.v0.9.69_54.apk",
         "hash": "f53be26146ec6458e5c5b8ddfaf3fe6a9806cf6ea5b36663ab5d3d85e29bbf50",
         "hashType": "sha256",
@@ -4209,7 +4208,7 @@
         "versionName": "0.9.69"
       },
       {
-        "added": 1579243080000,
+        "added": 1580504258000,
         "apkName": "eu.kanade.tachiyomi.j2k-v0.9.41_48.apk",
         "hash": "61049de46bc59b841f66763ed68abfba745476ddf737f85868c34d259a9ee651",
         "hashType": "sha256",
@@ -4296,7 +4295,7 @@
     ],
     "net.android.adm": [
       {
-        "added": 1579243092000,
+        "added": 1580504270000,
         "apkName": "net.android.adm_v6.1.3_143.apk",
         "hash": "18dbbedb472c2998eb7ab38f842be7024bf248c96ade7d314a87149abbbbc4bc",
         "hashType": "sha256",
@@ -4368,7 +4367,7 @@
         "versionName": "6.1.3"
       },
       {
-        "added": 1579243088000,
+        "added": 1580504268000,
         "apkName": "net.android.adm_v5.3.3_137.apk",
         "hash": "cddd17e40c9584fe7de4456d74def339a20a6b29ee060e4ec776a3c5e68ee63c",
         "hashType": "sha256",
@@ -4442,7 +4441,7 @@
     ],
     "net.android.hdlr": [
       {
-        "added": 1579243095000,
+        "added": 1580504273000,
         "apkName": "net.android.hdlr_v2.0.0_21.apk",
         "hash": "68dfb5d3da9d86b80b67df7c78c765931606af28e0f6d2425752c875a0768618",
         "hashType": "sha256",
@@ -4504,7 +4503,7 @@
     ],
     "net.android.kamuy": [
       {
-        "added": 1579243103000,
+        "added": 1580504276000,
         "apkName": "net.android.kamuy_v3.0.1_37.apk",
         "hash": "c3b5465756dd8594d9c31dc4187135ccbb08a0e8fa87c2f6d2c22778fd49b52c",
         "hashType": "sha256",
@@ -4578,7 +4577,7 @@
     ],
     "net.android.mdm": [
       {
-        "added": 1579243112000,
+        "added": 1580504281000,
         "apkName": "net.android.mdm_v8.0.0_138.apk",
         "hash": "5c78728909a0c4a874c1e92c0b1265ce0fc5bd64a04de598df12d58a04b55d84",
         "hashType": "sha256",
@@ -4650,7 +4649,7 @@
         "versionName": "8.0.0"
       },
       {
-        "added": 1579243109000,
+        "added": 1580504278000,
         "apkName": "net.android.mdm_v7.0.1_137.apk",
         "hash": "0cd819dbd02ecc5769205e4d552cafdebc366aca0fab4c58d1bb15e5642995b0",
         "hashType": "sha256",
@@ -4724,7 +4723,7 @@
     ],
     "net.cyl.ranobe": [
       {
-        "added": 1579243121000,
+        "added": 1580504287000,
         "apkName": "net.cyl.ranobe_v2.8.2_29.apk",
         "features": [
           "android.hardware.touchscreen"
@@ -4799,7 +4798,7 @@
         "versionName": "2.8.2"
       },
       {
-        "added": 1579243118000,
+        "added": 1580504283000,
         "apkName": "net.cyl.ranobe_v2.7.0_26.apk",
         "features": [
           "android.hardware.touchscreen"
@@ -4876,7 +4875,7 @@
     ],
     "tachiyomi.mangadex": [
       {
-        "added": 1579243044000,
+        "added": 1580504385000,
         "apkName": "tachiyomi.mangadex_v1.5.4.1_40.apk",
         "hash": "0b4304efe4711341579182a204e92a2bda13207be2cc0a63407cc84986dda4fb",
         "hashType": "sha256",
@@ -4949,7 +4948,7 @@
         "versionName": "1.5.4.1"
       },
       {
-        "added": 1579243264000,
+        "added": 1580504381000,
         "apkName": "tachiyomi.mangadex_v1.3.2_23.apk",
         "hash": "932120cf87db4527e99dc58f155d368306c4c6e865b5f3963f4c975e49c5631f",
         "hashType": "sha256",
@@ -5016,7 +5015,7 @@
     ],
     "top.rechinx.meow": [
       {
-        "added": 1579243266000,
+        "added": 1580504388000,
         "apkName": "top.rechinx.meow_1.0.6_6_mabDc-378cb6b.apk",
         "hash": "649c7c9cdef573c7da63d49f95dbfbbe518905ef7afd704718d800997759264b",
         "hashType": "sha256",
