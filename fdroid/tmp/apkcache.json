@@ -13573,5 +13573,119 @@
     "apkName": "top.rechinx.meow_1.0.6_6_mabDc-378cb6b.apk",
     "icon": "top.rechinx.meow.6.png",
     "added": 1580533188.494955
+  },
+  "tachiyomi-all.fmreader-v1.2.6.apk": {
+    "hash": "c4deafe715dc65192b81fce1bfb8ee3a23b727664bd6ddc071363ba7f19553e8",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.fmreader.6.png",
+      "480": "eu.kanade.tachiyomi.extension.all.fmreader.6.png",
+      "320": "eu.kanade.tachiyomi.extension.all.fmreader.6.png",
+      "240": "eu.kanade.tachiyomi.extension.all.fmreader.6.png",
+      "160": "eu.kanade.tachiyomi.extension.all.fmreader.6.png",
+      "0": "eu.kanade.tachiyomi.extension.all.fmreader.6.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.fmreader",
+    "versionCode": 6,
+    "name": "Tachiyomi: FMReader (multiple aggregators)",
+    "versionName": "1.2.6",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62393,
+    "apkName": "tachiyomi-all.fmreader-v1.2.6.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.fmreader.6.png",
+    "added": 1580569056.585086
+  },
+  "tachiyomi-all.wpmangastream-v1.2.4.apk": {
+    "hash": "93fea52fa84d05f943ecbf60fa06226d4e21a4431cb36e9c5953cf74fa0c1143",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.wpmangastream.4.png",
+      "480": "eu.kanade.tachiyomi.extension.all.wpmangastream.4.png",
+      "320": "eu.kanade.tachiyomi.extension.all.wpmangastream.4.png",
+      "240": "eu.kanade.tachiyomi.extension.all.wpmangastream.4.png",
+      "160": "eu.kanade.tachiyomi.extension.all.wpmangastream.4.png",
+      "0": "eu.kanade.tachiyomi.extension.all.wpmangastream.4.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
+    "versionCode": 4,
+    "name": "Tachiyomi: WP Manga Stream",
+    "versionName": "1.2.4",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 46095,
+    "apkName": "tachiyomi-all.wpmangastream-v1.2.4.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.4.png",
+    "added": 1580569074.684999
+  },
+  "tachiyomi-ko.mangashowme-v1.2.17.apk": {
+    "hash": "bf753249b80e04d19868ca77ee6b68e818c22e89654b45708ee10c99b5d9e386",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ko.mangashowme.17.png",
+      "480": "eu.kanade.tachiyomi.extension.ko.mangashowme.17.png",
+      "320": "eu.kanade.tachiyomi.extension.ko.mangashowme.17.png",
+      "240": "eu.kanade.tachiyomi.extension.ko.mangashowme.17.png",
+      "160": "eu.kanade.tachiyomi.extension.ko.mangashowme.17.png",
+      "0": "eu.kanade.tachiyomi.extension.ko.mangashowme.17.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ko.mangashowme",
+    "versionCode": 17,
+    "name": "Tachiyomi: ManaMoa",
+    "versionName": "1.2.17",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62401,
+    "apkName": "tachiyomi-ko.mangashowme-v1.2.17.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ko.mangashowme.17.png",
+    "added": 1580569090.097182
   }
 }

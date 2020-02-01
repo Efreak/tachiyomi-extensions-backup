@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1580504388000,
+    "timestamp": 1580540292000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -783,9 +783,9 @@
       "summary": "Tachiyomi FMReader (multiple aggregators)",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1580504122000,
-      "icon": "eu.kanade.tachiyomi.extension.all.fmreader.5.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.fmreader.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.fmreader",
-      "lastUpdated": 1580504292000
+      "lastUpdated": 1580540256000
     },
     {
       "categories": [
@@ -1435,9 +1435,9 @@
       "summary": "Tachiyomi ManaMoa (MangaShow.Me) Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1580504199000,
-      "icon": "eu.kanade.tachiyomi.extension.ko.mangashowme.16.png",
+      "icon": "eu.kanade.tachiyomi.extension.ko.mangashowme.17.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.mangashowme",
-      "lastUpdated": 1580504354000
+      "lastUpdated": 1580540290000
     },
     {
       "categories": [
@@ -3066,9 +3066,9 @@
       "summary": "Tachiyomi WP Manga Stream Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1580504136000,
-      "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
-      "lastUpdated": 1580504136000
+      "lastUpdated": 1580540274000
     },
     {
       "categories": [
@@ -3461,21 +3461,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.fmreader": [
       {
-        "added": 1580504122000,
-        "apkName": "tachiyomi-all.fmreader-v1.2.5.apk",
+        "added": 1580540256000,
+        "apkName": "tachiyomi-all.fmreader-v1.2.6.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "5651924b734da861d1ecbe774e2fc97a2dac0648d782a4ca27b2ef23c617b407",
+        "hash": "c4deafe715dc65192b81fce1bfb8ee3a23b727664bd6ddc071363ba7f19553e8",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.fmreader",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 62387,
+        "size": 62393,
         "targetSdkVersion": 27,
-        "versionCode": 5,
-        "versionName": "1.2.5"
+        "versionCode": 6,
+        "versionName": "1.2.6"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.foolslide": [
@@ -3860,21 +3860,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.wpmangastream": [
       {
-        "added": 1580504136000,
-        "apkName": "tachiyomi-all.wpmangastream-v1.2.3.apk",
+        "added": 1580540274000,
+        "apkName": "tachiyomi-all.wpmangastream-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "595fd68e4095f842c21359960a7d6f630bc0d0fd75dc46b7a62a8efab189d607",
+        "hash": "93fea52fa84d05f943ecbf60fa06226d4e21a4431cb36e9c5953cf74fa0c1143",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 46097,
+        "size": 46095,
         "targetSdkVersion": 27,
-        "versionCode": 3,
-        "versionName": "1.2.3"
+        "versionCode": 4,
+        "versionName": "1.2.4"
       }
     ],
     "eu.kanade.tachiyomi.extension.ar.mangaae": [
@@ -5570,21 +5570,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ko.mangashowme": [
       {
-        "added": 1580504199000,
-        "apkName": "tachiyomi-ko.mangashowme-v1.2.16.apk",
+        "added": 1580540290000,
+        "apkName": "tachiyomi-ko.mangashowme-v1.2.17.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "0548e9d01dd28150651147c1f5f85637ed4b446c3f108577aa263210a8307b88",
+        "hash": "bf753249b80e04d19868ca77ee6b68e818c22e89654b45708ee10c99b5d9e386",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ko.mangashowme",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 62392,
+        "size": 62401,
         "targetSdkVersion": 27,
-        "versionCode": 16,
-        "versionName": "1.2.16"
+        "versionCode": 17,
+        "versionName": "1.2.17"
       }
     ],
     "eu.kanade.tachiyomi.extension.ko.navercomic": [
