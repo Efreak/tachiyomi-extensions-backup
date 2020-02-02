@@ -29,7 +29,7 @@ fi
 
 # alert me
 echo 'New files:'
-newstuff=$(diff <(echo "$predl") <(ls) |fgrep '+'|cut -d+ -f2)
+newstuff=$(diff <(echo "$predl") <(ls) |fgrep '+'|cut -d'+' -f2-)
 echo "$newstuff"
 
 # now move older versions of tachiyomi.debug to archive, if it's been updated
@@ -48,6 +48,6 @@ cd /home/efreak/fdroidserver/fdroid
 
 # and update git
 git add repo archive tmp
-git commit -m "Update apps: "$'\n\n'"$newstuff"
+git commit -m $(echo "Update apps: "$'\n\n'"$newstuff")
 
 # and leave it to be pushed manually
