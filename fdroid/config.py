@@ -60,14 +60,14 @@ mirrors = (
 # you can do this by opening the repo settings in fdroid.
 #    'http://192.168.0.2:8000/fdroid',
 # the rawgit alternatives. too lazy to see what sticks around, so toss em all in here...
-    'https://cdn.statically.io/gh/Efreak/tachiyomi-extensions/master/fdroid',
+#    'https://cdn.statically.io/gh/Efreak/tachiyomi-extensions/master/fdroid',
 #    'https://cdn.jsdelivr.net/gh/Efreak/tachiyomi-extensions@master/fdroid',
-    'https://rawgit2.com/efreak/tachiyomi-extensions/master/fdroid',
-    'https://gitcdn.xyz/Efreak/tachiyomi-extensions/master/fdroid'
-    'https://gitcdn.link/Efreak/tachiyomi-extensions/master/fdroid'
-    'https://raw.githack.com/Efreak/tachiyomi-extensions/master/fdroid',
-    'https://ghcdn.rawgit.org/Efreak/tachiyomi-extensions/master/fdroid',
-    'https://combinatronics.com/Efreak/tachiyomi-extensions/master/fdroid'
+#    'https://rawgit2.com/efreak/tachiyomi-extensions/master/fdroid',
+#    'https://gitcdn.xyz/Efreak/tachiyomi-extensions/master/fdroid'
+#    'https://gitcdn.link/Efreak/tachiyomi-extensions/master/fdroid'
+#    'https://raw.githack.com/Efreak/tachiyomi-extensions/master/fdroid',
+#    'https://ghcdn.rawgit.org/Efreak/tachiyomi-extensions/master/fdroid',
+#    'https://combinatronics.com/Efreak/tachiyomi-extensions/master/fdroid'
 )
 uninstall_list = (
     'eu.kanade.tachiyomi.extension.en.mangakakalot',
