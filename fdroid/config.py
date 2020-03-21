@@ -97,3 +97,6 @@ uninstall_list = (
     'eu.kanade.tachiyomi.extension.en.manhwahentai',
     'eu.kanade.tachiyomi.extension.en.mangarock',
 )
+update_stats = True
+stats_server = "tachi.efreakbnc.ney"
+stats_user = "efreak"
