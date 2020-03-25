@@ -29,6 +29,10 @@ echo Checking/Downloading Meow
 curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/neverfelly/Meow/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output meow.apk
 mv -n meow.apk $(aapt dump badging meow.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
+echo Checking/Downloading Hentoid
+curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/avluis/Hentoid/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output hentoid.apk
+mv -n hentoid.apk $(aapt dump badging hentoid.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+
 echo checking for new versions of cylonu87 apps
 echo checking for HDLR
 curl -s -L $(curl -s 'https://api.bitbucket.org/2.0/repositories/cylonu87/animedlr/downloads' | jq . | grep -E 'href.*?HDLR-.*?release.apk' -m1|cut -d \" -f4) --output hdlr.apk
@@ -50,7 +54,7 @@ echo checking for Ranobe
 curl -s -L $(curl -s 'https://api.bitbucket.org/2.0/repositories/cylonu87/ranobe/downloads' | jq . | grep -E 'href.*?Ranobe-.*?-full-release.apk' -m1|cut -d \" -f4) --output ranobe.apk
 mv -n ranobe.apk $(aapt dump badging ranobe.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
-rm -f {meow,neko,debug,stable,j2k,hdlr,mdlr,adlr,ranobe,kamuy}.apk
+rm -f {meow,neko,debug,stable,j2k,hdlr,mdlr,adlr,ranobe,kamuy,hentoid}.apk
 
 #TODO: git stash before dl, and git diff here instead
 #no, that's a stupid idea. just dont leave stuff behind
