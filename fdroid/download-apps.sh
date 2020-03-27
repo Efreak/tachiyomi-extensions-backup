@@ -56,7 +56,7 @@ mv -n ranobe.apk $(aapt dump badging ranobe.apk|head -1|sed -e "s/'/"'"/g' -Ee '
 
 echo
 echo "Checking/Downloading TaiYakiAnime (multiple apks)"
-curl -s $(curl -s 'https://api.github.com/repos/Michael24884/TaiYaKiAnime/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4|while read taiyakiurl;do
+curl -s $(curl -s 'https://api.github.com/repos/Michael24884/TaiYaKiAnime/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4|fgrep -v x86|fgrep -v arm64|while read taiyakiurl;do
   echo $taiyakiurl
   curl -s -L $taiyakiurl --output taiyaki.apk
   mv -n taiyaki.apk $(aapt dump badging taiyaki.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2/g')-$(aapt dump badging taiyaki.apk|fgrep native-code|cut -d\' -f2).apk
