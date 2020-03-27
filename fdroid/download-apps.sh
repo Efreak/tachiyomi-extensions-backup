@@ -54,7 +54,15 @@ echo Checking/Downloading Ranobe
 curl -s -L $(curl -s 'https://api.bitbucket.org/2.0/repositories/cylonu87/ranobe/downloads' | jq . | grep -E 'href.*?Ranobe-.*?-full-release.apk' -m1|cut -d \" -f4) --output ranobe.apk
 mv -n ranobe.apk $(aapt dump badging ranobe.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
-rm -f {meow,neko,debug,stable,j2k,hdlr,mdlr,adlr,ranobe,kamuy,hentoid}.apk
+echo
+echo "Checking/Downloading TaiYakiAnime (multiple apks)"
+curl -s $(curl -s 'https://api.github.com/repos/Michael24884/TaiYaKiAnime/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4|while read taiyakiurl;do
+  echo $taiyakiurl
+  curl -s -L $taiyakiurl --output taiyaki.apk
+  mv -n taiyaki.apk $(aapt dump badging taiyaki.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2/g')-$(aapt dump badging taiyaki.apk|fgrep native-code|cut -d\' -f2).apk
+done
+
+rm -f {meow,neko,debug,stable,j2k,hdlr,mdlr,adlr,ranobe,kamuy,hentoid,taiyaki}.apk
 
 #TODO: git stash before dl, and git diff here instead
 #no, that's a stupid idea. just dont leave stuff behind
