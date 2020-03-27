@@ -34,23 +34,23 @@ curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/avluis/Hentoid/rele
 mv -n hentoid.apk $(aapt dump badging hentoid.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
 echo checking for new versions of cylonu87 apps
-echo checking for HDLR
+echo Checking/Downloading HDLR
 curl -s -L $(curl -s 'https://api.bitbucket.org/2.0/repositories/cylonu87/animedlr/downloads' | jq . | grep -E 'href.*?HDLR-.*?release.apk' -m1|cut -d \" -f4) --output hdlr.apk
 mv -n hdlr.apk $(aapt dump badging hdlr.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
-echo checking for AnimeDLR
+echo Checking/Downloading AnimeDLR
 curl -s -L $(curl -s 'https://api.bitbucket.org/2.0/repositories/cylonu87/animedlr/downloads' | jq . | grep -E 'href.*?AnimeDLR-.*?-full-release.apk' -m1|cut -d \" -f4) --output adlr.apk
 mv -n adlr.apk $(aapt dump badging adlr.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
-echo checking for MangaDLR
+echo Checking/Downloading MangaDLR
 curl -s -L $(curl -s 'https://api.bitbucket.org/2.0/repositories/cylonu87/mangadlr/downloads' | jq . | grep -E 'href.*?MangaDLR-.*?-full_extra-release.apk' -m1|cut -d \" -f4) --output mdlr.apk
 mv -n mdlr.apk $(aapt dump badging mdlr.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
-echo checking for Kamuy
+echo Checking/Downloading Kamuy
 curl -s -L $(curl -s 'https://api.bitbucket.org/2.0/repositories/cylonu87/kamuy/downloads' | jq . | grep -E 'href.*?Kamuy-.*?-full-release.apk' -m1|cut -d \" -f4) --output kamuy.apk
 mv -n kamuy.apk $(aapt dump badging kamuy.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
-echo checking for Ranobe
+echo Checking/Downloading Ranobe
 curl -s -L $(curl -s 'https://api.bitbucket.org/2.0/repositories/cylonu87/ranobe/downloads' | jq . | grep -E 'href.*?Ranobe-.*?-full-release.apk' -m1|cut -d \" -f4) --output ranobe.apk
 mv -n ranobe.apk $(aapt dump badging ranobe.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
