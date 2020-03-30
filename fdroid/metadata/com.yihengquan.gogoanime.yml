@@ -1,6 +1,5 @@
 Categories:
   - Manga/Anime
-  - Internet
   - Multimedia
 License: MIT
 AuthorName: HenryQuan
@@ -8,8 +7,8 @@ WebSite: https://henryquan.github.io/AnimeGo-Re
 SourceCode: https://github.com/HenryQuan/AnimeGo-Re
 IssueTracker: https://github.com/HenryQuan/AnimeGo-Re/issues
 
-Name: Neko
-Summary: Free, open source, unofficial MangaDex reader forked from Tachiyomi
+Name: AnimeGo-Re
+Summary: GoGoAnime client
 Description: |-
     Notes: This app seems to be an in-development replacement for an existing react-native app located at [https://github.com/HenryQuan/React-Native-GoGoAnime HenryQuan/React-Native-GoGoAnime]. I've corrected some typos and links, but probably won't be updating the description.
     
