@@ -9,6 +9,14 @@ cd /home/efreak/fdroidserver/fdroid/repo
 
 predl="$(ls)"
 
+echo Checking/Downloading tachi az fork
+curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/az4521/TachiyomiAZ/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output az.apk
+mv -n az.apk $(aapt dump badging az.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+
+echo Checking/Downloading tachi az fork debug
+curl -s -L 'https://crafty.moe/tachiyomiAZ.apk' --output azdebug.apk
+mv -n azdebug.apk $(aapt dump badging azdebug.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+
 echo Checking/Downloading tachi jays2kings fork
 curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/jays2kings/tachiyomi/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output j2k.apk
 mv -n j2k.apk $(aapt dump badging j2k.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
@@ -67,7 +75,7 @@ echo Checking/Downloading AnimeGo-Re
 curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/HenryQuan/AnimeGo-Re/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output animego.apk
 mv -n animego.apk $(aapt dump badging animego.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
-rm -f {meow,neko,debug,stable,j2k,hdlr,mdlr,adlr,ranobe,kamuy,hentoid,taiyaki,animego}.apk
+rm -f {meow,neko,debug,stable,j2k,hdlr,mdlr,adlr,ranobe,kamuy,hentoid,taiyaki,animego,az,azdebug}.apk
 
 #TODO: git stash before dl, and git diff here instead
 #no, that's a stupid idea. just dont leave stuff behind
