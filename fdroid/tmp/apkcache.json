@@ -16596,5 +16596,333 @@
     "apkName": "tachiyomi-id.bacakomik-v1.2.1.apk",
     "icon": "eu.kanade.tachiyomi.extension.id.bacakomik.1.png",
     "added": 1587450246.315046
+  },
+  "eu.kanade.tachiyomi.az_vv8.4.9-AZ_8409.apk": {
+    "hash": "6d62924196349000aba9170364a70c38318d0e22044f29e1d631dcf847f6673f",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.REQUEST_DELETE_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "eu.kanade.tachiyomi.az.8409.xml",
+      "640": "eu.kanade.tachiyomi.az.8409.png",
+      "480": "eu.kanade.tachiyomi.az.8409.png",
+      "320": "eu.kanade.tachiyomi.az.8409.png",
+      "240": "eu.kanade.tachiyomi.az.8409.png",
+      "160": "eu.kanade.tachiyomi.az.8409.png",
+      "0": "eu.kanade.tachiyomi.az.8409.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.az",
+    "versionCode": 8409,
+    "name": "TachiyomiAZ",
+    "versionName": "v8.4.9-AZ",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 28,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86"
+    ],
+    "sig": "17a9272cf0980e407769c1b5608f4147",
+    "signer": "3891dee7e295dc0b1ad000838bdb81b5c67caeed2d0000c48568724fe4f35903",
+    "size": 25902302,
+    "apkName": "eu.kanade.tachiyomi.az_vv8.4.9-AZ_8409.apk",
+    "icon": "eu.kanade.tachiyomi.az.8409.png",
+    "added": 1587488695.12712
+  },
+  "eu.kanade.tachiyomi.az_vv8.4.9-AZ_8410.apk": {
+    "hash": "aee24db7ea5456c612eedf4010958dd4b0c89a7fce475c49432d8a65c7843b88",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.REQUEST_DELETE_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "eu.kanade.tachiyomi.az.8410.xml",
+      "640": "eu.kanade.tachiyomi.az.8410.png",
+      "480": "eu.kanade.tachiyomi.az.8410.png",
+      "320": "eu.kanade.tachiyomi.az.8410.png",
+      "240": "eu.kanade.tachiyomi.az.8410.png",
+      "160": "eu.kanade.tachiyomi.az.8410.png",
+      "0": "eu.kanade.tachiyomi.az.8410.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.az",
+    "versionCode": 8410,
+    "name": "TachiyomiAZ",
+    "versionName": "v8.4.9-AZ",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 28,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86"
+    ],
+    "sig": "17a9272cf0980e407769c1b5608f4147",
+    "signer": "3891dee7e295dc0b1ad000838bdb81b5c67caeed2d0000c48568724fe4f35903",
+    "size": 23719892,
+    "apkName": "eu.kanade.tachiyomi.az_vv8.4.9-AZ_8410.apk",
+    "icon": "eu.kanade.tachiyomi.az.8410.png",
+    "added": 1587488700.988017
+  },
+  "eu.kanade.tachiyomi.debug_v0.8.5-2092_42.apk": {
+    "hash": "689b034ec546a7b459f12d26477b6289e9a962fae4af406b58929d4769082d36",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.REQUEST_DELETE_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        null
+      ],
+      [
+        "android.permission.USE_BIOMETRIC",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "eu.kanade.tachiyomi.debug.42.xml",
+      "640": "eu.kanade.tachiyomi.debug.42.png",
+      "480": "eu.kanade.tachiyomi.debug.42.png",
+      "320": "eu.kanade.tachiyomi.debug.42.png",
+      "240": "eu.kanade.tachiyomi.debug.42.png",
+      "160": "eu.kanade.tachiyomi.debug.42.png",
+      "0": "eu.kanade.tachiyomi.debug.42.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.debug",
+    "versionCode": 42,
+    "name": "Tachiyomi",
+    "versionName": "0.8.5-2092",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86"
+    ],
+    "sig": "4f4d96b80ff4c7d9fcba199c677c7d3c",
+    "signer": "8d9c1b4e4c093bc5b50f045bb283b41c547f6ba0932265241e40ccb27e329095",
+    "size": 15239149,
+    "apkName": "eu.kanade.tachiyomi.debug_v0.8.5-2092_42.apk",
+    "icon": "eu.kanade.tachiyomi.debug.42.png",
+    "added": 1587488704.782032
   }
 }

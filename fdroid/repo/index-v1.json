@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1587425126000,
+    "timestamp": 1587463735000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -377,7 +377,7 @@
       "added": 347158862000,
       "icon": "eu.kanade.tachiyomi.debug.42.png",
       "packageName": "eu.kanade.tachiyomi.debug",
-      "lastUpdated": 347158862000
+      "lastUpdated": 1587463504000
     },
     {
       "antiFeatures": [
@@ -511,11 +511,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2147483647",
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: Bacakomik",
+      "name": "Tachiyomi: Bacakomik (ID)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Bacakomik Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1587425046000,
       "icon": "eu.kanade.tachiyomi.extension.id.bacakomik.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.bacakomik",
@@ -3650,6 +3654,32 @@
     {
       "antiFeatures": [
         "Tracking",
+        "UpstreamNonFree"
+      ],
+      "authorName": "az4521",
+      "categories": [
+        "Manga/Anime",
+        "Internet",
+        "Reading",
+        "Multimedia"
+      ],
+      "changelog": "https://github.com/az4521/TachiyomiAZ/releases",
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>Note: This app does not differentiate dev builds from stable with a different package name like Tachiyomi does. If you don't want dev builds, disable this app or check the <a href=\"https://github.com/az4521/TachiyomiAZ/releases/latest\">github releases page</a> before updating.</p><p>This fork is based off of TachiyomiEH, it has most features and fixes from Dev, as well as features from J2k. It has decided to keep the hamburger menu style of navigation, compared to the other forks that are moving to the new bottom navigation style.</p><p>=== Features ===</p><p>Special Sources (integrated plus added features)</p><ul><li> E-Hentai/ExHentai</li><li> nHentai</li><li> Hitomi.la</li><li> 8Muses</li><li> HBrowse</li><li> Perv Eden</li></ul><p>Delegated Sources (Sources with added features if installed)</p><ul><li> Puruin</li><li> Tsumino</li><li> HentaiCafe (Foolside)</li></ul><p>From EH:</p><ul><li> Save Searches for use later</li><li> AutoScroll</li><li> Boost Page (force redownload page)</li><li> Page download thread customization</li><li> Predownload the whole chapter while reading (Optional)</li><li> Retry immidently instead of wating for the rest of the preloaded pages to finish downloading</li><li> Customize image cache size (how much space Tachiyomi has available to store future pages)</li><li> Sync your favorites with your EHentai/ExHentai account</li><li> Batch import E-Hentai/ExHentai URLs (import single URLs by pasting them into the source search box)</li><li> Automatic CAPTCHA solving</li></ul><p>From EH and fixed/changed:</p><ul><li> Auto Migration (Originally from EH, it was then improved in J2k, and we have reintegrated the J2k version)</li><li> Merged Sources (Merge 2 or more versions of a manga to get chapters from all of them)</li><li> App and notification lock with fingerprint and PIN unlock</li><li> Restoring backups in the background</li><li> Fixed Tsumino and Hitomi</li><li> Language filtering search options for nHentai</li><li> Tri-state filter when filtering in library</li><li> Random bugfixes</li></ul><p>Original AZ Features:</p><ul><li> Grid view corner rounding configuration</li></ul>",
+      "issueTracker": "https://github.com/az4521/TachiyomiAZ/issues",
+      "license": "Apache-2.0",
+      "name": "TachiyomiAZ",
+      "sourceCode": "https://github.com/az4521/TachiyomiAZ",
+      "summary": "Tachiyomi fork with extra sources & features, hamburger menu",
+      "webSite": "https://crafty.moe/tachiAZ.htm",
+      "added": 1587463495000,
+      "icon": "eu.kanade.tachiyomi.az.8410.png",
+      "packageName": "eu.kanade.tachiyomi.az",
+      "lastUpdated": 1587463500000
+    },
+    {
+      "antiFeatures": [
+        "Tracking",
         "UpstreamNonFree",
         "NoSourceSince"
       ],
@@ -4117,11 +4147,102 @@
         "versionName": "0.8.5"
       }
     ],
+    "eu.kanade.tachiyomi.az": [
+      {
+        "added": 1587463500000,
+        "apkName": "eu.kanade.tachiyomi.az_vv8.4.9-AZ_8410.apk",
+        "hash": "aee24db7ea5456c612eedf4010958dd4b0c89a7fce475c49432d8a65c7843b88",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi.az",
+        "sig": "17a9272cf0980e407769c1b5608f4147",
+        "signer": "3891dee7e295dc0b1ad000838bdb81b5c67caeed2d0000c48568724fe4f35903",
+        "size": 23719892,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 8410,
+        "versionName": "v8.4.9-AZ"
+      }
+    ],
     "eu.kanade.tachiyomi.debug": [
       {
-        "added": 347158862000,
-        "apkName": "eu.kanade.tachiyomi.debug_v0.8.5-2024_42.apk",
-        "hash": "6f33ffb71552e0d54187b234c0a14bd5e08cd786b5b62de52540bb19cb8811dd",
+        "added": 1587463504000,
+        "apkName": "eu.kanade.tachiyomi.debug_v0.8.5-2092_42.apk",
+        "hash": "689b034ec546a7b459f12d26477b6289e9a962fae4af406b58929d4769082d36",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -4132,7 +4253,7 @@
         "packageName": "eu.kanade.tachiyomi.debug",
         "sig": "4f4d96b80ff4c7d9fcba199c677c7d3c",
         "signer": "8d9c1b4e4c093bc5b50f045bb283b41c547f6ba0932265241e40ccb27e329095",
-        "size": 17051100,
+        "size": 15239149,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -4188,11 +4309,11 @@
             null
           ],
           [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.google.android.c2dm.permission.RECEIVE",
             null
           ],
           [
-            "com.google.android.c2dm.permission.RECEIVE",
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
             null
           ],
           [
@@ -4201,7 +4322,7 @@
           ]
         ],
         "versionCode": 42,
-        "versionName": "0.8.5-2024"
+        "versionName": "0.8.5-2092"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.boommanga": [
