@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1588049365000,
+    "timestamp": 1588671134000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -221,9 +221,9 @@
       "summary": "Free, open source, unofficial MangaDex reader forked from Tachiyomi",
       "webSite": "https://github.com/CarlosEsco/Neko",
       "added": 1588049209000,
-      "icon": "tachiyomi.mangadex.50.png",
+      "icon": "tachiyomi.mangadex.55.png",
       "packageName": "tachiyomi.mangadex",
-      "lastUpdated": 1588049356000
+      "lastUpdated": 1588671018000
     },
     {
       "antiFeatures": [
@@ -246,9 +246,9 @@
       "summary": "Ranobe is an app to read and download light novels",
       "webSite": "https://cyberneticlifeform.wixsite.com/cylonu87/ranobe-lightnovel",
       "added": 1588049073000,
-      "icon": "net.cyl.ranobe.31.png",
+      "icon": "net.cyl.ranobe.33.png",
       "packageName": "net.cyl.ranobe",
-      "lastUpdated": 1588049250000
+      "lastUpdated": 1588670994000
     },
     {
       "antiFeatures": [
@@ -299,9 +299,9 @@
       "summary": "Jays2Kings fork of Tachiyomi, with multiple added features.",
       "webSite": "https://www.github.com/Jays2Kings/Tachiyomi",
       "added": 1588049054000,
-      "icon": "eu.kanade.tachiyomi.j2k.60.png",
+      "icon": "eu.kanade.tachiyomi.j2k.62.png",
       "packageName": "eu.kanade.tachiyomi.j2k",
-      "lastUpdated": 1588049231000,
+      "lastUpdated": 1588670989000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -335,9 +335,9 @@
       "summary": "Free and open source manga reader for Android",
       "webSite": "https://www.github.com/inorichi/Tachiyomi",
       "added": 1588049058000,
-      "icon": "eu.kanade.tachiyomi.41.png",
+      "icon": "eu.kanade.tachiyomi.42.png",
       "packageName": "eu.kanade.tachiyomi",
-      "lastUpdated": 1588049235000
+      "lastUpdated": 1588670992000
     },
     {
       "categories": [
@@ -438,6 +438,23 @@
       "icon": "eu.kanade.tachiyomi.extension.pt.centraldemangas.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.centraldemangas",
       "lastUpdated": 1588049327000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://com-x.life</li></ul>",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: ComX (RU)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi ComX Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1588049179000,
+      "icon": "eu.kanade.tachiyomi.extension.ru.comx.4.png",
+      "packageName": "eu.kanade.tachiyomi.extension.ru.comx",
+      "lastUpdated": 1588671012000
     },
     {
       "categories": [
@@ -585,9 +602,9 @@
       "summary": "Tachiyomi FMReader (multiple aggregators)",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1588049077000,
-      "icon": "eu.kanade.tachiyomi.extension.all.fmreader.9.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.fmreader.11.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.fmreader",
-      "lastUpdated": 1588049254000
+      "lastUpdated": 1588670996000
     },
     {
       "categories": [
@@ -602,9 +619,9 @@
       "summary": "Tachiyomi FoolSlide Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1588049078000,
-      "icon": "eu.kanade.tachiyomi.extension.all.foolslide.41.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.foolslide.44.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
-      "lastUpdated": 1588049257000
+      "lastUpdated": 1588670998000
     },
     {
       "categories": [
@@ -619,9 +636,9 @@
       "summary": "Tachiyomi Genkan (multiple sources) Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1588049079000,
-      "icon": "eu.kanade.tachiyomi.extension.all.genkan.16.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.genkan.17.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.genkan",
-      "lastUpdated": 1588049258000
+      "lastUpdated": 1588670998000
     },
     {
       "categories": [
@@ -719,9 +736,9 @@
       "summary": "Tachiyomi Hentai2Read Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1588049106000,
-      "icon": "eu.kanade.tachiyomi.extension.en.hentai2read.7.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.hentai2read.8.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
-      "lastUpdated": 1588049288000
+      "lastUpdated": 1588671005000
     },
     {
       "categories": [
@@ -879,6 +896,23 @@
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2147483647",
+      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://mangahide.com</li></ul>",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: JMana (KO)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi JMana Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1588049165000,
+      "icon": "eu.kanade.tachiyomi.extension.ko.jmana.9.png",
+      "packageName": "eu.kanade.tachiyomi.extension.ko.jmana",
+      "lastUpdated": 1588671010000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "2147483647",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://kissmanga.com</li><li> https://kissmanga.com/MangaList/LatestUpdate?page=$page</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -955,9 +989,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1588049081000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.80.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.86.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1588049263000
+      "lastUpdated": 1588671002000
     },
     {
       "categories": [
@@ -1006,9 +1040,9 @@
       "summary": "Tachiyomi Manga.ae Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1588049095000,
-      "icon": "eu.kanade.tachiyomi.extension.ar.mangaae.5.png",
+      "icon": "eu.kanade.tachiyomi.extension.ar.mangaae.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.ar.mangaae",
-      "lastUpdated": 1588049281000
+      "lastUpdated": 1588671004000
     },
     {
       "categories": [
@@ -1047,6 +1081,22 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
+      "suggestedVersionCode": "2",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: MangaDenizi (TR)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi MangaDenizi Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1588671013000,
+      "icon": "eu.kanade.tachiyomi.extension.tr.mangadenizi.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.tr.mangadenizi",
+      "lastUpdated": 1588671013000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
       "suggestedVersionCode": "2147483647",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://mangadex.org</li><li> https://cdndex.com</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
@@ -1056,9 +1106,9 @@
       "summary": "Tachiyomi MangaDex Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1588049084000,
-      "icon": "eu.kanade.tachiyomi.extension.all.mangadex.87.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.mangadex.88.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
-      "lastUpdated": 1588049266000
+      "lastUpdated": 1588671002000
     },
     {
       "categories": [
@@ -1175,9 +1225,9 @@
       "summary": "Tachiyomi Mangahub Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1588049115000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangahub.4.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangahub.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangahub",
-      "lastUpdated": 1588049296000
+      "lastUpdated": 1588671006000
     },
     {
       "categories": [
@@ -1258,9 +1308,9 @@
       "summary": "Tachiyomi MangaMx Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1588049140000,
-      "icon": "eu.kanade.tachiyomi.extension.es.mangamx.5.png",
+      "icon": "eu.kanade.tachiyomi.extension.es.mangamx.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.mangamx",
-      "lastUpdated": 1588049314000
+      "lastUpdated": 1588671009000
     },
     {
       "categories": [
@@ -2243,9 +2293,9 @@
       "summary": "Tachiyomi fork with extra sources & features, hamburger menu",
       "webSite": "https://crafty.moe/tachiAZ.htm",
       "added": 1588049042000,
-      "icon": "eu.kanade.tachiyomi.az.8409.png",
+      "icon": "eu.kanade.tachiyomi.az.8410.png",
       "packageName": "eu.kanade.tachiyomi.az",
-      "lastUpdated": 1588049048000
+      "lastUpdated": 1588670979000
     }
   ],
   "packages": {
@@ -2319,6 +2369,79 @@
     ],
     "eu.kanade.tachiyomi": [
       {
+        "added": 1588049058000,
+        "apkName": "eu.kanade.tachiyomi_v0.8.5_42.apk",
+        "hash": "31ceb528a719df0da14499083a8ef23e84eaba7be2367ad0823b2de9dab35a26",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 11702353,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "eu.kanade.tachiyomi.permission.C2D_MESSAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 42,
+        "versionName": "0.8.5"
+      },
+      {
         "added": 1588049235000,
         "apkName": "eu.kanade.tachiyomi_v0.8.4_41.apk",
         "hash": "df54662bf3e9cd4590717ca9fcbb9c14ac65f6eeffc72723b97eac9fe234ac2f",
@@ -2386,11 +2509,11 @@
     ],
     "eu.kanade.tachiyomi.az": [
       {
-        "added": 1588049042000,
-        "apkName": "eu.kanade.tachiyomi.az_vv8.4.9-AZ_8409.apk",
-        "hash": "6d62924196349000aba9170364a70c38318d0e22044f29e1d631dcf847f6673f",
+        "added": 1588049048000,
+        "apkName": "eu.kanade.tachiyomi.az_vv8.4.9-AZ_8410.apk",
+        "hash": "aee24db7ea5456c612eedf4010958dd4b0c89a7fce475c49432d8a65c7843b88",
         "hashType": "sha256",
-        "minSdkVersion": 16,
+        "minSdkVersion": 21,
         "nativecode": [
           "arm64-v8a",
           "armeabi-v7a",
@@ -2399,7 +2522,7 @@
         "packageName": "eu.kanade.tachiyomi.az",
         "sig": "17a9272cf0980e407769c1b5608f4147",
         "signer": "3891dee7e295dc0b1ad000838bdb81b5c67caeed2d0000c48568724fe4f35903",
-        "size": 25902302,
+        "size": 23719892,
         "targetSdkVersion": 28,
         "uses-permission": [
           [
@@ -2424,6 +2547,10 @@
           ],
           [
             "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
             null
           ],
           [
@@ -2467,7 +2594,7 @@
             null
           ]
         ],
-        "versionCode": 8409,
+        "versionCode": 8410,
         "versionName": "v8.4.9-AZ"
       },
       {
@@ -2811,6 +2938,91 @@
         ],
         "versionCode": 42,
         "versionName": "0.8.5-2092"
+      },
+      {
+        "added": 347158862000,
+        "apkName": "eu.kanade.tachiyomi.debug_v0.8.5-2101_42.apk",
+        "hash": "cb2444dfc5cabea024d938a49b7c67ff8e90ffb60f02a5bda8e647f721f8307e",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi.debug",
+        "sig": "4f4d96b80ff4c7d9fcba199c677c7d3c",
+        "signer": "8d9c1b4e4c093bc5b50f045bb283b41c547f6ba0932265241e40ccb27e329095",
+        "size": 15240203,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 42,
+        "versionName": "0.8.5-2101"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.boommanga": [
@@ -2870,6 +3082,40 @@
     ],
     "eu.kanade.tachiyomi.extension.all.fmreader": [
       {
+        "added": 1588670995000,
+        "apkName": "tachiyomi-all.fmreader-v1.2.11.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "7ec265fad77c4aede77d5448ddcce5f39c015ade7c0c9bafba1b4afa6ef06f6e",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.fmreader",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66452,
+        "targetSdkVersion": 27,
+        "versionCode": 11,
+        "versionName": "1.2.11"
+      },
+      {
+        "added": 1588049077000,
+        "apkName": "tachiyomi-all.fmreader-v1.2.10.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "b284261d92926f7b6d941cc5c66bcb1576ea3068cd5334d879ca733e71fa80a3",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.fmreader",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 62356,
+        "targetSdkVersion": 27,
+        "versionCode": 10,
+        "versionName": "1.2.10"
+      },
+      {
         "added": 1588049254000,
         "apkName": "tachiyomi-all.fmreader-v1.2.9.apk",
         "features": [
@@ -2922,6 +3168,57 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.foolslide": [
+      {
+        "added": 1588670997000,
+        "apkName": "tachiyomi-all.foolslide-v1.2.44.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "21ba0669269d602ddb9d2cc3bfe21cb41eb3bea432aa29278dbe0dafde491f31",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50069,
+        "targetSdkVersion": 27,
+        "versionCode": 44,
+        "versionName": "1.2.44"
+      },
+      {
+        "added": 1588670996000,
+        "apkName": "tachiyomi-all.foolslide-v1.2.43.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "4a1bd8feda25cde6493b48e862c13c817a24a841344f121c8a6f36967db3c8d3",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 45973,
+        "targetSdkVersion": 27,
+        "versionCode": 43,
+        "versionName": "1.2.43"
+      },
+      {
+        "added": 1588049078000,
+        "apkName": "tachiyomi-all.foolslide-v1.2.42.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "f7e57bb91ec34295a220b887920732b4b02bd7dd251a9bbbf436019293bc8912",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.foolslide",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 45973,
+        "targetSdkVersion": 27,
+        "versionCode": 42,
+        "versionName": "1.2.42"
+      },
       {
         "added": 1588049078000,
         "apkName": "tachiyomi-all.foolslide-v1.2.41.apk",
@@ -3027,6 +3324,23 @@
     ],
     "eu.kanade.tachiyomi.extension.all.genkan": [
       {
+        "added": 1588049079000,
+        "apkName": "tachiyomi-all.genkan-v1.2.17.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "378eaa2e506f676fc4afc46e8180d349cc29c2a3df99ab5864e2dc7f8963b11d",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.genkan",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 45970,
+        "targetSdkVersion": 27,
+        "versionCode": 17,
+        "versionName": "1.2.17"
+      },
+      {
         "added": 1588049258000,
         "apkName": "tachiyomi-all.genkan-v1.2.16.apk",
         "features": [
@@ -3064,6 +3378,91 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
+      {
+        "added": 1588671001000,
+        "apkName": "tachiyomi-all.madara-v1.2.86.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "36fbc729bc35397be062a8cab15881f043a8a8b2be22f12672eb41cbaa29aea1",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66450,
+        "targetSdkVersion": 27,
+        "versionCode": 86,
+        "versionName": "1.2.86"
+      },
+      {
+        "added": 1588671000000,
+        "apkName": "tachiyomi-all.madara-v1.2.84.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "f6a1b2ef485a82af6ba044ce64b2268c67830f757d33460a2611c1f2f347e9cf",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66450,
+        "targetSdkVersion": 27,
+        "versionCode": 84,
+        "versionName": "1.2.84"
+      },
+      {
+        "added": 1588671000000,
+        "apkName": "tachiyomi-all.madara-v1.2.83.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "d4f998ded2ae6b6f242ea2a61fff8027b3f312993c447a763304d83323acff31",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66450,
+        "targetSdkVersion": 27,
+        "versionCode": 83,
+        "versionName": "1.2.83"
+      },
+      {
+        "added": 1588670999000,
+        "apkName": "tachiyomi-all.madara-v1.2.82.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "e01ba31f9a6f9892d11aa02c4587c7f1445f92f66d7e827c6583f617ba7c7a6f",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66450,
+        "targetSdkVersion": 27,
+        "versionCode": 82,
+        "versionName": "1.2.82"
+      },
+      {
+        "added": 1588049082000,
+        "apkName": "tachiyomi-all.madara-v1.2.81.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "b03a67c61d70df76bad55e5f07b83d78ab3d7ebd556fb7650290c89d89d28b77",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 62354,
+        "targetSdkVersion": 27,
+        "versionCode": 81,
+        "versionName": "1.2.81"
+      },
       {
         "added": 1588049081000,
         "apkName": "tachiyomi-all.madara-v1.2.80.apk",
@@ -3257,6 +3656,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangadex": [
+      {
+        "added": 1588049084000,
+        "apkName": "tachiyomi-all.mangadex-v1.2.88.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "dc2f51ace84bc11e76b5c933e4a722b45a952d771cc73e568ef59fb3c652ed96",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 74734,
+        "targetSdkVersion": 27,
+        "versionCode": 88,
+        "versionName": "1.2.88"
+      },
       {
         "added": 1588049266000,
         "apkName": "tachiyomi-all.mangadex-v1.2.87.apk",
@@ -3658,6 +4074,23 @@
     ],
     "eu.kanade.tachiyomi.extension.ar.mangaae": [
       {
+        "added": 1588049095000,
+        "apkName": "tachiyomi-ar.mangaae-v1.2.6.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "9ae555ec3946e81e26d39d94da98c1e29d619d06891d4ba2e502588e574407f5",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ar.mangaae",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 33771,
+        "targetSdkVersion": 27,
+        "versionCode": 6,
+        "versionName": "1.2.6"
+      },
+      {
         "added": 1588049281000,
         "apkName": "tachiyomi-ar.mangaae-v1.2.5.apk",
         "features": [
@@ -3826,6 +4259,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.hentai2read": [
+      {
+        "added": 1588049106000,
+        "apkName": "tachiyomi-en.hentai2read-v1.2.8.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "29be825f065204a96c5ec7931982006f17c8e6fc795620e44db636d7657bc040",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 70549,
+        "targetSdkVersion": 27,
+        "versionCode": 8,
+        "versionName": "1.2.8"
+      },
       {
         "added": 1588049288000,
         "apkName": "tachiyomi-en.hentai2read-v1.2.7.apk",
@@ -4099,6 +4549,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangahub": [
+      {
+        "added": 1588049115000,
+        "apkName": "tachiyomi-en.mangahub-v1.2.5.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "84300ab80e6f29b91a3aa1280c435b181ff05b0cfeab5107feab54efcee4ea90",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangahub",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 45970,
+        "targetSdkVersion": 27,
+        "versionCode": 5,
+        "versionName": "1.2.5"
+      },
       {
         "added": 1588049296000,
         "apkName": "tachiyomi-en.mangahub-v1.2.4.apk",
@@ -4571,6 +5038,23 @@
     ],
     "eu.kanade.tachiyomi.extension.es.mangamx": [
       {
+        "added": 1588049140000,
+        "apkName": "tachiyomi-es.mangamx-v1.2.6.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "e3575997aae3967c0c7bf986208026ab1408ed3d26eaa721d1488cb16c0801b4",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.es.mangamx",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 41873,
+        "targetSdkVersion": 27,
+        "versionCode": 6,
+        "versionName": "1.2.6"
+      },
+      {
         "added": 1588049314000,
         "apkName": "tachiyomi-es.mangamx-v1.2.5.apk",
         "features": [
@@ -4890,6 +5374,25 @@
         "versionName": "1.2.3"
       }
     ],
+    "eu.kanade.tachiyomi.extension.ko.jmana": [
+      {
+        "added": 1588049165000,
+        "apkName": "tachiyomi-ko.jmana-v1.2.9.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "9d88a59bb606a16a73f4cffaa94335888f580d2b17aef44937571e20b8a8b4c1",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ko.jmana",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 95119,
+        "targetSdkVersion": 27,
+        "versionCode": 9,
+        "versionName": "1.2.9"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.ko.mangashowme": [
       {
         "added": 1588049325000,
@@ -5173,6 +5676,25 @@
         "versionName": "1.2.1"
       }
     ],
+    "eu.kanade.tachiyomi.extension.ru.comx": [
+      {
+        "added": 1588049179000,
+        "apkName": "tachiyomi-ru.comx-v1.2.4.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "62032c4793d6bbbfdd6323c9b12c09aeda6095eb35a91b98ad7f685beb0e312b",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ru.comx",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 33768,
+        "targetSdkVersion": 27,
+        "versionCode": 4,
+        "versionName": "1.2.4"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.ru.desu": [
       {
         "added": 1588049337000,
@@ -5358,6 +5880,25 @@
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 74642,
+        "targetSdkVersion": 27,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.tr.mangadenizi": [
+      {
+        "added": 1588671013000,
+        "apkName": "tachiyomi-tr.mangadenizi-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "287a34f8d287577195aefff07cbf86f864ac648a8ff025a1e5a57ac94d1f2e53",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.tr.mangadenizi",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 45973,
         "targetSdkVersion": 27,
         "versionCode": 1,
         "versionName": "1.2.1"
@@ -5554,6 +6095,180 @@
       }
     ],
     "eu.kanade.tachiyomi.j2k": [
+      {
+        "added": 1588670986000,
+        "apkName": "eu.kanade.tachiyomi.j2k_v1.0.1_62.apk",
+        "hash": "e49580d4af3dc9bee64ddde4fa85e59d85849a8a311a47e1a4a9693822b0d73e",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi.j2k",
+        "sig": "ee6e9de8e7354d0e52acd44f225bb5bb",
+        "signer": "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8",
+        "size": 18212089,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 62,
+        "versionName": "1.0.1"
+      },
+      {
+        "added": 1588049054000,
+        "apkName": "eu.kanade.tachiyomi.j2k_v0.9.82_61.apk",
+        "hash": "b30cdb545cbe8fdbe620f22a7ed0e39c561c3c3fc446b88018f12821eb314213",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi.j2k",
+        "sig": "ee6e9de8e7354d0e52acd44f225bb5bb",
+        "signer": "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8",
+        "size": 13839802,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 61,
+        "versionName": "0.9.82"
+      },
       {
         "added": 1588049231000,
         "apkName": "eu.kanade.tachiyomi.j2k_v0.9.81_60.apk",
@@ -6130,6 +6845,81 @@
     ],
     "net.cyl.ranobe": [
       {
+        "added": 1588049073000,
+        "apkName": "net.cyl.ranobe_v3.1.1_33.apk",
+        "features": [
+          "android.hardware.touchscreen"
+        ],
+        "hash": "5b6f648010470c9a8b66f08f912154452fe805391f5b86a3c2badcc15f2e24d0",
+        "hashType": "sha256",
+        "minSdkVersion": 19,
+        "packageName": "net.cyl.ranobe",
+        "sig": "7bfa959fb9b2201371a7b1f06f6522d2",
+        "signer": "5f23c91ae02300b1973179d93677ee510d692a15e206b6358a139e8dadb6b1d6",
+        "size": 4722743,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.READ_LOGS",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 33,
+        "versionName": "3.1.1"
+      },
+      {
         "added": 1588049250000,
         "apkName": "net.cyl.ranobe_v3.0.0_31.apk",
         "features": [
@@ -6206,6 +6996,172 @@
       }
     ],
     "tachiyomi.mangadex": [
+      {
+        "added": 1588671016000,
+        "apkName": "tachiyomi.mangadex_v2.0.2_55.apk",
+        "hash": "8f73bf9a45540914d1d0bf10e789c339d13339fbcc72dbd42215b9a9d1a597ad",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "tachiyomi.mangadex",
+        "sig": "81688c90989dcd70e06a3951a90e102c",
+        "signer": "126b1f50861b46c7075bb9fb5210da82c34e417e6d8bc4df2e32313cb421d18c",
+        "size": 16767258,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 55,
+        "versionName": "2.0.2"
+      },
+      {
+        "added": 1588049209000,
+        "apkName": "tachiyomi.mangadex_v1.7.2_51.apk",
+        "hash": "f6ba1c7689a1ef88b3be99df579da7912b99815722f16c99c26ddd2461b7a66b",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "tachiyomi.mangadex",
+        "sig": "81688c90989dcd70e06a3951a90e102c",
+        "signer": "126b1f50861b46c7075bb9fb5210da82c34e417e6d8bc4df2e32313cb421d18c",
+        "size": 13661941,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 51,
+        "versionName": "1.7.2"
+      },
       {
         "added": 1588049356000,
         "apkName": "tachiyomi.mangadex_v1.7.1_50.apk",
