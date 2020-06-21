@@ -9,6 +9,10 @@ cd /home/efreak/fdroidserver/fdroid/repo
 
 predl="$(ls)"
 
+echo Checking/Downloading tachi sy fork
+curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/jobobby04/TachiyomiSYPreview/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output sy.apk
+mv -n sy.apk $(aapt dump badging sy.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+
 echo Checking/Downloading tachi az fork
 curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/az4521/TachiyomiAZ/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output az.apk
 mv -n az.apk $(aapt dump badging az.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
